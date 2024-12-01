@@ -2,7 +2,7 @@ import csv
 from bs4 import BeautifulSoup
 
 # Path to your saved HTML file
-html_file_path = "./eksamendatoer_kunst.html"  # Correctly use the path as a string
+html_file_path = "./eksamensdatoer_NT.html"  # Adjust the file path if needed
 
 # Load the HTML source code from the file
 with open(html_file_path, "r", encoding="utf-8") as file:
@@ -25,23 +25,23 @@ for card in exam_cards:
     exam_type = card.find('h6', class_='card-subtitle')
     exam_type = exam_type.text.strip() if exam_type else "N/A"
     
-    # Extract date and time
-    date_div = card.find('div', string=lambda x: x and x.startswith('Dato:'))
-    date_info = date_div.string.strip().replace('Dato: ', '') if date_div else "N/A"
+    # Extract dates (can include multiple lines for multi-date exams)
+    date_lines = card.find_all('div', string=lambda x: x and ('Dato:' in x or 'Utlevering:' in x or 'Innlevering:' in x or 'Fra' in x))
+    dates_info = [line.string.strip() for line in date_lines]
     
-    # Extract room info
-    room_div = card.find('div', class_='romListe py-2')
-    room_info = room_div.text.strip() if room_div else "N/A"
+    # Extract room info (if applicable)
+    room_divs = card.find_all('div', class_='romListe py-2')
+    room_info = "\n".join(div.text.strip() for div in room_divs) if room_divs else "N/A"
     
     # Append data
-    data.append([course_code, exam_type, date_info, room_info])
+    data.append([course_code, exam_type, "\n".join(dates_info), room_info])
 
 # Save to CSV
-csv_file_path = "exam_data_kunst.csv"
+csv_file_path = "eksamensdatoer_NT_mutliple.csv"
 with open(csv_file_path, "w", encoding="utf-8", newline="") as csvfile:
     writer = csv.writer(csvfile)
     # Write the header
-    writer.writerow(["Course Code", "Exam Type", "Date & Time", "Room Info"])
+    writer.writerow(["Course Code", "Exam Type", "Date(s)", "Room Info"])
     # Write the data rows
     writer.writerows(data)
 
