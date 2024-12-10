@@ -1,0 +1,2288 @@
+course_code,exam_type,start_time,end_time,location
+ALI-1110,Hjemmeeksamen,2024-11-19 09:00:00,2024-11-21 13:00:00,N/A
+ALI-1111,Hjemmeeksamen,2025-05-13 09:00:00,2025-05-15 13:00:00,N/A
+ALI-1120,Hjemmeeksamen,2024-12-02 09:00:00,2024-12-04 13:00:00,N/A
+ALI-1130,Hjemmeeksamen,2024-11-26 09:00:00,2024-11-28 13:00:00,N/A
+ARK-1006,Mappevurdering,2025-05-23 14:00:00,,N/A
+ARK-1007,Hjemmeeksamen,2024-11-18 09:00:00,2024-12-02 14:00:00,N/A
+ARK-1012,Mappevurdering,2025-05-07 14:00:00,,N/A
+ARK-1013,Hjemmeeksamen,2024-11-22 09:00:00,2024-11-29 14:00:00,N/A
+ARK-1015,Hjemmeeksamen,2025-03-14 14:00:00,,N/A
+ARK-1020,Hjemmeeksamen,2025-06-13 14:00:00,,N/A
+ARK-1021,Hjemmeeksamen,2025-06-16 09:00:00,2025-06-30 14:00:00,N/A
+ARK-1036,Mappevurdering,2025-05-19 14:00:00,,N/A
+ARK-2023,Mappevurdering,2025-05-19 14:00:00,,N/A
+ARK-2027,Oppgave,2025-05-19 14:00:00,,N/A
+ARK-2034,Hjemmeeksamen,2025-04-22 09:00:00,2025-05-06 14:00:00,N/A
+ARK-3014,Oppgave,2025-05-19 09:00:00,2025-05-26 14:00:00,N/A
+ARK-3021,Hjemmeeksamen,2025-05-15 14:00:00,,N/A
+ARK-3026,Muntlig_eksamen,2024-12-03 00:00:00,2024-12-04 00:00:00,N/A
+ARK-3026,Oppgave,2024-11-20 09:00:00,2024-11-27 14:00:00,N/A
+ARK-3900,Oppgave,2025-05-15 14:00:00,,N/A
+BLU-1004,Hjemmeeksamen,2025-05-05 09:00:00,2025-05-09 14:00:00,N/A
+BLU-1014,Hjemmeeksamen,2025-05-05 09:00:00,2025-05-09 14:00:00,N/A
+BLU-1024,Hjemmeeksamen,2024-11-25 09:00:00,2024-11-29 14:00:00,N/A
+BLU-1208,Hjemmeeksamen,2025-05-05 09:00:00,2025-05-09 14:00:00,N/A
+BLU-1213,Skriftlig_skoleeksamen,2024-12-12 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-3) Del 3
+BLU-1215,Hjemmeeksamen,2025-06-03 09:00:00,2025-06-05 13:00:00,N/A
+BLU-1218,Hjemmeeksamen,2025-05-05 09:00:00,2025-05-09 14:00:00,N/A
+BLU-1223,Skriftlig_skoleeksamen,2024-12-12 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-3) Del 3
+BLU-1228,Hjemmeeksamen,2025-03-03 09:00:00,2025-03-07 14:00:00,N/A
+BLU-1238,Hjemmeeksamen,2025-05-05 09:00:00,2025-05-09 14:00:00,N/A
+BLU-1243,Skriftlig_skoleeksamen,2024-12-12 09:00:00,,(HARSTAD): Havnegata 5-7 – 112 Undervisningsrom 2
+BLU-2000,Oppgave,2025-05-15 14:00:00,,N/A
+BLU-2003,Oppgave,2025-05-16 14:00:00,,N/A
+BLU-2012,Hjemmeeksamen,2024-12-09 09:00:00,2024-12-13 14:00:00,N/A
+BLU-2013,Muntlig_eksamen,2024-12-09 00:00:00,2024-12-12 00:00:00,N/A
+BLU-2017,Muntlig_eksamen,2024-12-09 00:00:00,2024-12-12 00:00:00,N/A
+BLU-2021,Hjemmeeksamen,2024-12-09 09:00:00,2024-12-11 14:00:00,N/A
+BNS-1040,Off_campus_exam,2024-11-18 09:00:00,2024-11-22 14:00:00,N/A
+BVE-1051,Skriftlig_skoleeksamen,2024-11-28 09:00:00,,"(ALTA): Campus Alta Byggetrinn 2 – Rom 2107, Seminarrom (Alta)
+(ALTA): Campus Alta Byggetrinn 2 – Rom 2108, Seminarrom (Alta)"
+BVE-1052,Skriftlig_skoleeksamen,2024-12-11 09:00:00,,"(ALTA): Campus Alta Byggetrinn 3 – Rom A102, Kultursalen (Alta)"
+BVE-1111,Hjemmeeksamen,2024-12-10 09:00:00,2024-12-12 09:00:00,N/A
+BVE-1112,Muntlig_eksamen,2025-06-02 00:00:00,2025-06-04 00:00:00,N/A
+BVE-1113,Oppgave,2024-12-12 14:00:00,,N/A
+BVE-1114,Muntlig_eksamen,2025-06-04 00:00:00,2025-06-06 00:00:00,N/A
+BVE-1551,Skriftlig_skoleeksamen,2024-11-28 09:00:00,,(HARSTAD): Havnegata 5-7 – Undervisningsrom 7
+BVE-1552,Skriftlig_skoleeksamen,2024-12-11 09:00:00,,"(HARSTAD): Havnegata 5-7 – Undervisningsrom 6
+(HARSTAD): Havnegata 5-7 – Undervisningsrom 7"
+BVE-1611,Hjemmeeksamen,2024-12-10 09:00:00,2024-12-12 09:00:00,N/A
+BVE-1612,Muntlig_eksamen,2025-06-02 00:00:00,2025-06-04 00:00:00,N/A
+BVE-1613,Oppgave,2024-12-12 14:00:00,,N/A
+BVE-1614,Muntlig_eksamen,2025-06-04 00:00:00,2025-06-06 00:00:00,N/A
+BVE-2161,Hjemmeeksamen,2025-02-18 09:00:00,2025-02-20 13:00:00,N/A
+BVE-2162,Muntlig_eksamen,2025-06-10 00:00:00,2025-06-13 00:00:00,N/A
+BVE-2162,Oppgave,2025-05-14 14:00:00,,N/A
+BVE-2562,Bacheloroppgave,2025-05-14 14:00:00,,N/A
+BVE-2661,Hjemmeeksamen,2025-02-18 09:00:00,2025-02-20 13:00:00,N/A
+BVE-2662,Muntlig_eksamen,2025-06-10 00:00:00,2025-06-13 00:00:00,N/A
+BVE-2662,Oppgave,2025-05-14 14:00:00,,N/A
+BVE-3010,Hjemmeeksamen,2025-01-15 09:00:00,2025-01-17 09:00:00,N/A
+BVE-3020,Hjemmeeksamen,2024-12-10 09:00:00,2024-12-12 09:00:00,N/A
+BVE-3020,Skriftlig_skoleeksamen,2024-12-04 09:00:00,,(HARSTAD): Havnegata 5-7 – Undervisningsrom 1
+BVE-3030,Hjemmeeksamen,2025-03-10 09:00:00,2025-03-14 13:00:00,N/A
+BVE-3060,Muntlig_eksamen,2024-12-11 00:00:00,2024-12-12 00:00:00,N/A
+BVE-3970,Oppgave,2025-05-15 14:00:00,,N/A
+BVEX6,Hjemmeeksamen,2025-05-14 14:00:00,,N/A
+BVEX6,Muntlig_eksamen,2025-06-10 00:00:00,2025-06-13 00:00:00,N/A
+ENG-1005,Skriftlig_skoleeksamen,2024-11-22 09:00:00,,"(TROMSO): Teorifagbygget hus 3 – Rom 3.203, bibliotek (Tromsø)"
+ENG-1014,Portfolio,2024-12-06 09:00:00,2024-12-13 14:00:00,N/A
+ENG-1014,Portfolio,2025-05-15 14:00:00,,N/A
+ENG-1016,Off_campus_exam,2025-06-02 09:00:00,2025-06-02 13:00:00,N/A
+ENG-1110,School_exam,2025-05-06 09:00:00,,(TROMSO): Administrasjonsbygget – K1.04 Eksamensrom (Tromsø)
+ENG-1120,School_exam,2024-11-26 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-3) Del 3
+ENG-1122,School_exam,2024-12-03 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-3) Del 3
+ENG-2050,School_exam,2024-12-04 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-1) Del 1
+ENG-2050,School_exam,2025-06-03 09:00:00,,(TROMSO): Administrasjonsbygget – B154 Eksamensrom (Tromsø)
+ENG-2106,Off_campus_exam,2024-12-06 09:00:00,2024-12-13 14:00:00,N/A
+ENG-2129,School_exam,2025-05-22 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-3) Del 3
+ENG-2950,Oppgave,2025-05-15 14:00:00,,N/A
+ENG-2951,Oppgave,2025-05-15 14:00:00,,N/A
+ENG-2980,Oppgave,2025-05-15 14:00:00,,N/A
+ENG-2981,Oppgave,2025-05-15 14:00:00,,N/A
+ENG-3050,Assignment,2024-11-27 14:00:00,,N/A
+ENG-3051,Assignment,2024-11-27 14:00:00,,N/A
+ENG-3060,Assignment,2025-04-24 14:00:00,,N/A
+ENG-3070,Assignment,2024-12-13 14:00:00,,N/A
+ENG-3105,Assignment,2025-04-30 14:00:00,,N/A
+ENG-3114,Assignment,2024-12-11 14:00:00,,N/A
+ENG-3122,Assignment,2025-05-07 14:00:00,,N/A
+ENG-3130,Assignment,2024-12-09 14:00:00,,N/A
+ENG-3192,Assignment,2024-12-04 14:00:00,,N/A
+ENG-3197,Portfolio,2025-05-21 14:00:00,,N/A
+ENG-3982,Oppgave,2025-05-15 14:00:00,,N/A
+ENG-3983,Oppgave,2025-05-15 14:00:00,,N/A
+ENG-3991,Assignment,2025-05-15 14:00:00,,N/A
+ENG-3992,Assignment,2025-05-15 14:00:00,,N/A
+EXF-0712,Hjemmeeksamen,2024-12-05 09:00:00,2024-12-05 14:00:00,N/A
+EXF-0712,Hjemmeeksamen,2025-05-02 09:00:00,2025-05-02 14:00:00,N/A
+EXF-0714,Skriftlig_skoleeksamen,2024-12-05 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-1) Del 1
+FIL-0700,Muntlig_eksamen,2024-11-18 00:00:00,2024-11-29 00:00:00,N/A
+FIL-0700,Muntlig_eksamen,2025-05-19 00:00:00,2025-05-30 00:00:00,N/A
+FIL-0700,Oppgave,2025-05-06 14:00:00,,N/A
+FIL-0700,Obligatorisk_frammøte_på_undervisning,2024-11-18 00:00:00,2024-11-29 00:00:00,N/A
+FIL-0702,Hjemmeeksamen,2025-04-23 09:00:00,2025-04-23 14:00:00,N/A
+FIL-0702,Oppgave,2024-12-05 14:00:00,,N/A
+FIL-0702,Oppgave,2025-06-05 14:00:00,,N/A
+FIL-1021,Skriftlig_skoleeksamen,2024-12-12 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-3) Del 3
+FIL-1022,Skriftlig_skoleeksamen,2025-06-12 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-1) Del 1
+FIL-1024,Oppgave,2025-05-21 14:00:00,,N/A
+FIL-1025,Oppgave,2024-11-20 14:00:00,,N/A
+FIL-1025,Skriftlig_skoleeksamen,2024-12-05 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-3) Del 3
+FIL-1026,Oppgave,2024-11-25 14:00:00,,N/A
+FIL-1026,Skriftlig_skoleeksamen,2024-12-12 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-3) Del 3
+FIL-1028,Oppgave,2024-12-02 14:00:00,,N/A
+FIL-1028,Skriftlig_skoleeksamen,2024-12-10 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-3) Del 3
+FIL-2031,Oppgave,2025-05-30 14:00:00,,N/A
+FIL-2034,Oppgave,2024-11-29 14:00:00,,N/A
+FIL-2034,Muntlig_eksamen,2024-12-16 08:30:00,,"(TROMSO): Teorifagbygget hus 1 – Rom 1.323, undervisning"
+FIL-2036,Hjemmeeksamen,2025-04-29 09:00:00,2025-05-14 14:00:00,N/A
+FIL-2039,Oppgave,2025-05-20 14:00:00,,N/A
+FIL-2040,Skriftlig_skoleeksamen,2024-12-03 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-1) Del 1
+FIL-2041,Muntlig_eksamen,2024-12-10 08:30:00,,"(TROMSO): Teorifagbygget hus 1 – Rom 1.323, undervisning"
+FIL-2041,Oppgave,2024-11-22 14:00:00,,N/A
+FIL-2060,Oppgave,2024-11-25 14:00:00,,N/A
+FIL-2060,Oppgave,2025-05-26 14:00:00,,N/A
+FIL-2060,Muntlig_eksamen,2024-12-09 09:00:00,,N/A
+FIL-3007,Oppgave,2024-11-21 14:00:00,,N/A
+FIL-3010,Oppgave,2025-05-20 14:00:00,,N/A
+FIL-3017,Oppgave,2024-11-26 14:00:00,,N/A
+FIL-3018,Oppgave,2025-05-27 14:00:00,,N/A
+FIL-3023,Oppgave,2025-06-03 14:00:00,,N/A
+FIL-3024,Oppgave,2024-11-29 14:00:00,,N/A
+FIL-3900,Oppgave,2025-05-15 14:00:00,,N/A
+FIL-3900,Muntlig_eksamen,2024-11-20 11:00:00,,N/A
+FIN-1021,Muntlig_eksamen,2024-12-02 12:00:00,,(TROMSO): Teorifagbygget hus 1 – Plan 2 rom til bruk for eksamen
+FIN-1021,Skriftlig_skoleeksamen,2024-11-22 09:00:00,,"(TROMSO): Teorifagbygget hus 3 – Rom 3.218, lesesal (Tromsø)"
+FIN-2021,Hjemmeeksamen,2025-05-16 09:00:00,2025-05-23 14:00:00,N/A
+FIN-2110,Hjemmeeksamen,2025-05-05 09:00:00,2025-05-12 14:00:00,N/A
+FIN-2950,Oppgave,2025-05-15 14:00:00,,N/A
+FIN-3900,Oppgave,2025-05-15 14:00:00,,N/A
+GLU-2000,Oppgave,2025-05-13 14:00:00,,N/A
+HIF-1110,Hjemmeeksamen,2025-05-06 09:00:00,2025-05-08 13:00:00,N/A
+HIF-1111,Hjemmeeksamen,2025-04-23 09:00:00,2025-04-25 13:00:00,N/A
+HIF-2043,Oppgave,2025-06-06 14:00:00,,N/A
+HIF-2055,Hjemmeeksamen,2024-12-11 09:00:00,2024-12-18 14:00:00,N/A
+HIF-2110,Oppgave,2025-05-22 14:00:00,,N/A
+HIF-2151,Hjemmeeksamen,2024-11-15 09:00:00,2024-11-22 14:00:00,N/A
+HIF-2160,Hjemmeeksamen,2025-04-23 09:00:00,2025-04-30 14:00:00,N/A
+HIF-2300,Hjemmeeksamen,2024-11-18 09:00:00,2024-11-25 14:00:00,N/A
+HIF-3010,Assignment,2024-12-11 14:00:00,,N/A
+HIF-3011,Assignment,2025-05-19 14:00:00,,N/A
+HIF-3021,Assignment,2025-05-26 14:00:00,,N/A
+HIF-3022,Off_campus_exam,2024-12-02 09:00:00,2024-12-09 14:00:00,N/A
+HIF-3082,Assignment,2025-05-28 14:00:00,,N/A
+HIF-3111,Assignment,2025-05-15 14:00:00,,N/A
+HIF-3211,Portfolio,2025-06-03 14:00:00,,N/A
+HIF-3301,Hjemmeeksamen,2024-11-22 09:00:00,2024-11-29 14:00:00,N/A
+HIF-3620,School_exam,2024-11-27 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-3) Del 3
+HIF-6002,Mappevurdering,2024-12-16 14:00:00,,N/A
+HIS-1010,Skriftlig_skoleeksamen,2025-05-13 09:00:00,,(TROMSO): Administrasjonsbygget – K1.04 Eksamensrom (Tromsø)
+HIS-1023,Hjemmeeksamen,2024-11-22 09:00:00,2024-11-22 15:00:00,N/A
+HIS-1025,Skriftlig_skoleeksamen,2025-05-23 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-3) Del 3
+HIS-1111,Off_campus_exam,2024-11-12 09:00:00,2024-11-19 14:00:00,N/A
+HIS-1201,Skriftlig_skoleeksamen,2024-12-03 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-3) Del 3
+HIS-1202,Skriftlig_skoleeksamen,2025-05-16 09:00:00,,(TROMSO): Administrasjonsbygget – B154 Eksamensrom (Tromsø)
+HIS-2009,Hjemmeeksamen,2025-05-26 09:00:00,2025-06-03 14:00:00,N/A
+HIS-2010,Oppgave,2025-05-15 14:00:00,,N/A
+HIS-2019,School_exam,2025-04-30 09:00:00,,(TROMSO): Administrasjonsbygget – K1.04 Eksamensrom (Tromsø)
+HIS-2022,Oppgave,2025-05-15 14:00:00,,N/A
+HIS-3001,Oppgave,2024-11-29 14:00:00,,N/A
+HIS-3003,Hjemmeeksamen,2024-11-15 09:00:00,2024-11-22 14:00:00,N/A
+HIS-3005,School_exam,2024-12-03 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-3) Del 3
+HIS-3008,Hjemmeeksamen,2025-03-28 09:00:00,2025-04-11 15:00:00,N/A
+HIS-3023,Hjemmeeksamen,2024-11-21 09:00:00,2024-11-28 14:00:00,N/A
+HIS-3900,Oppgave,2025-05-15 14:00:00,,N/A
+HIS-3980,Oppgave,2025-05-15 14:00:00,,N/A
+IND-3012,Off_campus_exam,2024-12-13 14:00:00,,N/A
+IND-3025,Off_campus_exam,2024-11-13 09:00:00,2024-11-20 14:00:00,N/A
+IND-3026,Assignment,2025-04-07 14:00:00,,N/A
+IND-3902,Assignment,2025-05-15 14:00:00,,N/A
+IND-3904,Assignment,2025-05-15 14:00:00,,N/A
+KVE-1008,Hjemmeeksamen,2024-12-02 09:00:00,2024-12-09 14:00:00,N/A
+KVE-1008,Muntlig_eksamen,2024-11-22 09:00:00,,N/A
+KVE-2021,Hjemmeeksamen,2025-05-05 09:00:00,2025-05-06 13:00:00,N/A
+KVE-2110,Oppgave,2025-05-12 14:00:00,,N/A
+KVE-2950,Oppgave,2025-06-02 14:00:00,,N/A
+KVE-3900,Oppgave,2025-05-15 14:00:00,,N/A
+KVF-3010,Hjemmeeksamen,2024-12-04 09:00:00,2024-12-11 14:00:00,N/A
+KVF-3017,Hjemmeeksamen,2025-05-22 09:00:00,2025-05-30 14:00:00,N/A
+KVF-3110,Hjemmeeksamen,2024-11-25 09:00:00,2024-12-02 14:00:00,N/A
+KVF-3111,Hjemmeeksamen,2025-05-05 09:00:00,2025-05-12 14:00:00,N/A
+KVI-0100,Oppgave,2024-11-22 14:00:00,,N/A
+KVI-1010,Mappevurdering,2025-05-15 14:00:00,,N/A
+KVI-1014,Hjemmeeksamen,2025-06-06 09:00:00,2025-06-06 15:00:00,N/A
+KVI-1015,Hjemmeeksamen,2025-05-22 09:00:00,2025-05-30 14:00:00,N/A
+KVI-1113,Muntlig_eksamen,2024-12-12 09:00:00,,N/A
+KVI-1115,Hjemmeeksamen,2024-11-18 09:00:00,2024-11-27 14:00:00,N/A
+KVI-2018,Hjemmeeksamen,2025-05-21 09:00:00,2025-05-28 14:00:00,N/A
+KVI-2050,Oppgave,2025-05-15 14:00:00,,N/A
+KVI-3123,Mappevurdering,2024-11-22 14:00:00,,N/A
+KVI-3220,Hjemmeeksamen,2025-05-06 09:00:00,2025-05-16 14:00:00,N/A
+KVI-3900,Oppgave,2025-05-15 14:00:00,,N/A
+LER-1001,Oppgave,2025-05-16 14:00:00,,Digital undervisning – Digital undervisning
+LER-1003,Oppgave,2025-05-09 14:00:00,,N/A
+LER-1010,Muntlig_eksamen,2024-12-03 00:00:00,2024-12-05 00:00:00,N/A
+LER-1011,Oppgave,2025-05-19 14:00:00,,N/A
+LER-1012,Muntlig_eksamen,2024-12-03 00:00:00,2024-12-05 00:00:00,N/A
+LER-1013,Oppgave,2025-05-19 14:00:00,,N/A
+LER-1021,Oppgave,2025-05-09 14:00:00,,Digital undervisning – Digital undervisning
+LER-1051,Oppgave,2025-05-14 14:00:00,,N/A
+LER-1052,Oppgave,2025-03-14 16:00:00,,Digital undervisning – Digital undervisning
+LER-1061,Oppgave,2025-02-24 14:00:00,,N/A
+LER-1062,Oppgave,2025-02-24 14:00:00,,N/A
+LER-1071,Oppgave,2025-05-12 14:00:00,,Digital undervisning – Digital undervisning
+LER-1101,Hjemmeeksamen,2025-05-19 09:00:00,2025-05-23 14:00:00,N/A
+LER-1102,Hjemmeeksamen,2025-05-19 09:00:00,2025-05-23 14:00:00,N/A
+LER-1103,Hjemmeeksamen,2024-12-11 09:00:00,2024-12-13 13:00:00,N/A
+LER-1104,Skriftlig_skoleeksamen,2024-12-04 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-3) Del 3
+LER-1110,Hjemmeeksamen,2024-12-11 09:00:00,2024-12-12 14:00:00,N/A
+LER-1111,Hjemmeeksamen,2025-05-30 09:00:00,2025-06-04 14:00:00,N/A
+LER-1112,Hjemmeeksamen,2025-05-09 09:00:00,2025-05-14 14:00:00,N/A
+LER-1121,Hjemmeeksamen,2025-05-23 09:00:00,2025-05-28 14:00:00,Digital undervisning – Digital undervisning
+LER-1153,Skriftlig_skoleeksamen,2025-05-09 09:00:00,,(TROMSO): Administrasjonsbygget – Auditorium Maximum (Tromsø)
+LER-1154,Skriftlig_skoleeksamen,2025-05-13 09:00:00,,"(TROMSO): Administrasjonsbygget – Auditorium Maximum (Tromsø)
+(TROMSO): Administrasjonsbygget – B154 Eksamensrom (Tromsø)"
+LER-1201,Skriftlig_skoleeksamen,2024-12-05 09:00:00,,(TROMSO): Administrasjonsbygget – K1.04 Eksamensrom (Tromsø)
+LER-1201,Skriftlig_skoleeksamen_-_nasjonal,2024-11-27 09:00:00,,N/A
+LER-1201,Skriftlig_skoleeksamen_-_nasjonal,2024-11-27 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-1) Del 1
+LER-1202,Skriftlig_skoleeksamen,2025-06-11 09:00:00,,(TROMSO): Administrasjonsbygget – B154 Eksamensrom (Tromsø)
+LER-1202,Skriftlig_skoleeksamen_-_nasjonal,2024-11-27 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-1) Del 1
+LER-1202,Skriftlig_skoleeksamen_-_nasjonal,2025-05-21 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-2) Del 2
+LER-1204,Muntlig_eksamen,2024-12-04 09:00:00,,N/A
+LER-1211,Skriftlig_skoleeksamen_-_nasjonal,2024-11-27 09:00:00,,N/A
+LER-1211,Skriftlig_skoleeksamen,2024-12-06 09:00:00,,"(ALTA): Campus Alta Byggetrinn 2 – Rom 2108, Seminarrom (Alta)"
+LER-1211,Skriftlig_skoleeksamen_-_nasjonal,2024-11-27 09:00:00,,"(ALTA): Campus Alta Byggetrinn 2 – Rom 2107, Seminarrom (Alta)"
+LER-1212,Skriftlig_skoleeksamen_-_nasjonal,2024-11-27 09:00:00,,N/A
+LER-1212,Skriftlig_skoleeksamen,2024-12-09 09:00:00,,"(ALTA): Campus Alta Byggetrinn 2 – Rom 2108, Seminarrom (Alta)"
+LER-1221,Skriftlig_skoleeksamen_-_nasjonal,2024-11-27 09:00:00,,(HARSTAD): Havnegata 5-7 – 112 Undervisningsrom 2
+LER-1221,Skriftlig_skoleeksamen_-_nasjonal,2025-05-21 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-2) Del 2
+LER-1251,Hjemmeeksamen,2025-05-05 09:00:00,2025-05-12 14:00:00,Digital undervisning – Digital undervisning
+LER-1252,Hjemmeeksamen,2025-05-12 09:00:00,2025-05-19 14:00:00,N/A
+LER-1253,Hjemmeeksamen,2025-05-05 09:00:00,2025-05-12 14:00:00,N/A
+LER-1254,Hjemmeeksamen,2024-12-06 09:00:00,2024-12-13 14:00:00,N/A
+LER-1260,Hjemmeeksamen,2025-05-26 09:00:00,2025-06-03 14:00:00,N/A
+LER-1261,Hjemmeeksamen,2024-12-09 09:00:00,2024-12-16 14:00:00,N/A
+LER-1262,Hjemmeeksamen,2024-12-09 09:00:00,2024-12-16 14:00:00,N/A
+LER-1271,Hjemmeeksamen,2025-05-12 09:00:00,2025-05-19 14:00:00,Digital undervisning – Digital undervisning
+LER-1273,Hjemmeeksamen,2024-12-06 09:00:00,2024-12-13 14:00:00,N/A
+LER-1301,Skriftlig_skoleeksamen,2025-05-16 09:00:00,,(TROMSO): Administrasjonsbygget – Auditorium Maximum (Tromsø)
+LER-1302,Skriftlig_skoleeksamen,2025-05-16 09:00:00,,(TROMSO): Administrasjonsbygget – Auditorium Maximum (Tromsø)
+LER-1303,Muntlig_eksamen,2024-12-03 09:00:00,,N/A
+LER-1304,Muntlig_eksamen,2024-12-03 09:00:00,,N/A
+LER-1310,Muntlig_eksamen,2024-12-04 08:30:00,,N/A
+LER-1312,Skriftlig_skoleeksamen,2025-05-16 09:00:00,,"(ALTA): Campus Alta: Paviljong 1, 2, 3 og m.bygg – Rom P178, Parilla
+(ALTA): Campus Alta: Paviljong 1, 2, 3 og m.bygg – Rom P179, Sarikoski"
+LER-1351,Muntlig_eksamen,2024-12-05 00:00:00,2024-12-05 00:00:00,N/A
+LER-1352,Muntlig_eksamen,2024-12-05 00:00:00,2024-12-05 00:00:00,N/A
+LER-1501,Praktisk_eksamen,2024-11-29 08:00:00,,N/A
+LER-1511,Praktisk_eksamen,2024-12-02 00:00:00,2024-12-03 00:00:00,N/A
+LER-1711,Skriftlig_skoleeksamen,2024-12-09 09:00:00,,"(ALTA): Campus Alta Byggetrinn 2 – Rom 2108, Seminarrom (Alta)"
+LER-2050,Oppgave,2024-12-11 14:00:00,,N/A
+LER-2051,Oppgave,2025-05-19 14:00:00,,Digital undervisning – Digital undervisning
+LER-2060,Oppgave,2024-12-13 14:00:00,,N/A
+LER-2061,Oppgave,2025-05-26 14:00:00,,N/A
+LER-2071,Oppgave,2025-05-09 13:00:00,,N/A
+LER-2152,Skriftlig_skoleeksamen,2025-05-12 09:00:00,,(TROMSO): Administrasjonsbygget – B154 Eksamensrom (Tromsø)
+LER-2162,Skriftlig_skoleeksamen,2025-05-12 09:00:00,,"(ALTA): Campus Alta: Paviljong 1, 2, 3 og m.bygg – Rom P179, Sarikoski"
+LER-2201,Hjemmeeksamen,2025-06-02 08:00:00,2025-06-06 13:00:00,Digital undervisning – Digital undervisning
+LER-2202,Skriftlig_skoleeksamen,2025-05-22 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-3) Del 3
+LER-2211,Hjemmeeksamen,2025-06-02 09:00:00,2025-06-06 14:00:00,N/A
+LER-2212,Skriftlig_skoleeksamen,2025-05-19 09:00:00,,"(ALTA): Campus Alta Byggetrinn 2 – Rom 2107, Seminarrom (Alta)"
+LER-2221,Hjemmeeksamen,2025-06-02 08:00:00,2025-06-06 13:00:00,Digital undervisning – Digital undervisning
+LER-2252,Hjemmeeksamen,2025-01-17 09:00:00,2025-01-24 14:00:00,N/A
+LER-2262,Hjemmeeksamen,2025-04-23 09:00:00,2025-04-30 14:00:00,N/A
+LER-2303,Skriftlig_skoleeksamen,2024-12-06 09:00:00,,(TROMSO): Administrasjonsbygget – K1.04 Eksamensrom (Tromsø)
+LER-3000,Oppgave,2024-12-06 14:00:00,,N/A
+LER-3001,Hjemmeeksamen,2024-11-29 09:00:00,2024-11-29 15:00:00,N/A
+LER-3002,Hjemmeeksamen,2024-11-29 09:00:00,2024-11-29 15:00:00,N/A
+LER-3010,Muntlig_eksamen,2024-12-09 00:00:00,2024-12-11 00:00:00,N/A
+LER-3011,Hjemmeeksamen,2024-12-02 09:00:00,2024-12-02 15:00:00,N/A
+LER-3012,Hjemmeeksamen,2024-12-02 09:00:00,2024-12-02 15:00:00,N/A
+LER-3050,Oppgave,2025-05-12 13:00:00,,Digital undervisning – Digital undervisning
+LER-3100,Hjemmeeksamen,2025-05-02 12:00:00,2025-05-09 12:00:00,Digital undervisning – Digital undervisning
+LER-3110,Hjemmeeksamen,2025-05-13 09:00:00,2025-05-15 14:00:00,N/A
+LER-3111,Praktisk_eksamen,2025-05-22 08:30:00,,N/A
+LER-3151,Oppgave,2025-05-09 13:00:00,,Digital undervisning – Digital undervisning
+LER-3211,Skriftlig_skoleeksamen,2025-05-22 09:00:00,,"(ALTA): Campus Alta Byggetrinn 2 – Rom 2107, Seminarrom (Alta)"
+LER-3250,Hjemmeeksamen,2025-05-09 09:00:00,2025-05-23 14:00:00,Digital undervisning – Digital undervisning
+LER-3301,Mappevurdering,2025-05-14 14:00:00,,N/A
+LER-3680,Oppgave,2024-12-12 14:00:00,,N/A
+LER-3901,Oppgave,2025-05-15 14:00:00,,N/A
+LER-3902,Oppgave,2025-05-15 14:00:00,,N/A
+LER-3903,Oppgave,2025-05-15 14:00:00,,N/A
+LER-3904,Oppgave,2025-05-15 14:00:00,,N/A
+LER-3905,Oppgave,2025-05-15 14:00:00,,N/A
+LER-3906,Oppgave,2025-05-15 14:00:00,,N/A
+LER-3908,Oppgave,2025-05-15 14:00:00,,N/A
+LER-3911,Oppgave,2025-05-15 14:00:00,,N/A
+LER-3912,Oppgave,2025-05-15 14:00:00,,N/A
+LER-3913,Oppgave,2025-05-15 14:00:00,,N/A
+LIN-3990,Assignment,2025-05-15 14:00:00,,N/A
+MDA-1008,Mappevurdering,2025-06-11 14:00:00,,N/A
+MDA-1008,Skriftlig_skoleeksamen,2025-06-06 09:00:00,,"(ALTA): Campus Alta Byggetrinn 2 – Rom 2107, Seminarrom (Alta)"
+MDA-1013,Muntlig_eksamen,2024-12-12 08:00:00,,N/A
+MDA-1014,Skriftlig_skoleeksamen,2025-04-09 09:00:00,,"(ALTA): Campus Alta Byggetrinn 2 – Rom 2107, Seminarrom (Alta)"
+MDA-2001,Oppgave,2024-12-09 14:00:00,,N/A
+MDA-2002,Oppgave,2024-12-09 14:00:00,,N/A
+MDA-2003,Mappevurdering,2025-06-06 14:00:00,,N/A
+MDV-1000,Hjemmeeksamen,2024-11-14 09:00:00,2024-11-21 14:00:00,N/A
+MDV-1004,Oppgave,2024-12-11 14:00:00,,N/A
+MDV-1005,Hjemmeeksamen,2025-02-28 09:00:00,2025-03-07 14:00:00,N/A
+MDV-1013,Oppgave,2024-11-27 14:00:00,,N/A
+MDV-1201,Hjemmeeksamen,2025-03-12 09:00:00,2025-03-12 17:00:00,N/A
+MDV-1203,Muntlig_eksamen,2024-11-29 09:00:00,,N/A
+MDV-1204,Hjemmeeksamen,2024-11-20 09:00:00,2024-11-27 14:00:00,N/A
+MDV-1206,Oppgave,2025-05-22 14:00:00,,N/A
+MDV-1210,Mappevurdering,2024-12-11 14:00:00,,N/A
+MDV-2035,Oppgave,2025-05-15 14:00:00,,N/A
+MDV-3050,Hjemmeeksamen,2024-11-18 09:00:00,2024-11-28 14:00:00,N/A
+MDV-3051,Hjemmeeksamen,2024-12-04 09:00:00,2024-12-04 17:00:00,N/A
+MDV-3062,Oppgave,2025-04-30 14:00:00,,N/A
+MDV-3950,Oppgave,2025-05-15 14:00:00,,N/A
+NOR-0035,Skriftlig_skoleeksamen,2024-12-03 09:00:00,,(TROMSO): Administrasjonsbygget – Auditorium Maximum (Tromsø)
+NOR-0035,Skriftlig_skoleeksamen,2025-05-19 09:00:00,,(TROMSO): Administrasjonsbygget – Auditorium Maximum (Tromsø)
+NOR-0036,Muntlig_eksamen,2024-12-09 00:00:00,2024-12-10 00:00:00,N/A
+NOR-1011,Skriftlig_skoleeksamen,2024-12-06 09:00:00,,(TROMSO): Administrasjonsbygget – K1.04 Eksamensrom (Tromsø)
+NOR-1014,Hjemmeeksamen,2025-05-16 09:00:00,2025-05-23 14:00:00,N/A
+NOR-1015,Oppgave,2025-05-02 14:00:00,,N/A
+NOR-1021,Skriftlig_skoleeksamen,2024-12-06 09:00:00,,(TROMSO): Administrasjonsbygget – K1.04 Eksamensrom (Tromsø)
+NOR-1024,Hjemmeeksamen,2025-05-16 09:00:00,2025-05-23 14:00:00,N/A
+NOR-1025,Oppgave,2025-05-02 14:00:00,,N/A
+NOR-1110,Hjemmeeksamen,2025-06-02 09:00:00,2025-06-10 14:00:00,N/A
+NOR-1111,Hjemmeeksamen,2024-11-26 09:00:00,2024-12-03 14:00:00,N/A
+NOR-1112,Hjemmeeksamen,2024-11-20 09:00:00,2024-11-22 13:00:00,N/A
+NOR-1120,Hjemmeeksamen,2025-06-02 09:00:00,2025-06-10 14:00:00,N/A
+NOR-1121,Hjemmeeksamen,2024-11-26 09:00:00,2024-12-03 14:00:00,N/A
+NOR-1122,Hjemmeeksamen,2024-11-20 09:00:00,2024-11-22 13:00:00,N/A
+NOR-2043,Oppgave,2025-06-06 14:00:00,,N/A
+NOR-2126,Hjemmeeksamen,2025-05-14 09:00:00,2025-05-21 14:00:00,N/A
+NOR-2950,Oppgave,2025-05-15 14:00:00,,N/A
+NOR-2951,Oppgave,2025-05-15 14:00:00,,N/A
+NOR-2980,Oppgave,2025-05-15 14:00:00,,N/A
+NOR-2981,Oppgave,2025-05-15 14:00:00,,N/A
+NOR-3016,Oppgave,2024-11-22 14:00:00,,N/A
+NOR-3063,Oppgave,2024-12-03 14:00:00,,N/A
+NOR-3115,Oppgave,2024-11-20 14:00:00,,N/A
+NOR-3135,Muntlig_eksamen,2024-12-02 09:00:00,,N/A
+NOR-3137,Hjemmeeksamen,2024-12-04 09:00:00,2024-12-11 14:00:00,N/A
+NOR-3601,Hjemmeeksamen,2025-04-30 09:00:00,2025-05-08 14:00:00,N/A
+NOR-3910,Oppgave,2025-05-15 14:00:00,,N/A
+NOR-3920,Oppgave,2025-05-15 14:00:00,,N/A
+NOR-3982,Oppgave,2025-05-15 14:00:00,,N/A
+NOR-3983,Oppgave,2025-05-15 14:00:00,,N/A
+NOR-6004,Hjemmeeksamen,2024-11-27 09:00:00,2024-12-04 14:00:00,N/A
+NOR-6005,Hjemmeeksamen,2025-04-24 09:00:00,2025-05-02 14:00:00,N/A
+PED-0001,Muntlig_eksamen,2024-12-02 00:00:00,2024-12-06 00:00:00,N/A
+PED-0700,Hjemmeeksamen,2024-11-26 09:00:00,2024-11-26 16:00:00,N/A
+PED-1001,Hjemmeeksamen,2024-11-19 09:00:00,2024-11-19 16:00:00,N/A
+PED-1002,Hjemmeeksamen,2025-05-30 09:00:00,2025-06-06 14:00:00,N/A
+PED-1005,Hjemmeeksamen,2025-05-02 09:00:00,2025-05-09 14:00:00,N/A
+PED-1006,Skriftlig_skoleeksamen,2025-05-20 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-3) Del 3
+PED-1012,Hjemmeeksamen,2024-11-20 09:00:00,2024-11-22 13:00:00,N/A
+PED-1012,Muntlig_eksamen,2024-12-05 00:00:00,2024-12-09 00:00:00,N/A
+PED-1014,Skriftlig_skoleeksamen,2025-05-16 09:00:00,,(TROMSO): Administrasjonsbygget – B154 Eksamensrom (Tromsø)
+PED-1017,Muntlig_eksamen,2025-05-27 08:15:00,,N/A
+PED-1018,Hjemmeeksamen,2025-05-08 09:00:00,2025-05-08 17:00:00,N/A
+PED-1021,Off_campus_exam,2025-05-30 14:00:00,,N/A
+PED-2003,Oppgave,2025-05-06 14:00:00,,N/A
+PED-2017,Hjemmeeksamen,2024-11-25 09:00:00,2024-12-02 14:00:00,N/A
+PED-2020,Hjemmeeksamen,2024-11-22 09:00:00,2024-11-22 16:00:00,N/A
+PED-2021,Muntlig_eksamen,2024-11-18 00:00:00,2024-11-20 00:00:00,N/A
+PED-3017,Hjemmeeksamen,2024-11-25 09:00:00,2024-12-02 14:00:00,N/A
+PED-3018,Hjemmeeksamen,2024-12-02 09:00:00,2024-12-09 14:00:00,N/A
+PED-3032,Hjemmeeksamen,2024-11-20 14:00:00,2024-12-05 14:00:00,N/A
+PED-3037,Hjemmeeksamen,2025-05-07 14:00:00,,N/A
+PED-3039,Hjemmeeksamen,2024-12-16 09:00:00,2024-12-20 14:00:00,N/A
+PED-3056,Hjemmeeksamen,2024-11-22 09:00:00,2024-11-29 14:00:00,N/A
+PED-3065,Mappevurdering,2025-06-06 14:00:00,,N/A
+PED-3200,Hjemmeeksamen,2024-12-11 14:00:00,,N/A
+PED-3301,Hjemmeeksamen,2024-11-22 09:00:00,2024-11-29 14:00:00,N/A
+PED-3302,Muntlig_eksamen,2024-12-05 00:00:00,2024-12-05 00:00:00,N/A
+PED-3303,Oppgave,2024-12-09 14:00:00,,N/A
+PED-3900,Oppgave,2025-05-15 14:00:00,,N/A
+PED-3901,Oppgave,2025-05-15 14:00:00,,N/A
+PED-3903,Oppgave,2025-05-15 14:00:00,,N/A
+PED-3905,Oppgave,2025-05-15 14:00:00,,N/A
+PED-3910,Oppgave,2025-05-15 14:00:00,,N/A
+PED-3911,Oppgave,2025-05-15 14:00:00,,N/A
+PED-6327,Hjemmeeksamen,2025-04-30 14:00:00,,N/A
+PED-6341,Muntlig_eksamen,2024-12-04 00:00:00,2024-12-06 00:00:00,N/A
+PED-6342,Oppgave,2025-05-09 14:00:00,,N/A
+PED-6343,Oppgave,2025-05-28 14:00:00,,N/A
+PFF-1020,Muntlig_eksamen,2024-12-11 00:00:00,2024-12-13 00:00:00,N/A
+PFF-2001,Praksisvurdering,2024-11-29 14:00:00,,N/A
+PFF-2021,Muntlig_eksamen,2024-12-04 00:00:00,2024-12-06 00:00:00,N/A
+PFF-2022,Muntlig_eksamen,2024-12-09 00:00:00,2024-12-10 00:00:00,N/A
+PFF-2024,Oppgave,2024-11-25 14:00:00,,N/A
+PFF-2025,Skriftlig_skoleeksamen,2024-11-25 09:00:00,,"(TROMSO): Teorifagbygget hus 4 – Rom 4.213, Seminarom (Tromsø)"
+PFF-2026,Muntlig_eksamen,2024-12-02 00:00:00,2024-12-03 00:00:00,N/A
+PFF-2027,Muntlig_eksamen,2024-12-02 00:00:00,2024-12-03 00:00:00,N/A
+PFF-2028,Skriftlig_skoleeksamen,2024-11-25 09:00:00,,"(TROMSO): Teorifagbygget hus 4 – Rom 4.213, Seminarom (Tromsø)"
+PFF-2029,Hjemmeeksamen,2024-11-28 13:00:00,2024-11-29 13:00:00,N/A
+PFF-3002,Praksisvurdering,2024-12-09 14:00:00,,N/A
+PFF-3022,Oppgave,2025-05-30 14:00:00,,N/A
+PFF-3025,Oppgave,2025-05-16 14:00:00,,N/A
+PFF-3026,Skriftlig_skoleeksamen,2025-06-03 09:00:00,,(TROMSO): Administrasjonsbygget – B154 Eksamensrom (Tromsø)
+PFF-3027,Hjemmeeksamen,2025-06-16 09:00:00,2025-06-16 15:00:00,N/A
+PFF-3028,Hjemmeeksamen,2025-06-02 09:00:00,2025-06-04 13:00:00,N/A
+PFF-3029,Oppgave,2025-05-27 14:00:00,,N/A
+PFF-3030,Oppgave,2025-05-27 14:00:00,,N/A
+PFF-3101,Muntlig_eksamen,2024-11-19 08:15:00,,N/A
+PFF-3102,Oppgave,2024-12-02 14:00:00,,N/A
+PFF-5010,Oppgave,2025-05-15 14:00:00,,N/A
+PFF-5020,Hjemmeeksamen,2025-05-15 14:00:00,,N/A
+PFF-5025,Skriftlig_skoleeksamen,2025-06-02 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-3) Del 3
+PFF-5027,Skriftlig_skoleeksamen,2025-05-19 09:00:00,,(TROMSO): Administrasjonsbygget – K1.04 Eksamensrom (Tromsø)
+REL-1000,Skriftlig_skoleeksamen,2024-11-27 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-3) Del 3
+REL-1019,Skriftlig_skoleeksamen,2024-12-03 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-3) Del 3
+REL-1022,Muntlig_eksamen,2024-12-03 00:00:00,2024-12-06 00:00:00,N/A
+REL-1032,Skriftlig_skoleeksamen,2025-05-22 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-3) Del 3
+REL-1034,Skriftlig_skoleeksamen,2024-11-21 09:00:00,,(TROMSO): Administrasjonsbygget – Auditorium Maximum (Tromsø)
+REL-1035,Skriftlig_skoleeksamen,2025-04-30 09:00:00,,(TROMSO): Administrasjonsbygget – K1.04 Eksamensrom (Tromsø)
+REL-1050,Skriftlig_skoleeksamen,2025-04-28 09:00:00,,(TROMSO): Administrasjonsbygget – B154 Eksamensrom (Tromsø)
+REL-2008,Mappevurdering,2025-05-20 14:00:00,,N/A
+REL-2015,Oppgave,2025-05-15 14:00:00,,N/A
+REL-2025,Oppgave,2025-06-02 14:00:00,,N/A
+REL-3054,Mappevurdering,2024-11-20 14:00:00,,N/A
+REL-3054,Mappevurdering,2025-05-20 14:00:00,,N/A
+REL-3056,Oppgave,2025-06-02 14:00:00,,N/A
+REL-3057,Oppgave,2024-11-22 14:00:00,,N/A
+REL-3057,Oppgave,2025-06-02 14:00:00,,N/A
+REL-3058,Oppgave,2025-06-02 14:00:00,,N/A
+REL-3900,Oppgave,2025-05-15 14:00:00,,N/A
+REL-3901,Oppgave,2025-05-15 14:00:00,,N/A
+REL-3980,Oppgave,2025-05-15 14:00:00,,N/A
+RUS-0100,Muntlig_eksamen,2024-12-02 00:00:00,2024-12-03 00:00:00,N/A
+RUS-0100,Skriftlig_skoleeksamen,2024-11-22 09:00:00,,"(TROMSO): Teorifagbygget hus 1 – Rom 1.343, undervisning"
+RUS-1001,Skriftlig_skoleeksamen,2025-05-19 09:00:00,,(TROMSO): Administrasjonsbygget – B154 Eksamensrom (Tromsø)
+RUS-1025,Skriftlig_skoleeksamen,2024-11-26 09:00:00,,(TROMSO): Teorifagbygget hus 1 – Plan 3 rom til bruk for eksamen
+RUS-1110,Skriftlig_skoleeksamen,2024-11-20 09:00:00,,"(TROMSO): Teorifagbygget hus 4 – Rom 4.248, leserom (Tromsø)"
+RUS-1115,Skriftlig_skoleeksamen,2025-04-30 09:00:00,,(TROMSO): Administrasjonsbygget – B154 Eksamensrom (Tromsø)
+RUS-1210,Oppgave,2024-12-09 14:00:00,,N/A
+RUS-2021,Skriftlig_skoleeksamen,2024-11-29 09:00:00,,(TROMSO): Teorifagbygget hus 1 – Plan 3 rom til bruk for eksamen
+RUS-2025,Skriftlig_skoleeksamen,2025-05-07 09:00:00,,(TROMSO): Administrasjonsbygget – Auditorium Maximum (Tromsø)
+RUS-2040,Skriftlig_skoleeksamen,2025-05-12 09:00:00,,(TROMSO): Administrasjonsbygget – B154 Eksamensrom (Tromsø)
+RUS-2110,Oppgave,2025-05-22 14:00:00,,N/A
+RUS-2990,Oppgave,2025-05-15 14:00:00,,N/A
+RUS-3010,School_exam,2024-12-03 09:00:00,,(TROMSO): Administrasjonsbygget – B154 Eksamensrom (Tromsø)
+RUS-3030,Assignment,2025-05-12 14:00:00,,N/A
+RUS-3041,Oral_exam,2024-12-06 09:00:00,,N/A
+RUS-3043,Muntlig_eksamen,2024-12-06 09:00:00,,N/A
+RUS-3090,Hjemmeeksamen,2024-12-04 09:00:00,2024-12-11 14:00:00,N/A
+RUS-3114,Oppgave,2024-11-20 14:00:00,,N/A
+RUS-3115,Hjemmeeksamen,2025-05-05 09:00:00,2025-05-07 13:00:00,N/A
+RUS-3920,Oppgave,2025-05-15 14:00:00,,N/A
+RUS-3982,Oppgave,2025-05-15 14:00:00,,N/A
+SAM-1010,Skriftlig_skoleeksamen,2024-11-29 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-3) Del 3
+SAM-1011,Skriftlig_skoleeksamen,2025-05-26 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-3) Del 3
+SAM-1012,Oppgave,2025-05-05 14:00:00,,N/A
+SAM-1013,Oppgave,2024-12-06 14:00:00,,N/A
+SAM-1031,Hjemmeeksamen,2024-11-20 09:00:00,2024-11-20 15:00:00,N/A
+SAM-1031,Muntlig_eksamen,2024-12-02 00:00:00,2024-12-06 00:00:00,N/A
+SAM-1034,Muntlig_eksamen,2024-12-09 00:00:00,2024-12-13 00:00:00,N/A
+SAM-1035,Hjemmeeksamen,2024-11-22 09:00:00,2024-12-06 14:00:00,N/A
+SAM-1035,Hjemmeeksamen,2025-04-23 09:00:00,2025-05-08 14:00:00,N/A
+SAM-1110,Skriftlig_skoleeksamen,2024-11-21 09:00:00,,(TROMSO): Administrasjonsbygget – Auditorium Maximum (Tromsø)
+SAM-1112,Oppgave,2025-05-20 14:00:00,,N/A
+SAM-2020,Mappevurdering,2024-12-04 14:00:00,,N/A
+SAM-3010,Oppgave,2024-12-11 14:00:00,,N/A
+SAM-3010,Oppgave,2025-06-02 14:00:00,,N/A
+SAM-3012,Oppgave,2024-12-04 14:00:00,,N/A
+SAM-3015,Oppgave,2025-05-26 14:00:00,,N/A
+SAM-3090,Oppgave,2025-05-08 14:00:00,,N/A
+SAM-3115,Skriftlig_skoleeksamen,2025-04-23 09:00:00,,(TROMSO): Administrasjonsbygget – B154 Eksamensrom (Tromsø)
+SAM-3117,Oppgave,2024-11-22 14:00:00,,N/A
+SAM-3118,Hjemmeeksamen,2025-06-16 09:00:00,2025-06-16 15:00:00,N/A
+SAM-3190,Oppgave,2025-04-25 14:00:00,,N/A
+SAM-3984,Oppgave,2025-05-15 14:00:00,,N/A
+SOA-1001,Muntlig_eksamen,2024-12-03 08:15:00,,(TROMSO): Teorifagbygget hus 1 – Plan 2 rom til bruk for eksamen
+SOA-1006,Off_campus_exam,2024-11-29 09:00:00,2024-12-06 14:00:00,N/A
+SOA-1010,Hjemmeeksamen,2025-04-22 09:00:00,2025-04-29 14:00:00,N/A
+SOA-2003,Hjemmeeksamen,2025-05-13 14:00:00,,N/A
+SOA-2004,Hjemmeeksamen,2025-05-13 09:00:00,2025-05-27 14:00:00,N/A
+SOA-3002,Oppgave,2024-11-27 14:00:00,,N/A
+SOA-3006,Off_campus_exam,2025-04-25 09:00:00,2025-05-05 14:00:00,N/A
+SOA-3013,Hjemmeeksamen,2024-11-15 09:00:00,2024-11-22 14:00:00,N/A
+SOA-3015,Off_campus_exam,2025-04-02 09:00:00,2025-04-09 14:00:00,N/A
+SOA-3020,Hjemmeeksamen,2025-06-02 14:00:00,,N/A
+SOA-3900,Oppgave,2025-05-15 14:00:00,,N/A
+SOA-3902,Assignment,2025-05-21 14:00:00,,N/A
+SOS-1001,Hjemmeeksamen,2024-11-08 09:00:00,2024-11-22 14:00:00,N/A
+SOS-1002,Skriftlig_skoleeksamen,2025-04-11 09:00:00,,(TROMSO): Administrasjonsbygget – B154 Eksamensrom (Tromsø)
+SOS-1018,Hjemmeeksamen,2025-05-20 09:00:00,2025-05-27 14:00:00,N/A
+SOS-1030,Hjemmeeksamen,2024-10-25 09:00:00,2024-12-06 14:00:00,N/A
+SOS-2001,Skriftlig_skoleeksamen,2025-04-11 09:00:00,,(TROMSO): Administrasjonsbygget – K1.04 Eksamensrom (Tromsø)
+SOS-2002,Oppgave,2025-05-09 14:00:00,,N/A
+SOS-2003,Hjemmeeksamen,2024-11-21 09:00:00,2024-11-22 09:00:00,N/A
+SOS-2005,Oppgave,2025-05-09 14:00:00,,N/A
+SOS-2017,Off_campus_exam,2025-05-07 09:00:00,2025-05-14 14:00:00,N/A
+SOS-3000,Oppgave,2024-11-29 14:00:00,,N/A
+SOS-3010,Skriftlig_skoleeksamen,2024-11-20 09:00:00,,"(TROMSO): Teorifagbygget hus 4 – Rom 4.248, leserom (Tromsø)"
+SOS-3017,Off_campus_exam,2025-05-07 09:00:00,2025-05-14 14:00:00,N/A
+SOS-3018,Hjemmeeksamen,2024-11-08 09:00:00,2024-11-22 14:00:00,N/A
+SOS-3018,Muntlig_eksamen,2024-12-11 10:00:00,,N/A
+SOS-3900,Oppgave,2025-05-15 14:00:00,,N/A
+SOS-3981,Oppgave,2025-05-15 14:00:00,,N/A
+SPA-0100,Hjemmeeksamen,2024-12-02 09:00:00,2024-12-02 12:00:00,N/A
+SPA-1011,Hjemmeeksamen,2024-11-28 09:00:00,2024-11-28 13:00:00,N/A
+SPA-1013,Hjemmeeksamen,2025-05-26 09:00:00,2025-05-26 12:00:00,N/A
+SPA-1014,Muntlig_eksamen,2024-11-25 09:00:00,,N/A
+SPA-1110,Hjemmeeksamen,2025-05-21 09:00:00,2025-05-21 15:00:00,N/A
+SPA-1111,Hjemmeeksamen,2024-11-15 09:00:00,2024-11-22 14:00:00,N/A
+SPA-2011,Hjemmeeksamen,2025-05-09 09:00:00,2025-05-09 13:00:00,N/A
+SPA-2111,Oppgave,2025-04-30 14:00:00,,N/A
+SPA-2113,Hjemmeeksamen,2025-03-10 09:00:00,2025-03-17 14:00:00,N/A
+SPA-2981,Oppgave,2025-05-15 14:00:00,,N/A
+SPA-3011,Hjemmeeksamen,2024-11-20 09:00:00,2024-11-27 14:00:00,N/A
+SPA-3014,Hjemmeeksamen,2025-05-05 09:00:00,2025-05-12 14:00:00,N/A
+SPA-3090,Oppgave,2024-12-11 14:00:00,,N/A
+SPA-3090,Oppgave,2025-05-02 14:00:00,,N/A
+SPA-3091,Oppgave,2024-12-11 14:00:00,,N/A
+SPA-3091,Oppgave,2025-05-02 14:00:00,,N/A
+SPA-3111,Oppgave,2024-12-11 14:00:00,,N/A
+SPA-3114,Hjemmeeksamen,2025-05-26 14:00:00,,N/A
+SPA-3982,Oppgave,2025-05-15 14:00:00,,N/A
+SPA-3983,Oppgave,2025-02-15 14:00:00,,N/A
+SPA-3983,Oppgave,2025-05-15 14:00:00,,N/A
+SPA-3994,Oppgave,2025-05-15 14:00:00,,N/A
+SPA-6011,Hjemmeeksamen,2025-05-05 09:00:00,2025-05-12 14:00:00,N/A
+SPL-1002,Skriftlig_skoleeksamen,2025-05-20 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-3) Del 3
+SPL-2001,Hjemmeeksamen,2024-12-05 09:00:00,2024-12-12 14:00:00,N/A
+SPL-2003,Oppgave,2025-05-16 14:00:00,,N/A
+SPL-2004,Oppgave,2024-12-02 14:00:00,,N/A
+SPL-2004,Muntlig_eksamen,2024-12-13 08:00:00,,(TROMSO): Teorifagbygget hus 1 – Plan 2 rom til bruk for eksamen
+SPL-2009,Hjemmeeksamen,2025-03-26 09:00:00,2025-04-02 14:00:00,N/A
+SPL-2010,Hjemmeeksamen,2025-03-18 09:00:00,2025-03-25 14:00:00,N/A
+SPL-2011,Hjemmeeksamen,2025-03-18 09:00:00,2025-03-25 14:00:00,N/A
+SPL-2012,Hjemmeeksamen,2025-04-08 09:00:00,2025-04-15 14:00:00,N/A
+SPL-3002,Hjemmeeksamen,2025-05-26 09:00:00,2025-06-03 14:00:00,N/A
+SPL-3004,Hjemmeeksamen,2024-11-29 09:00:00,2024-12-06 14:00:00,N/A
+SPL-3010,Off_campus_exam,2024-12-13 09:00:00,2024-12-20 14:00:00,N/A
+SPL-3900,Oppgave,2025-05-15 14:00:00,,N/A
+SPL-3901,Assignment,2025-05-15 14:00:00,,N/A
+SPL-3902,Oppgave,2025-05-15 14:00:00,,N/A
+SSO-1051,Skriftlig_skoleeksamen,2024-11-28 09:00:00,,"(ALTA): Campus Alta Byggetrinn 2 – Rom 2107, Seminarrom (Alta)
+(ALTA): Campus Alta Byggetrinn 2 – Rom 2108, Seminarrom (Alta)
+(ALTA): Campus Alta: Paviljong 1, 2, 3 og m.bygg – Rom P179, Sarikoski"
+SSO-1052,Skriftlig_skoleeksamen,2024-12-11 09:00:00,,"(ALTA): Campus Alta Byggetrinn 3 – Rom A102, Kultursalen (Alta)"
+SSO-1111,Hjemmeeksamen,2024-12-10 09:00:00,2024-12-12 09:00:00,N/A
+SSO-1112,Muntlig_eksamen,2025-06-02 00:00:00,2025-06-04 00:00:00,N/A
+SSO-1113,Oppgave,2024-12-12 14:00:00,,N/A
+SSO-1114,Muntlig_eksamen,2025-06-04 00:00:00,2025-06-06 00:00:00,N/A
+SSO-1411,Hjemmeeksamen,2024-12-10 09:00:00,2024-12-12 09:00:00,N/A
+SSO-1412,Muntlig_eksamen,2025-06-02 00:00:00,2025-06-04 00:00:00,N/A
+SSO-1413,Oppgave,2024-12-12 14:00:00,,N/A
+SSO-1414,Muntlig_eksamen,2025-06-04 00:00:00,2025-06-06 00:00:00,N/A
+SSO-2161,Hjemmeeksamen,2025-02-18 09:00:00,2025-02-20 13:00:00,N/A
+SSO-2162,Muntlig_eksamen,2025-06-10 00:00:00,2025-06-13 00:00:00,N/A
+SSO-2162,Oppgave,2025-05-14 14:00:00,,N/A
+SSO-3020,Hjemmeeksamen,2024-12-10 09:00:00,2024-12-12 13:00:00,N/A
+SSO-3025,Hjemmeeksamen,2025-03-11 09:00:00,2025-03-13 13:00:00,N/A
+SSO-3040,Muntlig_eksamen,2025-05-26 00:00:00,2025-05-28 00:00:00,N/A
+SSO-3900,Oppgave,2025-05-15 14:00:00,,N/A
+STV-1000,Hjemmeeksamen,2024-11-18 09:00:00,2024-11-19 15:00:00,N/A
+STV-1003,Hjemmeeksamen,2025-05-02 09:00:00,2025-05-02 16:00:00,N/A
+STV-1005,Hjemmeeksamen,2024-11-25 09:00:00,2024-12-02 14:00:00,N/A
+STV-1006,School_exam,2024-11-27 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-3) Del 3
+STV-2004,Hjemmeeksamen,2025-05-02 09:00:00,2025-05-12 14:00:00,N/A
+STV-2005,School_exam,2024-11-20 09:00:00,,"(TROMSO): Teorifagbygget hus 3 – Rom 3.218, lesesal (Tromsø)"
+STV-2008,School_exam,2025-03-20 09:00:00,,(TROMSO): Administrasjonsbygget – B154 Eksamensrom (Tromsø)
+STV-2010,Hjemmeeksamen,2024-11-20 09:00:00,2024-11-27 14:00:00,N/A
+STV-2020,Oppgave,2025-05-15 14:00:00,,N/A
+STV-3005,School_exam,2025-04-23 09:00:00,,(TROMSO): Administrasjonsbygget – B154 Eksamensrom (Tromsø)
+STV-3014,Hjemmeeksamen,2025-05-19 09:00:00,2025-05-26 14:00:00,N/A
+STV-3020,Off_campus_exam,2025-03-31 09:00:00,2025-04-04 14:00:00,N/A
+STV-3035,Hjemmeeksamen,2024-11-04 09:00:00,2024-12-02 14:00:00,N/A
+STV-3036,Oppgave,2025-05-22 14:00:00,,N/A
+STV-3040,Portfolio,2024-11-25 09:00:00,2024-11-28 13:00:00,N/A
+STV-3058,Hjemmeeksamen,2025-05-07 09:00:00,2025-05-14 14:00:00,N/A
+STV-3059,Hjemmeeksamen,2025-05-19 09:00:00,2025-06-03 14:00:00,N/A
+STV-3061,Mappevurdering,2024-12-02 14:00:00,,N/A
+STV-3073,Hjemmeeksamen,2025-05-19 09:00:00,2025-06-11 14:00:00,N/A
+STV-3074,Hjemmeeksamen,2025-04-23 09:00:00,2025-05-08 14:00:00,N/A
+STV-3075,Hjemmeeksamen,2024-11-07 09:00:00,2024-11-28 14:00:00,N/A
+STV-3076,Hjemmeeksamen,2024-12-02 09:00:00,2024-12-09 14:00:00,N/A
+STV-3077,Muntlig_eksamen,2024-12-02 00:00:00,2024-12-06 00:00:00,N/A
+STV-3900,Oppgave,2025-05-15 14:00:00,,N/A
+STV-3901,Oppgave,2025-05-15 14:00:00,,N/A
+STV-3909,Oppgave,2025-05-15 14:00:00,,N/A
+STV-3910,Oppgave,2024-12-02 14:00:00,,N/A
+STV-3910,Oppgave,2025-05-15 14:00:00,,N/A
+SVF-1050,Hjemmeeksamen,2024-11-20 09:00:00,2024-11-21 15:00:00,N/A
+SVF-1051,Hjemmeeksamen,2024-11-20 09:00:00,2024-11-21 15:00:00,N/A
+SVF-1051,Hjemmeeksamen,2025-05-27 09:00:00,2025-05-28 15:00:00,N/A
+SVF-2058,Off_campus_exam,2025-03-07 09:00:00,2025-03-14 14:00:00,N/A
+SVF-3004,Hjemmeeksamen,2025-02-21 09:00:00,2025-02-21 16:00:00,N/A
+SVF-3006,Hjemmeeksamen,2025-05-15 14:00:00,,N/A
+SVF-3021,Oral_exam,2024-11-18 00:00:00,2024-11-20 00:00:00,N/A
+SVF-3022,School_exam,2024-12-12 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-3) Del 3
+SVF-3024,Off_campus_exam,2025-03-21 09:00:00,2025-04-04 14:00:00,N/A
+SVF-3025,School_exam,2025-04-15 09:00:00,,(TROMSO): Administrasjonsbygget – Auditorium Maximum (Tromsø)
+SVF-3044,Off_campus_exam,2024-11-27 09:00:00,2024-11-27 16:00:00,N/A
+SVF-3044,Off_campus_exam,2025-05-05 09:00:00,2025-05-05 16:00:00,N/A
+SVF-3109,Portfolio,2025-03-28 13:00:00,,N/A
+SVF-3110,Assignment,2024-12-13 14:00:00,,N/A
+SVF-3115,Off_campus_exam,2025-03-19 09:00:00,2025-03-26 14:00:00,N/A
+SVF-3901,Assignment,2025-05-15 14:00:00,,N/A
+SVF-3903,Assignment_2,2025-05-15 14:00:00,,N/A
+SVF-8067,Assignment,2025-06-04 14:00:00,,N/A
+SVF-8070,Assignment,2024-11-28 14:00:00,,N/A
+SVH-8003,Assignment,2024-11-22 09:00:00,2024-12-06 14:00:00,N/A
+TYS-0100,Skriftlig_skoleeksamen,2024-12-09 09:00:00,,(TROMSO): Teorifagbygget hus 1 – Plan 3 rom til bruk for eksamen
+TYS-1001,Hjemmeksamen,2025-05-27 09:00:00,2025-05-27 17:00:00,N/A
+TYS-1002,Hjemmeksamen,2025-05-30 09:00:00,2025-05-30 17:00:00,N/A
+TYS-1101,Mappevurdering,2025-05-21 14:00:00,,N/A
+TYS-6011,Hjemmeeksamen,2024-11-27 14:00:00,,N/A
+TYS-6012,Hjemmeeksamen,2025-04-01 14:00:00,,N/A
+TYS-6012,Hjemmeeksamen,2025-04-25 14:00:00,,N/A
+TYS-6012,Hjemmeeksamen,2025-04-23 14:00:00,,N/A
+VID-6070,Skriftlig_skoleeksamen,2024-11-29 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-3) Del 3
+VID-6071,Hjemmeeksamen,2025-05-21 09:00:00,2025-05-23 13:00:00,N/A
+VID-6074,Hjemmeeksamen,2024-12-02 09:00:00,2024-12-06 14:00:00,N/A
+VID-6076,Hjemmeeksamen,2024-12-02 09:00:00,2024-12-06 14:00:00,N/A
+VID-6082,Hjemmeeksamen,2024-12-13 14:00:00,,N/A
+VID-6083,Hjemmeeksamen,2025-06-06 14:00:00,,N/A
+VID-6088,Hjemmeeksamen,2024-12-10 09:00:00,2024-12-13 13:00:00,N/A
+VID-6089,Hjemmeeksamen,2025-05-05 09:00:00,2025-05-09 14:00:00,N/A
+VID-6110,Praktisk_eksamen,2024-12-12 00:00:00,2024-12-13 00:00:00,N/A
+VID-6114,Praktisk_eksamen,2024-11-27 00:00:00,2024-11-28 00:00:00,N/A
+VID-6118,Muntlig_eksamen,2024-11-29 00:00:00,2024-11-29 00:00:00,N/A
+VID-6119,Hjemmeeksamen,2025-05-06 09:00:00,2025-05-09 13:00:00,N/A
+Course Code,Exam_Type,,,Room Info
+BED-1002,Skriftlig_skoleeksamen,2025-05-14 09:00:00,,"(HARSTAD): Havnegata 5-7 – 112 Undervisningsrom 2
+(HARSTAD): Havnegata 5-7 – Undervisningsrom 6
+(TROMSO): Administrasjonsbygget – Auditorium Maximum (Tromsø)
+(TROMSO): Administrasjonsbygget – B154 Eksamensrom (Tromsø)
+(NARVIK): E-Fløyen – E2470, Seminarrom
+(NARVIK): E-Fløyen – E2471, Seminarrom
+(TROMSO): Administrasjonsbygget – K1.04 Eksamensrom (Tromsø)"
+BED-1002NETT,Hjemmeeksamen,2025-05-14 09:00:00,2025-05-14 13:00:00,N/A
+BED-1004,Skriftlig_skoleeksamen,2024-11-26 09:00:00,,"(TROMSO): Kraft sportssenter – Idrettsbane (036-1) Del 1
+(TROMSO): Kraft sportssenter – Idrettsbane (036-2) Del 2
+(HARSTAD): Havnegata 5-7 – Undervisningsrom 1
+(HARSTAD): Havnegata 5-7 – Grupperom 218
+(HARSTAD): Havnegata 5-7 – Undervisningsrom 6
+(NARVIK): E-Fløyen – E2430, Seminarrom"
+BED-1004NETT,Oppgave,2024-11-26 14:00:00,,N/A
+BED-1007,Skriftlig_skoleeksamen,2024-12-02 09:00:00,,"(TROMSO): Kraft sportssenter – Idrettsbane (036-2) Del 2
+(TROMSO): Kraft sportssenter – Idrettsbane (036-3) Del 3
+(HARSTAD): Havnegata 5-7 – Grupperom 218
+(HARSTAD): Havnegata 5-7 – Undervisningsrom 6
+(HARSTAD): Havnegata 5-7 – Undervisningsrom 9"
+BED-1007NETT,Skriftlig_skoleeksamen_-_Finnsnes,2024-12-02 09:00:00,,Studiesenteret Midt-Troms – Rom 258 Finnsnes
+BED-1007NETT,Skriftlig_skoleeksamen_-_Oslo,2024-12-02 09:00:00,,N/A
+BED-1007NETT,Skriftlig_skoleeksamen,2024-12-02 09:00:00,,"(HARSTAD): Havnegata 5-7 – Undervisningsrom 1
+(ALTA): Campus Alta Byggetrinn 3 – Rom A102, Kultursalen (Alta)
+(NARVIK): E-Fløyen – E2461, Undervisningsrom
+(TROMSO): Administrasjonsbygget – K1.04 Eksamensrom (Tromsø)
+(KIRKENES): UiT i Kirkenes – 1.05 Store klasserom"
+BED-1007NETT,Skriftlig_skoleeksamen_-_Storslett,2024-12-02 09:00:00,,N/A
+BED-1009,Oppgave,2024-12-13 14:00:00,,N/A
+BED-1009NETT,Oppgave,2024-12-13 14:00:00,,N/A
+BED-1013,Hjemmeeksamen,2024-11-22 09:00:00,2024-11-22 13:00:00,N/A
+BED-1013NETT,Hjemmeeksamen,2024-11-22 09:00:00,2024-11-22 13:00:00,N/A
+BED-2003,Oppgave,2025-05-02 14:00:00,,N/A
+BED-2003NETT,Oppgave,2025-05-02 14:00:00,,N/A
+BED-2010NETT,Skriftlig_skoleeksamen,2024-12-13 09:00:00,,"(TROMSO): Kraft sportssenter – Idrettsbane (036-1) Del 1
+(ALTA): Campus Alta Byggetrinn 2 – Rom 2107, Seminarrom (Alta)
+(ALTA): Campus Alta Byggetrinn 2 – Rom 2108, Seminarrom (Alta)
+(HARSTAD): Havnegata 5-7 – Undervisningsrom 6
+(NARVIK): E-Fløyen – E1460, Seminarrom
+Finnsnes – Finnsnes
+(KIRKENES): UiT i Kirkenes – 402 Seminarrom"
+BED-2011,Skriftlig_skoleeksamen,2024-11-29 09:00:00,,"(TROMSO): Kraft sportssenter – Idrettsbane (036-1) Del 1
+(HARSTAD): Havnegata 5-7 – Undervisningsrom 6
+(NARVIK): E-Fløyen – E1540, Seminarrom"
+BED-2011NETT,Skriftlig_skoleeksamen,2024-11-29 09:00:00,,"(TROMSO): Kraft sportssenter – Idrettsbane (036-3) Del 3
+(ALTA): Campus Alta Byggetrinn 2 – Rom 2107, Seminarrom (Alta)
+(ALTA): Campus Alta Byggetrinn 2 – Rom 2108, Seminarrom (Alta)
+(HARSTAD): Havnegata 5-7 – Undervisningsrom 7
+(NARVIK): E-Fløyen – E1540, Seminarrom
+(KIRKENES): UiT i Kirkenes – 1.05 Store klasserom"
+BED-2011NETT,Skriftlig_skoleeksamen_-_Storslett,2024-11-29 09:00:00,,N/A
+BED-2011NETT,Skriftlig_skoleeksamen_-_Finnsnes,2024-11-29 09:00:00,,Studiesenteret Midt-Troms – Rom 258 Finnsnes
+BED-2011NETT,Skriftlig_skoleeksamen_-_Oslo,2024-11-29 09:00:00,,N/A
+BED-2012,Skriftlig_skoleeksamen,2024-11-29 09:00:00,,"(TROMSO): Kraft sportssenter – Idrettsbane (036-2) Del 2
+(NARVIK): E-Fløyen – E1540, Seminarrom"
+BED-2019,Hjemmeeksamen,2025-05-09 09:00:00,2025-05-09 13:00:00,N/A
+BED-2019NETT,Hjemmeeksamen,2025-05-09 09:00:00,2025-05-09 13:00:00,N/A
+BED-2020,Skriftlig_skoleeksamen,2024-12-04 09:00:00,,"(TROMSO): Kraft sportssenter – Idrettsbane (036-2) Del 2
+(HARSTAD): Havnegata 5-7 – Undervisningsrom 6
+(ALTA): Campus Alta Byggetrinn 3 – Rom A102, Kultursalen (Alta)
+(NARVIK): E-Fløyen – E1480, Aktivt læringsrom
+(KIRKENES): UiT i Kirkenes – 1.05 Store klasserom"
+BED-2020NETT,Skriftlig_skoleeksamen,2024-12-04 09:00:00,,"(TROMSO): Kraft sportssenter – Idrettsbane (036-1) Del 1
+(HARSTAD): Havnegata 5-7 – Undervisningsrom 7
+(HARSTAD): Havnegata 5-7 – Undervisningsrom 9
+(ALTA): Campus Alta Byggetrinn 3 – Rom A102, Kultursalen (Alta)
+(MO I RANA): Campus Helgeland – Undervisning
+(NARVIK): E-Fløyen – E1540, Seminarrom
+(KIRKENES): UiT i Kirkenes – 1.05 Store klasserom"
+BED-2020NETT,Skriftlig_skoleeksamen_-_Storslett,2024-12-04 09:00:00,,N/A
+BED-2020NETT,Skriftlig_skoleeksamen_-_Finnsnes,2024-12-04 09:00:00,,Studiesenteret Midt-Troms – Rom 258 Finnsnes
+BED-2020NETT,Skriftlig_skoleeksamen_-_Oslo,2024-12-04 09:00:00,,N/A
+BED-2021NETT,Skriftlig_skoleeksamen,2025-06-05 09:00:00,,"(TROMSO): Kraft sportssenter – Idrettsbane (036-1) Del 1
+(TROMSO): Kraft sportssenter – Idrettsbane (036-3) Del 3
+(ALTA): Campus Alta Byggetrinn 2 – Rom 2107, Seminarrom (Alta)
+(HARSTAD): Havnegata 5-7 – Undervisningsrom 6
+(HARSTAD): Havnegata 5-7 – Undervisningsrom 7
+Studiesenteret Midt-Troms – Rom 258 Finnsnes
+Studiesenteret Midt-Troms – Rom 259 Finnsnes
+(NARVIK): E-Fløyen – E2463, Undervisningsrom"
+BED-2022NETT,Skriftlig_skoleeksamen,2024-12-10 09:00:00,,"(TROMSO): Kraft sportssenter – Idrettsbane (036-2) Del 2
+(ALTA): Campus Alta Byggetrinn 2 – Rom 2107, Seminarrom (Alta)
+(ALTA): Campus Alta Byggetrinn 2 – Rom 2108, Seminarrom (Alta)
+(HARSTAD): Havnegata 5-7 – Undervisningsrom 6
+(HARSTAD): Havnegata 5-7 – Undervisningsrom 9
+(NARVIK): E-Fløyen – E1540, Seminarrom
+Finnsnes – Finnsnes
+(KIRKENES): UiT i Kirkenes – 402 Seminarrom"
+BED-2022NETT,Skriftlig_skoleeksamen_-_Oslo,2024-12-10 09:00:00,,N/A
+BED-2022NETT,Skriftlig_skoleeksamen_-_Storslett,2024-12-10 09:00:00,,N/A
+BED-2023NETT,Hjemmeeksamen,2025-05-15 09:00:00,2025-05-15 15:00:00,N/A
+BED-2024NETT,Skriftlig_skoleeksamen,2025-05-27 09:00:00,,"(TROMSO): Kraft sportssenter – Idrettsbane (036-1) Del 1
+(HARSTAD): Havnegata 5-7 – Undervisningsrom 1
+(ALTA): Campus Alta Byggetrinn 2 – Rom 2107, Seminarrom (Alta)
+(NARVIK): E-Fløyen – E2463, Undervisningsrom"
+BED-2025NETT,Skriftlig_skoleeksamen,2024-11-25 09:00:00,,"(HARSTAD): Havnegata 5-7 – Undervisningsrom 1
+(ALTA): Campus Alta Byggetrinn 2 – Rom 2107, Seminarrom (Alta)
+(ALTA): Campus Alta Byggetrinn 2 – Rom 2108, Seminarrom (Alta)
+(TROMSO): Teorifagbygget hus 3 – Rom 3.203, bibliotek (Tromsø)
+(TROMSO): Teorifagbygget hus 4 – Rom 4.248, leserom (Tromsø)
+(NARVIK): E-Fløyen – E2550 Klasserom
+Finnsnes – Finnsnes
+(KIRKENES): UiT i Kirkenes – 1.05 Store klasserom"
+BED-2029,Hjemmeeksamen,2024-12-09 09:00:00,2024-12-09 14:00:00,N/A
+BED-2029NETT,Hjemmeeksamen,2024-12-09 09:00:00,2024-12-09 14:00:00,N/A
+BED-2032,Assignment,2025-05-20 14:00:00,,N/A
+BED-2032NETT,Assignment,2025-05-20 14:00:00,,N/A
+BED-2034NETT,Hjemmeeksamen,2024-12-02 09:00:00,2024-12-02 13:00:00,N/A
+BED-2035,Off_campus_exam,2025-05-26 13:00:00,2025-05-28 13:00:00,N/A
+BED-2043NETT,Oppgave,2025-05-30 14:00:00,,N/A
+BED-2046,Oppgave,2025-05-28 14:00:00,,N/A
+BED-2046,Skriftlig_skoleeksamen,2025-06-11 09:00:00,,"(TROMSO): Kraft sportssenter – Idrettsbane (036-2) Del 2
+(HARSTAD): Havnegata 5-7 – Undervisningsrom 1"
+BED-2048NETT,Hjemmeeksamen,2024-11-26 09:00:00,2024-11-26 13:00:00,N/A
+BED-2049,Oppgave,2025-05-16 14:00:00,,N/A
+BED-2052,Skriftlig_skoleeksamen,2025-06-04 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-1) Del 1
+BED-2052NETT,Oppgave,2024-12-16 14:00:00,,N/A
+BED-2053,Oppgave,2025-05-02 14:00:00,,N/A
+BED-2057,Hjemmeeksamen,2024-11-27 09:00:00,2024-11-29 13:00:00,N/A
+BED-2058,Muntlig_eksamen,2024-12-02 00:00:00,2024-12-03 00:00:00,N/A
+BED-2061NETT,Hjemmeeksamen,2025-06-04 09:00:00,2025-06-04 13:00:00,N/A
+BED-2063,Off_campus_exam,2024-12-03 09:00:00,2024-12-10 14:00:00,N/A
+BED-2108,Hjemmeeksamen,2024-12-03 09:00:00,2024-12-06 13:00:00,N/A
+BED-2109,Muntlig_eksamen,2024-12-02 00:00:00,2024-12-04 00:00:00,N/A
+BED-2112,Skriftlig_skoleeksamen,2024-11-21 09:00:00,,"(HARSTAD): Havnegata 5-7 – 112 Undervisningsrom 2
+(HARSTAD): Havnegata 5-7 – Undervisningsrom 1
+(TROMSO): Administrasjonsbygget – B154 Eksamensrom (Tromsø)
+(NARVIK): E-Fløyen – E2430, Seminarrom
+(TROMSO): Administrasjonsbygget – K1.04 Eksamensrom (Tromsø)"
+BED-2113,Skriftlig_skoleeksamen,2025-05-26 09:00:00,,(HARSTAD): Havnegata 5-7 – 112 Undervisningsrom 2
+BED-2123,Skriftlig_skoleeksamen,2024-12-02 09:00:00,,"(HARSTAD): Havnegata 5-7 – Undervisningsrom 7
+(HARSTAD): Havnegata 5-7 – Undervisningsrom 8"
+BED-2125,Hjemmeeksamen,2024-12-05 09:00:00,2024-12-05 12:00:00,N/A
+BED-2135,Mappevurdering,2024-11-27 14:00:00,,N/A
+BED-2139,Mappevurdering,2025-05-30 14:00:00,,N/A
+BED-2144,Off_campus_exam,2025-05-19 09:00:00,2025-05-23 14:00:00,N/A
+BED-2149,Hjemmeeksamen,2024-12-09 12:00:00,2024-12-16 12:00:00,N/A
+BED-2151NETT,Hjemmeeksamen,2025-05-15 09:00:00,2025-05-15 15:00:00,N/A
+BED-2205,Oppgave,2025-06-02 14:00:00,,N/A
+BED-2207,Oppgave,2025-06-02 14:00:00,,N/A
+BED-2208,Assignment,2025-06-02 14:00:00,,N/A
+BED-2209,Oppgave,2025-06-02 14:00:00,,N/A
+BED-2210,Oppgave,2025-06-02 14:00:00,,N/A
+BED-3003,Hjemmeeksamen,2024-12-02 13:00:00,2024-12-04 13:00:00,N/A
+BED-3003,Oppgave,2024-12-16 14:00:00,,N/A
+BED-3007H,Skriftlig_skoleeksamen,2024-12-11 09:00:00,,(HARSTAD): Havnegata 5-7 – Undervisningsrom 8
+BED-3011H,Skriftlig_skoleeksamen,2024-11-21 09:00:00,,"(ALTA): Campus Alta Byggetrinn 2 – Rom 2107, Seminarrom (Alta)
+(HARSTAD): Havnegata 5-7 – Undervisningsrom 8
+(HARSTAD): Havnegata 5-7 – Undervisningsrom 9
+(TROMSO): Administrasjonsbygget – Auditorium Maximum (Tromsø)
+(NARVIK): E-Fløyen – E2463, Undervisningsrom"
+BED-3013H,Oppgave,2024-12-16 14:00:00,,N/A
+BED-3043,Hjemmeeksamen,2024-11-18 09:00:00,2024-11-22 14:00:00,N/A
+BED-3043,Skriftlig_skoleeksamen,2024-12-04 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-1) Del 1
+BED-3044H,Skriftlig_skoleeksamen,2024-12-06 09:00:00,,"(TROMSO): Kraft sportssenter – Idrettsbane (036-2) Del 2
+(ALTA): Campus Alta Byggetrinn 2 – Rom 2108, Seminarrom (Alta)
+(HARSTAD): Havnegata 5-7 – Undervisningsrom 7
+(HARSTAD): Havnegata 5-7 – Undervisningsrom 8
+(NARVIK): E-Fløyen – E2430, Seminarrom
+(KIRKENES): UiT i Kirkenes – 1.05 Store klasserom"
+BED-3054H,Skriftlig_skoleeksamen,2025-05-27 09:00:00,,"(TROMSO): Kraft sportssenter – Idrettsbane (036-1) Del 1
+(HARSTAD): Havnegata 5-7 – 112 Undervisningsrom 2
+(ALTA): Campus Alta Byggetrinn 2 – Rom 2107, Seminarrom (Alta)
+Studiesenteret Midt-Troms – Rom 258 Finnsnes
+(NARVIK): E-Fløyen – E2463, Undervisningsrom"
+BED-3058H,Hjemmeeksamen,2024-12-02 09:00:00,2024-12-05 09:00:00,N/A
+BED-3059,Oppgave,2025-04-25 14:00:00,,N/A
+BED-3059,Skriftlig_skoleeksamen,2025-06-12 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-2) Del 2
+BED-3065,Oppgave,2025-03-14 14:00:00,,N/A
+BED-3065,Oppgave,2024-12-09 14:00:00,,N/A
+BED-3065,Oppgave,2025-05-16 14:00:00,,N/A
+BED-3067,Skriftlig_skoleeksamen,2025-05-26 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-3) Del 3
+BED-3070,Oppgave,2024-12-06 14:00:00,,N/A
+BED-3071,Hjemmeeksamen,2024-11-15 09:00:00,2024-11-29 14:00:00,N/A
+BED-3073,Oppgave,2024-12-16 14:00:00,,N/A
+BED-3074,Skriftlig_skoleeksamen,2024-12-12 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-2) Del 2
+BED-3074,iKomp,2024-12-12 09:00:00,,N/A
+BED-3077,Assignment,2024-12-02 14:00:00,,N/A
+BED-3083,Oppgave,2025-06-04 14:00:00,,N/A
+BED-3085,Hjemmeeksamen,2024-11-13 14:00:00,2024-11-27 14:00:00,N/A
+BED-3086,Hjemmeeksamen,2025-05-19 09:00:00,2025-06-11 14:00:00,N/A
+BED-3087,Muntlig_eksamen,2024-11-27 00:00:00,2024-11-28 00:00:00,N/A
+BED-3088,Hjemmeeksamen,2025-04-24 09:00:00,2025-05-16 14:00:00,N/A
+BED-3089,Hjemmeeksamen,2025-04-10 09:00:00,2025-05-09 14:00:00,N/A
+BED-3090,Hjemmeeksamen,2024-11-27 09:00:00,2024-11-27 14:00:00,N/A
+BED-3091,Hjemmeeksamen,2025-05-07 09:00:00,2025-05-07 14:00:00,N/A
+BED-3093,Hjemmeeksamen,2024-12-04 09:00:00,2024-12-04 14:00:00,N/A
+BED-3100,Hjemmeeksamen,2025-06-04 09:00:00,2025-06-04 15:00:00,N/A
+BED-3107,Oppgave,2024-12-02 14:00:00,,N/A
+BED-3108,Hjemmeeksamen,2025-03-14 09:00:00,2025-03-28 14:00:00,N/A
+BED-3108,Hjemmeeksamen,2025-05-09 09:00:00,2025-05-23 14:00:00,N/A
+BED-3111,Assignment,2024-12-13 14:00:00,,N/A
+BED-3113,Oppgave,2025-05-19 14:00:00,,N/A
+BED-3114,Muntlig_eksamen,2025-04-08 08:30:00,,N/A
+BED-3114,Oppgave,2025-04-11 14:00:00,,N/A
+BED-3114,Oppgave,2025-05-23 14:00:00,,N/A
+BED-3115,Hjemmeeksamen,2025-04-24 09:00:00,2025-05-16 14:00:00,N/A
+BED-3115,Skriftlig_skoleeksamen,2025-06-02 09:00:00,,(TROMSO): Administrasjonsbygget – Auditorium Maximum (Tromsø)
+BED-3901,Oppgave,2025-06-02 14:00:00,,N/A
+BED-3901H,Oppgave,2024-12-02 14:00:00,,N/A
+BED-3901H,Oppgave,2025-06-02 14:00:00,,N/A
+BED-3902,Oppgave,2025-06-02 14:00:00,,N/A
+BED-3906,Oppgave,2025-06-02 14:00:00,,N/A
+BED-3907,Oppgave,2024-12-02 14:00:00,,N/A
+BED-3907,Oppgave,2025-06-02 14:00:00,,N/A
+BED-3910,Oppgave,2024-12-02 14:00:00,,N/A
+BED-8004,Assignment,2025-05-30 14:00:00,,N/A
+BIO-1007,Mappevurdering,2024-11-28 14:00:00,,N/A
+BIO-1008,Skriftlig_skoleeksamen,2024-12-11 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-1) Del 1
+BIO-1103,Skriftlig_skoleeksamen,2024-12-16 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-1) Del 1
+BIO-1104,Skriftlig_skoleeksamen,2025-06-17 09:00:00,,(TROMSO): Administrasjonsbygget – B154 Eksamensrom (Tromsø)
+BIO-1105,Skriftlig_skoleeksamen,2024-11-20 09:00:00,,"(TROMSO): Teorifagbygget hus 3 – Rom 3.203, bibliotek (Tromsø)"
+BIO-1601,Skriftlig_skoleeksamen,2025-06-13 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-1) Del 1
+BIO-2002,Oppgave,2025-05-28 14:00:00,,N/A
+BIO-2002,Skriftlig_skoleeksamen,2025-06-02 09:00:00,,(TROMSO): Administrasjonsbygget – K1.04 Eksamensrom (Tromsø)
+BIO-2004,Skriftlig_skoleeksamen,2024-12-02 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-1) Del 1
+BIO-2005,Muntlig_eksamen,2024-12-04 00:00:00,2024-12-06 00:00:00,N/A
+BIO-2016,Skriftlig_skoleeksamen,2024-12-10 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-2) Del 2
+BIO-2017,Skriftlig_skoleeksamen,2025-05-26 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-3) Del 3
+BIO-2017,Skriftlig_skoleeksamen,2024-11-27 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-1) Del 1
+BIO-2018,Oppgave,2025-05-02 14:00:00,,N/A
+BIO-2027,Skriftlig_skoleeksamen,2024-11-27 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-1) Del 1
+BIO-2037,Oppgave,2024-12-04 14:00:00,,N/A
+BIO-2103,Muntlig_eksamen,2024-12-04 00:00:00,2024-12-06 00:00:00,N/A
+BIO-2200,Oppgave,2024-12-16 14:00:00,,N/A
+BIO-2200,Oppgave,2025-06-02 14:00:00,,N/A
+BIO-2201,Assignment,2024-12-16 14:00:00,,N/A
+BIO-2201,Assignment,2025-06-02 14:00:00,,N/A
+BIO-2203,Assignment,2024-12-16 14:00:00,,N/A
+BIO-2203,Assignment,2025-06-02 14:00:00,,N/A
+BIO-2504,School_exam,2024-12-12 09:00:00,,"(TROMSO): Teorifagbygget hus 3 – Rom 3.218, lesesal (Tromsø)"
+BIO-2506,School_exam,2024-12-10 09:00:00,,"(TROMSO): Teorifagbygget hus 3 – Rom 3.218, lesesal (Tromsø)"
+BIO-2508,School_exam,2024-11-27 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-1) Del 1
+BIO-2513,Skriftlig_skoleeksamen,2025-05-19 09:00:00,,(TROMSO): Administrasjonsbygget – K1.04 Eksamensrom (Tromsø)
+BIO-2516,Assignment,2025-05-21 14:00:00,,N/A
+BIO-2516,Assignment,2025-05-23 14:00:00,,N/A
+BIO-2601,Hjemmeeksamen,2025-06-16 09:00:00,2025-06-16 13:00:00,N/A
+BIO-2602,Skriftlig_skoleeksamen,2025-05-20 09:00:00,,(TROMSO): Administrasjonsbygget – B154 Eksamensrom (Tromsø)
+BIO-2604,Skriftlig_skoleeksamen,2024-11-28 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-2) Del 2
+BIO-2606,Hjemmeeksamen,2024-11-21 09:00:00,2024-11-28 14:00:00,N/A
+BIO-2610,Assignment,2024-12-02 14:00:00,,N/A
+BIO-2610,Assignment,2025-06-02 14:00:00,,N/A
+BIO-2620,Assignment,2024-12-02 14:00:00,,N/A
+BIO-2620,Assignment,2025-06-02 14:00:00,,N/A
+BIO-3004,Assignment,2025-05-02 14:00:00,,N/A
+BIO-3009,Oral_exam,2024-12-04 00:00:00,2024-12-06 00:00:00,N/A
+BIO-3011,School_exam,2025-05-13 09:00:00,,(TROMSO): Administrasjonsbygget – K1.04 Eksamensrom (Tromsø)
+BIO-3012,Assignment,2025-04-11 14:00:00,,N/A
+BIO-3013,Oral_exam,2024-12-09 08:00:00,,N/A
+BIO-3014,School_exam,2024-11-28 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-1) Del 1
+BIO-3015,Oral_exam,2024-12-02 00:00:00,2024-12-05 00:00:00,N/A
+BIO-3018,Oral_exam,2024-11-28 00:00:00,2024-11-29 00:00:00,N/A
+BIO-3020,Assignment,2024-12-06 14:00:00,,N/A
+BIO-3020,School_exam,2024-12-10 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-3) Del 3
+BIO-3021,Off_campus_exam,2024-11-29 09:00:00,2024-12-13 14:00:00,N/A
+BIO-3027,Off_campus_exam,2025-03-25 09:00:00,2025-04-25 14:00:00,N/A
+BIO-3029,Assignment,2025-02-24 14:00:00,,N/A
+BIO-3029,School_exam,2025-03-04 09:00:00,,(TROMSO): Administrasjonsbygget – B154 Eksamensrom (Tromsø)
+BIO-3030,Assignment,2025-04-14 14:00:00,,N/A
+BIO-3030,Assignment,2025-06-06 14:00:00,,N/A
+BIO-3032,Oral_exam,2024-12-16 08:00:00,,N/A
+BIO-3032,Assignment,2024-11-22 14:00:00,,N/A
+BIO-3032,School_exam,2024-12-10 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-1) Del 1
+BIO-3503,School_exam,2025-05-26 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-1) Del 1
+BIO-3505,Oral_exam,2024-11-27 00:00:00,2024-11-28 00:00:00,N/A
+BIO-3512,School_exam,2025-06-03 09:00:00,,(TROMSO): Administrasjonsbygget – B154 Eksamensrom (Tromsø)
+BIO-3516,Assignment,2024-11-27 14:00:00,,N/A
+BIO-3516,Oral_exam,2024-12-11 00:00:00,2024-12-13 00:00:00,N/A
+BIO-3519,Oral_exam,2024-12-10 00:00:00,2024-12-13 00:00:00,N/A
+BIO-3529,Oral_exam,2024-11-19 00:00:00,2024-11-21 00:00:00,N/A
+BIO-3602,Skriftlig_skoleeksamen,2024-12-03 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-1) Del 1
+BIO-3607,Skriftlig_skoleeksamen,2024-12-10 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-3) Del 3
+BIO-3609,School_exam,2024-12-02 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-2) Del 2
+BIO-3610,Off_campus_exam,2024-12-09 09:00:00,2024-12-10 14:00:00,N/A
+BIO-3612,Assignment,2024-11-29 14:00:00,,N/A
+BIO-3612,School_exam,2024-12-12 09:00:00,,"(TROMSO): Teorifagbygget hus 3 – Rom 3.218, lesesal (Tromsø)"
+BIO-3613,Skriftlig_skoleeksamen,2025-05-22 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-1) Del 1
+BIO-3615,Off_campus_exam,2024-12-03 09:00:00,2024-12-04 14:00:00,N/A
+BIO-3615,Portfolio,2024-11-22 14:00:00,,N/A
+BIO-3901,Assignment,2025-05-15 14:00:00,,N/A
+BIO-3907,Oppgave,2025-06-02 14:00:00,,N/A
+BIO-3930,Assignment,2025-05-15 14:00:00,,N/A
+BIO-3950,Assignment,2025-05-15 14:00:00,,N/A
+BIO-3955,Oppgave,2025-05-15 14:00:00,,N/A
+BIO-3960,Assignment,2025-05-15 14:00:00,,N/A
+BIO-6002,Mappevurdering,2025-06-20 14:00:00,,N/A
+BIO-8014,School_exam,2025-05-26 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-1) Del 1
+BIO-8015,Oral_exam,2024-12-04 00:00:00,2024-12-06 00:00:00,N/A
+BIO-8016,Oral_exam,2024-12-09 08:00:00,,N/A
+BIO-8017,School_exam,2024-11-28 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-1) Del 1
+BIO-8018,Oral_exam,2024-11-28 00:00:00,2024-11-29 00:00:00,N/A
+BIO-8020,Oral_exam,2024-12-02 00:00:00,2024-12-05 00:00:00,N/A
+BIO-8025,Assignment,2025-03-17 14:00:00,,N/A
+BIO-8027,Off_campus_exam,2025-03-25 09:00:00,2025-04-25 14:00:00,N/A
+BIO-8029,Assignment,2025-02-24 14:00:00,,N/A
+BIO-8029,School_exam,2025-03-04 09:00:00,,(TROMSO): Administrasjonsbygget – B154 Eksamensrom (Tromsø)
+BIO-8032,Assignment,2024-12-06 14:00:00,,N/A
+BIO-8105,Assignment,2025-04-11 14:00:00,,N/A
+BIO-8621,Assignment,2024-11-15 09:00:00,2024-12-16 14:00:00,N/A
+FSK-1100,Skriftlig_skoleeksamen,2024-11-27 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-2) Del 2
+FSK-1120,Skriftlig_skoleeksamen,2025-06-04 09:00:00,,(TROMSO): Administrasjonsbygget – K1.04 Eksamensrom (Tromsø)
+FSK-1121,Skriftlig_skoleeksamen,2025-06-02 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-2) Del 2
+FSK-2010,Oppgave,2025-03-17 14:00:00,,N/A
+FSK-2010,Oppgave,2025-05-06 14:00:00,,N/A
+FSK-2020,Hjemmeeksamen,2024-11-22 09:00:00,2024-12-06 14:00:00,N/A
+FSK-2020,Skriftlig_skoleeksamen,2024-12-13 09:00:00,,"(TROMSO): Teorifagbygget hus 3 – Rom 3.218, lesesal (Tromsø)"
+FSK-2030,Skriftlig_skoleeksamen,2025-05-20 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-1) Del 1
+FSK-2042,Mappe/sammensatt_vurdering,2024-12-09 14:00:00,,N/A
+FSK-2043,Skriftlig_skoleeksamen,2024-12-11 09:00:00,,"(TROMSO): Teorifagbygget hus 3 – Rom 3.218, lesesal (Tromsø)"
+FSK-2050,Oppgave,2025-06-02 14:00:00,,N/A
+FSK-2051,Assignment,2025-06-02 14:00:00,,N/A
+FSK-2052,Skriftlig_skoleeksamen,2025-05-16 09:00:00,,(TROMSO): Administrasjonsbygget – K1.04 Eksamensrom (Tromsø)
+FSK-2053,Hjemmeeksamen,2025-05-22 09:00:00,2025-05-30 14:00:00,N/A
+FSK-2054,Oppgave,2025-06-06 14:00:00,,N/A
+FSK-2060,Oppgave,2024-12-02 14:00:00,,N/A
+FSK-2060,Oppgave,2025-06-02 14:00:00,,N/A
+FSK-2551,Oppgave,2025-06-02 14:00:00,,N/A
+FSK-3004,Oppgave,2024-12-06 14:00:00,,N/A
+FSK-3004,Skriftlig_skoleeksamen,2024-12-13 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-1) Del 1
+FSK-3014,Mappevurdering,2024-12-09 14:00:00,,N/A
+FSK-3551,Assignment,2025-05-15 14:00:00,,N/A
+FSK-3624,Off_campus_exam,2024-11-29 09:00:00,2024-12-04 14:00:00,N/A
+FSK-3960,Oppgave,2025-05-15 14:00:00,,N/A
+FSK-8003,Off_campus_exam,2025-05-29 09:00:00,2025-06-05 14:00:00,N/A
+REI-1002,Off_campus_exam,2024-12-02 09:00:00,2024-12-06 14:00:00,N/A
+REI-1004,School_exam,2024-11-19 09:00:00,,"(ALTA): Campus Alta Byggetrinn 2 – Rom 2107, Seminarrom (Alta)"
+REI-1010,Off_campus_exam,2025-03-24 09:00:00,2025-03-28 12:00:00,N/A
+REI-1104,Hjemmeeksamen,2025-04-24 09:00:00,2025-04-28 14:00:00,N/A
+REI-1107,Mappevurdering,2025-05-23 14:00:00,,N/A
+REI-1502,Off_campus_exam,2024-11-25 09:00:00,2024-11-29 14:00:00,N/A
+REI-2010,Assignment,2025-05-16 14:00:00,,N/A
+REI-3015,Off_campus_exam,2025-02-03 09:00:00,2025-02-17 14:00:00,N/A
+REI-3203,Hjemmeeksamen,2024-11-18 09:00:00,2024-12-09 14:00:00,N/A
+REI-3205,Hjemmeeksamen,2025-05-15 09:00:00,2025-06-06 14:00:00,N/A
+REI-3901,Oppgave,2025-06-02 14:00:00,,N/A
+REI-3910,Assignment,2025-06-02 14:00:00,,N/A
+SOK-1002,Skriftlig_skoleeksamen,2025-06-02 09:00:00,,"(TROMSO): Kraft sportssenter – Idrettsbane (036-2) Del 2
+(TROMSO): Kraft sportssenter – Idrettsbane (036-3) Del 3
+(HARSTAD): Havnegata 5-7 – 112 Undervisningsrom 2
+(HARSTAD): Havnegata 5-7 – Undervisningsrom 6
+(NARVIK): E-Fløyen – E1480, Aktivt læringsrom"
+SOK-1002NETT,Skriftlig_skoleeksamen,2025-06-02 09:00:00,,"(TROMSO): Kraft sportssenter – Idrettsbane (036-3) Del 3
+(ALTA): Campus Alta Byggetrinn 2 – Rom 2107, Seminarrom (Alta)
+(ALTA): Campus Alta Byggetrinn 2 – Rom 2108, Seminarrom (Alta)
+(HARSTAD): Havnegata 5-7 – Undervisningsrom 9
+(NARVIK): E-Fløyen – E1540, Seminarrom
+(KIRKENES): UiT i Kirkenes – 1.05 Store klasserom"
+SOK-1002NETT,Skriftlig_skoleeksamen_-_Finnsnes,2025-06-02 09:00:00,,"Studiesenteret Midt-Troms – Rom 258 Finnsnes
+Studiesenteret Midt-Troms – Rom 259 Finnsnes"
+SOK-1002NETT,Skriftlig_skoleeksamen_-_Oslo,2025-06-02 09:00:00,,N/A
+SOK-1003,Mappevurdering,2024-11-29 14:00:00,,N/A
+SOK-1004,Mappevurdering,2024-12-09 14:00:00,,N/A
+SOK-1004,Mappevurdering,2025-06-06 14:00:00,,N/A
+SOK-1005,Mappevurdering,2025-05-30 14:00:00,,N/A
+SOK-1006,Mappevurdering,2025-06-06 14:00:00,,N/A
+SOK-1010,Skriftlig_skoleeksamen,2025-05-28 09:00:00,,"(TROMSO): Kraft sportssenter – Idrettsbane (036-3) Del 3
+(HARSTAD): Havnegata 5-7 – Undervisningsrom 6
+(HARSTAD): Havnegata 5-7 – Undervisningsrom 9
+(NARVIK): E-Fløyen – E2430, Seminarrom"
+SOK-1010NETT,Hjemmeeksamen,2025-05-20 09:00:00,2025-05-20 13:00:00,N/A
+SOK-1010NETT,Skriftlig_skoleeksamen,2025-05-28 09:00:00,,"(TROMSO): Kraft sportssenter – Idrettsbane (036-1) Del 1
+(TROMSO): Kraft sportssenter – Idrettsbane (036-2) Del 2
+(HARSTAD): Havnegata 5-7 – Undervisningsrom 7
+(HARSTAD): Havnegata 5-7 – Undervisningsrom 8
+Studiesenteret Midt-Troms – Rom 259 Finnsnes
+(ALTA): Campus Alta Byggetrinn 3 – Rom A102, Kultursalen (Alta)
+(NARVIK): E-Fløyen – E2470, Seminarrom
+(KIRKENES): UiT i Kirkenes – 1.05 Store klasserom"
+SOK-2008,Muntlig_eksamen,2024-11-25 00:00:00,2024-11-29 00:00:00,N/A
+SOK-2009,Mappevurdering,2024-12-04 14:00:00,,N/A
+SOK-2011,Mappevurdering,2025-05-23 14:00:00,,N/A
+SOK-2013,Oppgave,2024-11-29 14:00:00,,N/A
+SOK-2014,Oppgave,2024-12-09 14:00:00,,N/A
+SOK-2030,Mappevurdering,2025-05-16 14:00:00,,N/A
+SOK-2050,Assignment,2025-06-02 14:00:00,,N/A
+SOK-2209,Oppgave,2025-06-02 14:00:00,,N/A
+SOK-3008,Portfolio,2024-12-16 14:00:00,,N/A
+SOK-3011,Oppgave,2024-11-22 14:00:00,,N/A
+SOK-3012,Oppgave,2024-12-02 14:00:00,,N/A
+SOK-3020,School_exam,2024-12-09 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-3) Del 3
+SOK-3021,Skriftlig_skoleeksamen,2025-03-25 09:00:00,,(TROMSO): Administrasjonsbygget – B154 Eksamensrom (Tromsø)
+SOK-3022,Oppgave,2025-05-20 14:00:00,,N/A
+SOK-3023,Muntlig_eksamen,2025-05-22 00:00:00,2025-05-23 00:00:00,N/A
+SOK-3023,Oppgave,2025-05-07 14:00:00,,N/A
+SOK-3901,Assignment,2025-06-02 14:00:00,,N/A
+SVF-3401,Assignment,2024-12-17 14:00:00,,N/A
+SVF-3402,Assignment,2025-06-13 14:00:00,,N/A
+SVF-3409,Assignment,2025-05-15 14:00:00,,N/A
+SVF-3555,School_exam,2024-11-22 09:00:00,,"(TROMSO): Teorifagbygget hus 3 – Rom 3.218, lesesal (Tromsø)"
+SVF-3650,Oppgave,2024-12-02 14:00:00,,N/A
+SVF-3650,Oppgave,2025-05-30 14:00:00,,N/A
+Course Code,Exam_Type,,,Room Info
+JUR-0500,Skriftlig_skoleeksamen,2024-12-05 09:00:00,,"(TROMSO): Kraft sportssenter – Idrettsbane (036-2) Del 2
+(TROMSO): Kraft sportssenter – Idrettsbane (036-3) Del 3"
+JUR-1003,Skriftlig_skoleeksamen,2025-05-27 09:00:00,,"(TROMSO): Kraft sportssenter – Idrettsbane (036-1) Del 1
+(TROMSO): Kraft sportssenter – Idrettsbane (036-2) Del 2
+(TROMSO): Kraft sportssenter – Idrettsbane (036-3) Del 3"
+JUR-1005,Off_campus_exam,2025-02-04 09:00:00,2025-02-10 14:00:00,N/A
+JUR-2011,Oppgave,2024-11-27 14:00:00,,N/A
+JUR-2012,Hjemmeeksamen,2025-05-13 09:00:00,2025-05-16 14:00:00,N/A
+JUR-2013,Skriftlig_skoleeksamen,2025-06-16 09:00:00,,"(TROMSO): Administrasjonsbygget – Auditorium Maximum (Tromsø)
+(TROMSO): Administrasjonsbygget – B154 Eksamensrom (Tromsø)
+(TROMSO): Administrasjonsbygget – K1.04 Eksamensrom (Tromsø)"
+JUR-2511,Hjemmeeksamen,2024-12-10 09:00:00,2024-12-12 14:00:00,N/A
+JUR-2512,Hjemmeeksamen,2025-05-05 09:00:00,2025-05-08 14:00:00,N/A
+JUR-2513,Skriftlig_skoleeksamen,2025-06-06 09:00:00,,"(TROMSO): Kraft sportssenter – Idrettsbane (036-2) Del 2
+(TROMSO): Kraft sportssenter – Idrettsbane (036-3) Del 3"
+JUR-3005,Oppgave,2024-11-29 12:00:00,,N/A
+JUR-3009,Hjemmeeksamen,2024-12-16 09:00:00,2024-12-17 12:00:00,N/A
+JUR-3010,Hjemmeeksamen,2024-12-16 09:00:00,2024-12-17 12:00:00,N/A
+JUR-3012,Hjemmeeksamen,2025-04-22 09:00:00,2025-04-25 14:00:00,N/A
+JUR-3013,Skriftlig_skoleeksamen,2025-05-28 09:00:00,,"(TROMSO): Administrasjonsbygget – Auditorium Maximum (Tromsø)
+(TROMSO): Administrasjonsbygget – B154 Eksamensrom (Tromsø)
+(TROMSO): Administrasjonsbygget – K1.04 Eksamensrom (Tromsø)"
+JUR-3014,Skriftlig_skoleeksamen,2025-06-05 09:00:00,,"(TROMSO): Kraft sportssenter – Idrettsbane (036-2) Del 2
+(TROMSO): Kraft sportssenter – Idrettsbane (036-3) Del 3"
+JUR-3050,School_exam,2024-11-29 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-3) Del 3
+JUR-3052,School_exam,2025-04-30 09:00:00,,(TROMSO): Administrasjonsbygget – K1.04 Eksamensrom (Tromsø)
+JUR-3053,Off_campus_exam,2025-05-06 09:00:00,2025-05-09 14:00:00,N/A
+JUR-3054,School_exam,2024-12-09 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-3) Del 3
+JUR-3602,School_exam,2024-12-05 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-3) Del 3
+JUR-3608,Muntlig_eksamen,2024-12-12 00:00:00,2024-12-13 00:00:00,N/A
+JUR-3613,Skriftlig_skoleeksamen,2025-04-28 09:00:00,,(TROMSO): Administrasjonsbygget – B154 Eksamensrom (Tromsø)
+JUR-3614,Skriftlig_skoleeksamen,2025-05-13 09:00:00,,(TROMSO): Administrasjonsbygget – B154 Eksamensrom (Tromsø)
+JUR-3615,School_exam,2025-04-30 09:00:00,,(TROMSO): Administrasjonsbygget – K1.04 Eksamensrom (Tromsø)
+JUR-3616,Skriftlig_skoleeksamen,2024-11-26 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-3) Del 3
+JUR-3617,Skriftlig_skoleeksamen,2024-12-06 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-3) Del 3
+JUR-3618,Hjemmeeksamen,2024-11-25 09:00:00,2024-11-25 15:00:00,N/A
+JUR-3619,Off_campus_exam,2024-12-05 09:00:00,2024-12-05 15:00:00,N/A
+JUR-3621,Off_campus_exam,2024-11-25 09:00:00,2024-12-04 14:00:00,N/A
+JUR-3623,School_exam,2024-11-26 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-3) Del 3
+JUR-3624,Off_campus_exam,2025-03-24 09:00:00,2025-03-28 14:00:00,N/A
+JUR-3626,Off_campus_exam,2024-12-02 09:00:00,2024-12-04 14:00:00,N/A
+JUR-3627,Off_campus_exam,2025-05-16 09:00:00,2025-05-16 15:00:00,N/A
+JUR-3628,Muntlig_eksamen,2024-12-05 00:00:00,2024-12-06 00:00:00,N/A
+JUR-3901,Oppgave,2024-12-16 12:00:00,,N/A
+JUR-3901,Oppgave,2025-05-05 12:00:00,,N/A
+JUR-3902,Oppgave,2024-12-16 12:00:00,,N/A
+JUR-3902,Oppgave,2025-05-05 12:00:00,,N/A
+JUR-3903,Oppgave,2024-12-16 12:00:00,,N/A
+JUR-3903,Oppgave,2025-05-19 12:00:00,,N/A
+JUR-3920,Assignment,2025-06-02 12:00:00,,N/A
+Course Code,Exam_Type,,,Room Info
+AUT-1500,Skriftlig_skoleeksamen,2024-12-02 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-1) Del 1
+AUT-2501,Skriftlig_skoleeksamen,2024-11-28 09:00:00,,(TROMSO): Teorifagbygget hus 1 – Plan 3 rom til bruk for eksamen
+AUT-2503,Skriftlig_skoleeksamen,2025-05-30 09:00:00,,(TROMSO): Administrasjonsbygget – B154 Eksamensrom (Tromsø)
+AUT-2504,Hjemmeeksamen,2025-06-06 09:00:00,2025-06-06 13:00:00,N/A
+AUT-2507,Skriftlig_skoleeksamen,2024-12-13 09:00:00,,(TROMSO): Teorifagbygget hus 1 – Plan 3 rom til bruk for eksamen
+AUT-2600,Skriftlig_skoleeksamen,2024-11-25 09:00:00,,(TROMSO): Teorifagbygget hus 1 – Plan 3 rom til bruk for eksamen
+AUT-2602,Hjemmeeksamen,2024-11-22 09:00:00,2024-11-22 13:00:00,N/A
+AUT-2604,Skriftlig_skoleeksamen,2025-05-21 09:00:00,,(TROMSO): Administrasjonsbygget – Auditorium Maximum (Tromsø)
+AUT-2605,Skriftlig_skoleeksamen,2024-12-06 09:00:00,,(TROMSO): Teorifagbygget hus 1 – Plan 3 rom til bruk for eksamen
+AUT-2606,Oppgave,2025-06-02 14:00:00,,N/A
+AUT-2607,Hjemmeeksamen,2025-05-15 09:00:00,2025-05-15 13:00:00,N/A
+AUT-2780,Oppgave,2025-05-16 14:00:00,,N/A
+AUT-2801,Skriftlig_skoleeksamen,2024-12-10 09:00:00,,(TROMSO): Teorifagbygget hus 1 – Plan 3 rom til bruk for eksamen
+AUT-2802,Off_campus_exam,2024-11-05 09:00:00,2024-11-19 14:00:00,N/A
+BYG-2502,Skriftlig_skoleeksamen,2024-12-12 09:00:00,,"(TROMSO): Kraft sportssenter – Idrettsbane (036-2) Del 2
+(ALTA): Campus Alta Byggetrinn 2 – Rom 2107, Seminarrom (Alta)
+(MO I RANA): Campus Helgeland – Undervisning
+(MO I RANA): Campus Helgeland – Undervisning
+(NARVIK): E-Fløyen – E2463, Undervisningsrom
+(NARVIK): E-Fløyen – E2470, Seminarrom
+(NARVIK): E-Fløyen – E2471, Seminarrom
+Finnsnes – Finnsnes
+Universitetet i Agder – Universitetet i Agder"
+BYG-2503,Skriftlig_skoleeksamen,2025-06-10 09:00:00,,"(ALTA): Campus Alta Byggetrinn 2 – Rom 2107, Seminarrom (Alta)
+(NARVIK): E-Fløyen – E1480, Aktivt læringsrom
+(NARVIK): E-Fløyen – E1540, Seminarrom
+(NARVIK): E-Fløyen – E2430, Seminarrom
+(NARVIK): E-Fløyen – E2463, Undervisningsrom"
+BYG-2601,Skriftlig_skoleeksamen,2024-12-05 09:00:00,,"(ALTA): Campus Alta Byggetrinn 2 – Rom 2107, Seminarrom (Alta)
+(TROMSO): Administrasjonsbygget – Auditorium Maximum (Tromsø)
+(MO I RANA): Campus Helgeland – Undervisning
+(MO I RANA): Campus Helgeland – Undervisning
+(NARVIK): E-Fløyen – E2463, Undervisningsrom
+(NARVIK): E-Fløyen – E2470, Seminarrom
+(NARVIK): E-Fløyen – E2471, Seminarrom
+(NARVIK): E-Fløyen – E2550 Klasserom
+Universitetet i Agder – Universitetet i Agder"
+BYG-2602,Mappevurdering,2024-11-29 12:00:00,,N/A
+BYG-2602,Skriftlig_skoleeksamen,2024-12-09 09:00:00,,"(ALTA): Campus Alta Byggetrinn 2 – Rom 2107, Seminarrom (Alta)
+(MO I RANA): Campus Helgeland – Undervisning
+(MO I RANA): Campus Helgeland – Undervisning
+(NARVIK): E-Fløyen – E1460, Seminarrom
+(NARVIK): E-Fløyen – E1480, Aktivt læringsrom
+(NARVIK): E-Fløyen – E1540, Seminarrom
+Finnsnes – Finnsnes
+(KIRKENES): UiT i Kirkenes – 1.08 Lille klasserom
+(KIRKENES): UiT i Kirkenes – 402 Seminarrom
+(TROMSO): Teorifagbygget hus 1 – Plan 3 rom til bruk for eksamen
+Universitetet i Agder – Universitetet i Agder"
+BYG-2603,Skriftlig_skoleeksamen,2025-05-20 09:00:00,,"(ALTA): Campus Alta Byggetrinn 2 – Rom 2107, Seminarrom (Alta)
+(MO I RANA): Campus Helgeland – Undervisning
+(NARVIK): E-Fløyen – E2463, Undervisningsrom"
+BYG-2604,Skriftlig_skoleeksamen,2025-06-12 09:00:00,,"(ALTA): Campus Alta Byggetrinn 2 – Rom 2107, Seminarrom (Alta)
+(NARVIK): E-Fløyen – E2430, Seminarrom
+(NARVIK): E-Fløyen – E2461, Undervisningsrom
+(NARVIK): E-Fløyen – E2470, Seminarrom"
+BYG-2606,Skriftlig_skoleeksamen_-_Vegteknikk,2025-06-06 09:00:00,,"(ALTA): Campus Alta Byggetrinn 2 – Rom 2107, Seminarrom (Alta)
+Studiesenteret Midt-Troms – Rom 258 Finnsnes
+(MO I RANA): Campus Helgeland – Undervisning
+(MO I RANA): Campus Helgeland – Undervisning
+(NARVIK): E-Fløyen – E2471, Seminarrom
+(TROMSO): Administrasjonsbygget – K1.04 Eksamensrom (Tromsø)"
+BYG-2606,Skriftlig_skoleeksamen_-_VA-teknikk,2025-06-11 09:00:00,,"(ALTA): Campus Alta Byggetrinn 2 – Rom 2107, Seminarrom (Alta)
+(TROMSO): Administrasjonsbygget – B154 Eksamensrom (Tromsø)
+(MO I RANA): Campus Helgeland – Undervisning
+(NARVIK): E-Fløyen – E1480, Aktivt læringsrom"
+BYG-2607,Mappevurdering_Landmåling,2025-05-20 14:00:00,,N/A
+BYG-2607,Mappevurdering_Arealplanlegging,2025-05-14 14:00:00,,N/A
+BYG-2607,Skriftlig_skoleeksamen_Landmåling,2025-05-26 09:00:00,,"(NARVIK): E-Fløyen – E1540, Seminarrom"
+BYG-2609,Skriftlig_skoleeksamen,2025-06-10 09:00:00,,"(NARVIK): E-Fløyen – E2470, Seminarrom"
+BYG-2610,Skriftlig_skoleeksamen,2025-05-22 09:00:00,,"(ALTA): Campus Alta Byggetrinn 2 – Rom 2107, Seminarrom (Alta)
+(TROMSO): Administrasjonsbygget – Auditorium Maximum (Tromsø)
+(NARVIK): E-Fløyen – E1540, Seminarrom
+(NARVIK): E-Fløyen – E2430, Seminarrom
+(NARVIK): E-Fløyen – E2463, Undervisningsrom"
+BYG-2611,Skriftlig_skoleeksamen,2025-05-16 09:00:00,,(TROMSO): Administrasjonsbygget – K1.04 Eksamensrom (Tromsø)
+BYG-2612,Hjemmeeksamen,2025-06-02 09:00:00,2025-06-02 10:30:00,N/A
+BYG-2612,Mappevurdering,2025-05-07 14:00:00,,N/A
+BYG-2780,Oppgave,2025-01-15 14:00:00,,N/A
+BYG-2780,Oppgave,2025-05-27 14:00:00,,N/A
+BYG-2781,Oppgave,2025-05-16 14:00:00,,N/A
+BYG-2800,Mappevurdering,2024-11-11 09:00:00,2024-11-25 14:00:00,N/A
+BYG-2800,Skriftlig_skoleeksamen,2024-12-09 09:00:00,,"(ALTA): Campus Alta Byggetrinn 2 – Rom 2107, Seminarrom (Alta)
+Studiesenteret Midt-Troms – Rom 258 Finnsnes
+(MO I RANA): Campus Helgeland – Undervisning
+(NARVIK): E-Fløyen – E2470, Seminarrom
+(TROMSO): Teorifagbygget hus 1 – Plan 3 rom til bruk for eksamen
+Universitetet i Agder – Universitetet i Agder"
+BYG-2803,Skriftlig_skoleeksamen,2024-12-09 09:00:00,,"(ALTA): Campus Alta Byggetrinn 2 – Rom 2107, Seminarrom (Alta)
+(NARVIK): E-Fløyen – E2550 Klasserom
+(TROMSO): Teorifagbygget hus 1 – Plan 3 rom til bruk for eksamen
+Universitetet i Agder – Universitetet i Agder"
+BYG-2804,Mappevurdering,2024-11-28 12:00:00,,N/A
+BYG-2804,Skriftlig_skoleeksamen,2024-11-26 09:00:00,,"(ALTA): Campus Alta Byggetrinn 2 – Rom 2107, Seminarrom (Alta)
+(MO I RANA): Campus Helgeland – Undervisning
+(NARVIK): E-Fløyen – E1460, Seminarrom
+(TROMSO): Teorifagbygget hus 1 – Plan 3 rom til bruk for eksamen
+Universitetet i Agder – Universitetet i Agder"
+BYG-2805,Skriftlig_skoleeksamen,2024-12-03 09:00:00,,Universitetet i Agder – Universitetet i Agder
+BYG-2806,Skriftlig_skoleeksamen,2024-11-26 09:00:00,,"(ALTA): Campus Alta Byggetrinn 2 – Rom 2107, Seminarrom (Alta)
+(MO I RANA): Campus Helgeland – Undervisning
+(NARVIK): E-Fløyen – E1480, Aktivt læringsrom
+(TROMSO): Teorifagbygget hus 1 – Plan 3 rom til bruk for eksamen"
+BYG-2808,Skriftlig_skoleeksamen,2024-12-16 09:00:00,,"(ALTA): Campus Alta Byggetrinn 2 – Rom 2107, Seminarrom (Alta)
+(NARVIK): E-Fløyen – E1480, Aktivt læringsrom"
+BYG-2809,Skriftlig_skoleeksamen,2024-11-22 09:00:00,,"(ALTA): Campus Alta Byggetrinn 2 – Rom 2107, Seminarrom (Alta)
+(NARVIK): E-Fløyen – E2471, Seminarrom
+(TROMSO): Teorifagbygget hus 1 – Plan 3 rom til bruk for eksamen"
+BYG-2810,Mappevurdering,2024-11-25 14:00:00,,N/A
+BYG-2810,Mappevurdering,2024-11-25 14:00:00,,N/A
+BYG-2810,Skriftlig_skoleeksamen,2024-12-13 09:00:00,,"Studiesenteret Midt-Troms – Rom 258 Finnsnes
+(MO I RANA): Campus Helgeland – Undervisning
+(NARVIK): E-Fløyen – E1480, Aktivt læringsrom
+(ALTA): Campus Alta: Paviljong 1, 2, 3 og m.bygg – Rom P178, Parilla
+(TROMSO): Teorifagbygget hus 1 – Plan 3 rom til bruk for eksamen
+Universitetet i Agder – Universitetet i Agder"
+BYG-2811,Skriftlig_skoleeksamen,2024-11-27 09:00:00,,"(NARVIK): E-Fløyen – E2471, Seminarrom
+Universitetet i Agder – Universitetet i Agder"
+BYG-2812,Skriftlig_skoleeksamen,2024-12-06 09:00:00,,(TROMSO): Administrasjonsbygget – K1.04 Eksamensrom (Tromsø)
+BYG-3600,Skriftlig_skoleeksamen,2024-12-09 09:00:00,,"(NARVIK): E-Fløyen – E2430, Seminarrom
+(NARVIK): E-Fløyen – E2470, Seminarrom"
+BYG-3601,Skriftlig_skoleeksamen,2024-12-13 09:00:00,,"(NARVIK): E-Fløyen – E2470, Seminarrom
+(NARVIK): E-Fløyen – E2471, Seminarrom"
+BYG-3603,Skriftlig_skoleeksamen,2024-12-09 09:00:00,,"(NARVIK): E-Fløyen – E1460, Seminarrom"
+BYG-3604,Assignment,2024-12-11 14:00:00,,N/A
+BYG-3605,Hjemmeeksamen,2024-12-04 14:00:00,,N/A
+BYG-3605,Muntlig_eksamen,2024-12-13 08:15:00,,"(NARVIK): E-Fløyen – E2461, Undervisningsrom"
+BYG-3609,Skriftlig_skoleeksamen,2025-03-05 09:00:00,,"(NARVIK): E-Fløyen – E2463, Undervisningsrom"
+BYG-3611,Assignment,2024-12-11 14:00:00,,N/A
+BYG-3612,School_exam,2024-12-09 09:00:00,,"(NARVIK): E-Fløyen – E1460, Seminarrom"
+BYG-3613,School_exam,2024-12-13 09:00:00,,"(NARVIK): E-Fløyen – E1480, Aktivt læringsrom"
+BYG-3801,Off_campus_exam,2024-12-11 09:00:00,2024-12-11 12:00:00,N/A
+BYG-3900,Oppgave,2025-05-15 14:00:00,,N/A
+DTE-2501,Portfolio,2024-12-16 14:00:00,,N/A
+DTE-2502,Portfolio,2024-12-04 14:00:00,,N/A
+DTE-2503,Portfolio,2024-12-18 14:00:00,,N/A
+DTE-2504,Mappevurdering,2025-06-06 14:00:00,,N/A
+DTE-2505,Mappevurdering,2024-12-09 14:00:00,,N/A
+DTE-2507,Skriftlig_skoleeksamen,2024-12-02 09:00:00,,"(BODØ): Posthusgården – ALR 105
+(BODØ): Posthusgården – Undervisningsrom 138
+(HAMMERFEST): Campus Hammerfest – 223 Klasserom Snefjord (Hammerfest)
+Studiesenteret Midt-Troms – Rom 258 Finnsnes
+(ALTA): Campus Alta Byggetrinn 3 – Rom A102, Kultursalen (Alta)
+(MO I RANA): Campus Helgeland – Undervisning
+(NARVIK): E-Fløyen – E2430, Seminarrom
+(NARVIK): E-Fløyen – E2463, Undervisningsrom
+(NARVIK): E-Fløyen – E2550 Klasserom
+(TROMSO): Administrasjonsbygget – K1.04 Eksamensrom (Tromsø)
+(KIRKENES): UiT i Kirkenes – 1.05 Store klasserom
+(KIRKENES): UiT i Kirkenes – 1.08 Lille klasserom
+Universitetet i Agder – Universitetet i Agder"
+DTE-2507,Skriftlig_skoleeksamen,2024-12-02 13:00:00,,"(BODØ): Posthusgården – ALR 105
+(BODØ): Posthusgården – Undervisningsrom 138
+(HAMMERFEST): Campus Hammerfest – 223 Klasserom Snefjord (Hammerfest)
+(ALTA): Campus Alta Byggetrinn 3 – Rom A102, Kultursalen (Alta)
+(MO I RANA): Campus Helgeland – Undervisning
+(NARVIK): E-Fløyen – E2430, Seminarrom
+(NARVIK): E-Fløyen – E2463, Undervisningsrom
+(NARVIK): E-Fløyen – E2550 Klasserom
+(TROMSO): Administrasjonsbygget – K1.04 Eksamensrom (Tromsø)
+(KIRKENES): UiT i Kirkenes – 1.08 Lille klasserom
+Universitetet i Agder – Universitetet i Agder"
+DTE-2509,Skriftlig_skoleeksamen,2025-05-13 09:00:00,,"(BODØ): Posthusgården – Undervisningsrom 138
+(NARVIK): E-Fløyen – E2430, Seminarrom
+(NARVIK): E-Fløyen – E2463, Undervisningsrom
+(NARVIK): E-Fløyen – E2470, Seminarrom
+(NARVIK): E-Fløyen – E2471, Seminarrom"
+DTE-2510,Skriftlig_skoleeksamen,2024-11-26 09:00:00,,"(BODØ): Posthusgården – ALR 105
+(BODØ): Posthusgården – Undervisningsrom 138
+(ALTA): Campus Alta Byggetrinn 2 – Rom 2107, Seminarrom (Alta)
+(TROMSO): Teorifagbygget hus 3 – Rom 3.218, lesesal (Tromsø)
+(NARVIK): E-Fløyen – E2463, Undervisningsrom
+(NARVIK): E-Fløyen – E2470, Seminarrom
+(NARVIK): E-Fløyen – E2471, Seminarrom
+(NARVIK): E-Fløyen – E2550 Klasserom
+Universitetet i Agder – Universitetet i Agder"
+DTE-2511,Skriftlig_skoleeksamen,2025-05-21 09:00:00,,"(NARVIK): E-Fløyen – E2430, Seminarrom
+(NARVIK): E-Fløyen – E2463, Undervisningsrom
+(NARVIK): E-Fløyen – E2470, Seminarrom
+(NARVIK): E-Fløyen – E2471, Seminarrom"
+DTE-2602,Mappevurdering,2024-12-16 14:00:00,,N/A
+DTE-2603,Skriftlig_skoleeksamen,2025-05-12 09:00:00,,"(NARVIK): E-Fløyen – E1460, Seminarrom
+(NARVIK): E-Fløyen – E1480, Aktivt læringsrom
+(NARVIK): E-Fløyen – E1540, Seminarrom"
+DTE-2604,Mappevurdering,2025-06-06 14:00:00,,N/A
+DTE-2781,Oppgave,2025-05-20 14:00:00,,N/A
+DTE-2800,Skriftlig_skoleeksamen,2024-11-21 09:00:00,,"(BODØ): Posthusgården – ALR 105
+(BODØ): Posthusgården – Undervisningsrom 138
+(ALTA): Campus Alta Byggetrinn 2 – Rom 2107, Seminarrom (Alta)
+(TROMSO): Administrasjonsbygget – Auditorium Maximum (Tromsø)
+(NARVIK): E-Fløyen – E2463, Undervisningsrom
+(NARVIK): E-Fløyen – E2471, Seminarrom"
+DTE-2802,Mappevurdering,2024-12-18 14:00:00,,N/A
+DTE-2803,Mappevurdering,2024-12-18 14:00:00,,N/A
+DTE-2804,Mappevurdering,2024-12-04 14:00:00,,N/A
+DTE-3601,Off_campus_exam,2024-12-11 09:00:00,2024-12-11 14:00:00,N/A
+DTE-3605,Oral_exam,2024-12-06 08:00:00,,N/A
+DTE-3612,Oral_exam,2024-12-09 08:15:00,,N/A
+DTE-3801,Portfolio,2024-12-09 14:00:00,,N/A
+DTE-3900,Assignment,2025-05-15 14:00:00,,N/A
+ELE-2501,Skriftlig_skoleeksamen,2024-12-03 09:00:00,,"(BODØ): Posthusgården – Undervisningsrom 138
+(ALTA): Campus Alta Byggetrinn 2 – Rom 2107, Seminarrom (Alta)
+(MO I RANA): Campus Helgeland – Undervisning
+(NARVIK): E-Fløyen – E1480, Aktivt læringsrom"
+ELE-2502,Mappevurdering,2024-12-11 14:00:00,,N/A
+ELE-2503,Mappevurdering,2024-12-10 14:00:00,,N/A
+ELE-2600,Mappevurdering,2025-06-06 13:00:00,,N/A
+ELE-2601,Mappevurdering,2025-05-23 13:00:00,,N/A
+ELE-2602,Mappevurdering,2024-11-26 14:00:00,,N/A
+ELE-2603,Skriftlig_skoleeksamen,2024-12-02 09:00:00,,"(NARVIK): E-Fløyen – E2470, Seminarrom"
+ELE-2604,Skriftlig_skoleeksamen,2024-11-22 09:00:00,,"(NARVIK): C-Blokken – C4220, Datarom"
+ELE-2780,Oppgave,2025-05-20 14:00:00,,N/A
+ELE-2801,Oppgave,2024-12-09 14:00:00,,N/A
+ELE-2801,Skriftlig_skoleeksamen,2024-12-09 09:00:00,,"(NARVIK): E-Fløyen – E2471, Seminarrom"
+ELE-3600,School_exam,2025-06-02 09:00:00,,"(NARVIK): E-Fløyen – E2470, Seminarrom"
+ELE-3601,School_exam,2024-12-09 09:00:00,,"(NARVIK): E-Fløyen – E2463, Undervisningsrom"
+ELE-3602,School_exam,2024-12-13 09:00:00,,"(NARVIK): E-Fløyen – E2463, Undervisningsrom"
+ELE-3604,Oral_exam,2024-12-18 08:00:00,,N/A
+ELE-3604,Assignment,2024-12-11 14:00:00,,N/A
+ELE-3605,Practical_exam,2024-12-16 08:00:00,,N/A
+ELE-3605,Assignment,2024-12-11 14:00:00,,N/A
+ELE-3606,Oral_exam,2024-12-17 00:00:00,2024-12-18 00:00:00,N/A
+ELE-3607,School_exam,2025-03-03 09:00:00,,"(NARVIK): E-Fløyen – E2430, Seminarrom"
+ELE-3609,School_exam,2025-05-26 09:00:00,,"(NARVIK): E-Fløyen – E1460, Seminarrom"
+ELE-3611,School_exam,2024-12-10 09:00:00,,"(NARVIK): E-Fløyen – E1480, Aktivt læringsrom
+(NARVIK): E-Fløyen – E1580, Undervisningsrom"
+ELE-3612,School_exam,2025-03-05 09:00:00,,"(NARVIK): E-Fløyen – E2470, Seminarrom"
+ELE-3613,School_exam,2024-12-16 09:00:00,,"(NARVIK): E-Fløyen – E1540, Seminarrom
+(NARVIK): E-Fløyen – E1580, Undervisningsrom"
+ELE-3900,Assignment,2025-05-15 14:00:00,,N/A
+END-3600,Assignment,2025-05-26 14:00:00,,N/A
+END-3602,Off_campus_exam,2024-12-06 14:00:00,,N/A
+END-3602,Oral_exam,2024-12-12 08:00:00,,N/A
+END-3605,Off_campus_exam,2024-12-11 09:00:00,2024-12-11 12:00:00,N/A
+END-3606,Off_campus_exam,2025-06-03 09:00:00,2025-06-03 13:00:00,N/A
+END-3607,Off_campus_exam,2025-03-06 09:00:00,2025-03-06 15:00:00,N/A
+END-3608,Assignment,2025-03-03 14:00:00,,N/A
+END-3800,Portfolio,2024-12-13 14:00:00,,N/A
+END-3900,Assignment,2025-05-15 14:00:00,,N/A
+END-3970,Assignment,2025-05-15 14:00:00,,N/A
+ETE-2501,Skriftlig_skoleeksamen,2025-06-06 09:00:00,,"(NARVIK): E-Fløyen – E1480, Aktivt læringsrom"
+ETE-2600,Skriftlig_skoleeksamen,2024-12-02 09:00:00,,"(NARVIK): E-Fløyen – E1460, Seminarrom"
+ETE-2601,Skriftlig_skoleeksamen,2024-11-20 09:00:00,,"(NARVIK): C-Blokken – C4220, Datarom"
+ETE-2602,Skriftlig_skoleeksamen,2024-11-26 09:00:00,,"(NARVIK): E-Fløyen – E1540, Seminarrom"
+ETE-2603,Oppgave,2025-05-30 14:00:00,,N/A
+ETE-2606,Skriftlig_skoleeksamen,2024-11-29 09:00:00,,(NARVIK): E-Fløyen – E2550 Klasserom
+ETE-2607,Skriftlig_skoleeksamen,2025-05-22 09:00:00,,"(NARVIK): E-Fløyen – E2470, Seminarrom"
+ETE-2608,Skriftlig_skoleeksamen,2025-06-10 09:00:00,,"(NARVIK): E-Fløyen – E2470, Seminarrom"
+ETE-2780,Oppgave,2025-05-20 14:00:00,,N/A
+ETE-2802,Skriftlig_skoleeksamen,2024-12-16 09:00:00,,"(NARVIK): E-Fløyen – E1480, Aktivt læringsrom"
+FLY-2604,Skriftlig_skoleeksamen,2024-11-22 09:00:00,,(TROMSO): Teorifagbygget hus 1 – Plan 3 rom til bruk for eksamen
+FLY-2780,Oppgave,2025-05-16 14:00:00,,N/A
+FYS-2500,Skriftlig_skoleeksamen,2025-05-21 09:00:00,,(TROMSO): Administrasjonsbygget – K1.04 Eksamensrom (Tromsø)
+INE-3600,Off_campus_exam,2024-11-25 09:00:00,2024-12-09 14:00:00,N/A
+INE-3600,Off_campus_exam,2024-12-16 09:00:00,2024-12-16 12:00:00,N/A
+INE-3601,Muntlig_eksamen,2024-12-10 00:00:00,2024-12-11 00:00:00,N/A
+INE-3607,Off_campus_exam,2025-01-27 09:00:00,2025-02-03 14:00:00,N/A
+INE-3610,Assignment,2025-03-07 14:00:00,,N/A
+INE-3611,Assignment,2025-05-28 14:00:00,,N/A
+INE-3613,Assignment,2024-12-13 14:00:00,,N/A
+INE-3613,Assignment,2025-05-28 14:00:00,,N/A
+INE-3900,Assignment,2025-05-15 14:00:00,,N/A
+MAS-2500,Skriftlig_skoleeksamen,2024-12-03 09:00:00,,"(ALTA): Campus Alta Byggetrinn 2 – Rom 2107, Seminarrom (Alta)
+(MO I RANA): Campus Helgeland – Undervisning
+(NARVIK): E-Fløyen – E2470, Seminarrom
+(NARVIK): E-Fløyen – E2471, Seminarrom
+Universitetet i Agder – Universitetet i Agder"
+MAS-2502,School_exam,2024-11-25 09:00:00,,"(MO I RANA): Campus Helgeland – Undervisning
+(NARVIK): E-Fløyen – E1580, Undervisningsrom
+(NARVIK): E-Fløyen – E2463, Undervisningsrom
+(NARVIK): E-Fløyen – E2471, Seminarrom
+(ALTA): Campus Alta: Paviljong 1, 2, 3 og m.bygg – Rom P179, Sarikoski
+(TROMSO): Teorifagbygget hus 1 – Plan 3 rom til bruk for eksamen
+Universitetet i Agder – Universitetet i Agder"
+MAS-2601,Hjemmeeksamen,2024-12-09 09:00:00,2024-12-12 13:00:00,N/A
+MAS-2603,School_exam,2025-06-02 09:00:00,,"(MO I RANA): Campus Helgeland – Undervisning
+(NARVIK): E-Fløyen – E2430, Seminarrom
+(NARVIK): E-Fløyen – E2463, Undervisningsrom"
+MAS-2604,Mappevurdering,2025-05-16 14:00:00,,N/A
+MAS-2780,Oppgave,2025-01-10 14:00:00,,N/A
+MAS-2780,Oppgave,2025-05-20 14:00:00,,N/A
+MAS-2800,Mappevurdering,2024-12-05 14:00:00,,N/A
+MAS-2801,Assignment,2024-11-27 14:00:00,,N/A
+MAS-2802,Skriftlig_skoleeksamen,2024-12-06 09:00:00,,"(MO I RANA): Campus Helgeland – Undervisning
+(NARVIK): E-Fløyen – E1460, Seminarrom
+Universitetet i Agder – Universitetet i Agder"
+MAS-2803,Skriftlig_skoleeksamen,2024-12-03 09:00:00,,"(TROMSO): Administrasjonsbygget – B154 Eksamensrom (Tromsø)
+(NARVIK): E-Fløyen – E1580, Undervisningsrom
+(NARVIK): E-Fløyen – E2463, Undervisningsrom
+Universitetet i Agder – Universitetet i Agder"
+MAS-2805,Mappevurdering,2024-12-09 14:00:00,,N/A
+MAS-2807,Muntlig_eksamen,2024-12-16 08:00:00,,N/A
+MAS-2807,Oppgave,2024-12-13 14:00:00,,N/A
+MAT-3802,School_exam,2024-12-12 09:00:00,,"(NARVIK): E-Fløyen – E1460, Seminarrom
+(NARVIK): E-Fløyen – E1480, Aktivt læringsrom"
+NOR-0500,Mappevurdering,2025-05-13 14:00:00,,N/A
+PRO-2501,Hjemmeeksamen,2024-12-13 09:00:00,2024-12-13 12:00:00,N/A
+PRO-2501,Mappevurdering,2024-12-04 14:00:00,,N/A
+PRO-2604,Skriftlig_skoleeksamen,2024-11-26 09:00:00,,(TROMSO): Teorifagbygget hus 1 – Plan 3 rom til bruk for eksamen
+PRO-2606,Skriftlig_skoleeksamen,2025-06-04 09:00:00,,(TROMSO): Administrasjonsbygget – K1.04 Eksamensrom (Tromsø)
+PRO-2607,Hjemmeeksamen,2025-04-03 09:00:00,2025-05-12 14:00:00,N/A
+PRO-2609,Hjemmeeksamen,2025-05-21 09:00:00,2025-05-21 14:00:00,N/A
+PRO-2610,Skriftlig_skoleeksamen,2024-11-29 09:00:00,,(TROMSO): Teorifagbygget hus 1 – Plan 3 rom til bruk for eksamen
+PRO-2611,Skriftlig_skoleeksamen,2024-12-06 09:00:00,,(TROMSO): Teorifagbygget hus 1 – Plan 3 rom til bruk for eksamen
+PRO-2612,Skriftlig_skoleeksamen,2024-12-06 09:00:00,,(TROMSO): Teorifagbygget hus 1 – Plan 3 rom til bruk for eksamen
+PRO-2613,Skriftlig_skoleeksamen,2025-05-20 09:00:00,,"(ALTA): Campus Alta Byggetrinn 2 – Rom 2108, Seminarrom (Alta)
+(TROMSO): Administrasjonsbygget – Auditorium Maximum (Tromsø)
+(NARVIK): E-Fløyen – E2430, Seminarrom"
+PRO-2614,Skriftlig_skoleeksamen,2025-05-22 09:00:00,,"(ALTA): Campus Alta Byggetrinn 2 – Rom 2107, Seminarrom (Alta)
+(TROMSO): Administrasjonsbygget – Auditorium Maximum (Tromsø)
+(NARVIK): E-Fløyen – E2470, Seminarrom
+(NARVIK): E-Fløyen – E2471, Seminarrom"
+PRO-2780,Oppgave,2025-05-16 14:00:00,,N/A
+PRO-2781,Oppgave,2025-05-20 14:00:00,,N/A
+PRO-2801,Hjemmeeksamen,2024-12-04 09:00:00,2024-12-04 12:00:00,N/A
+PRO-2801,Mappevurdering,2024-11-27 14:00:00,,N/A
+PRO-2802,Assignment,2024-11-20 14:00:00,,N/A
+PRO-2804,Hjemmeeksamen,2024-12-02 09:00:00,2024-12-02 13:00:00,N/A
+PRO-2806,Hjemmeeksamen,2024-12-06 09:00:00,2024-12-06 12:00:00,N/A
+PRO-2806,Mappevurdering,2024-11-27 14:00:00,,N/A
+PRO-2808,Portfolio,2024-11-29 14:00:00,,N/A
+PRO-2808,Skriftlig_skoleeksamen,2024-12-06 09:00:00,,"(NARVIK): E-Fløyen – E1460, Seminarrom"
+STE-2600,Mappevurdering,2025-06-06 13:00:00,,N/A
+STE-2601,Mappevurdering,2024-12-03 14:00:00,,N/A
+STE-2601,Muntlig_eksamen,2024-12-02 00:00:00,2024-12-04 00:00:00,N/A
+STE-2602,Mappevurdering,2024-11-26 14:00:00,,N/A
+STE-2603,Mappevurdering,2025-05-30 13:00:00,,N/A
+STE-2604,Mappevurdering,2024-12-05 14:00:00,,N/A
+STE-2605,Oppgave,2025-05-27 14:00:00,,N/A
+STE-2605,Skriftlig_skoleeksamen,2025-05-27 09:00:00,,"(NARVIK): E-Fløyen – E1480, Aktivt læringsrom
+(NARVIK): E-Fløyen – E1540, Seminarrom
+(TROMSO): Administrasjonsbygget – K1.04 Eksamensrom (Tromsø)"
+STE-2780,Oppgave,2025-05-20 14:00:00,,N/A
+STE-2801,Mappevurdering,2024-12-13 14:00:00,,N/A
+STE-2801,Muntlig_eksamen,2024-12-09 00:00:00,2024-12-11 00:00:00,N/A
+STE-3602,Oral_exam,2024-12-09 00:00:00,2024-12-11 00:00:00,N/A
+STE-3605,Portfolio,2025-03-05 14:00:00,,N/A
+STE-3607,Portfolio,2025-02-28 14:00:00,,N/A
+STE-3607,Oral_exam,2025-03-07 08:00:00,,N/A
+STE-3608,School_exam,2025-05-27 09:00:00,,"(NARVIK): E-Fløyen – E1460, Seminarrom"
+STE-3800,School_exam,2024-12-12 09:00:00,,"(NARVIK): E-Fløyen – E1460, Seminarrom"
+STE-3801,Portfolio,2024-12-12 14:00:00,,N/A
+STE-3900,Assignment,2025-05-15 14:00:00,,N/A
+TEK-0504,Skriftlig_skoleeksamen,2024-12-05 09:00:00,,(TROMSO): Administrasjonsbygget – Auditorium Maximum (Tromsø)
+TEK-0512,Mappevurdering,2025-05-16 14:00:00,,N/A
+TEK-0512,Skriftlig_skoleeksamen,2025-05-26 09:00:00,,"(BODØ): Posthusgården – ALR 105
+(BODØ): Posthusgården – Undervisningsrom 138
+(ALTA): Campus Alta Byggetrinn 2 – Rom 2107, Seminarrom (Alta)
+(HAMMERFEST): Nye Hammerfest sykehus – Snefjord
+(NARVIK): E-Fløyen – E1480, Aktivt læringsrom
+(NARVIK): E-Fløyen – E1540, Seminarrom
+(KIRKENES): UiT i Kirkenes – 1.08 Lille klasserom"
+TEK-0513,Mappevurdering,2025-05-02 14:00:00,,N/A
+TEK-0513,Skriftlig_skoleeksamen,2025-05-15 09:00:00,,"(BODØ): Posthusgården – Undervisningsrom 138
+Studiesenteret Midt-Troms – Rom 258 Finnsnes
+Studiesenteret Midt-Troms – Rom 259 Finnsnes
+(NARVIK): E-Fløyen – E2463, Undervisningsrom
+(NARVIK): E-Fløyen – E2470, Seminarrom
+(NARVIK): E-Fløyen – E2471, Seminarrom
+(ALTA): Campus Alta: Paviljong 1, 2, 3 og m.bygg – Rom P178, Parilla
+(ALTA): Campus Alta: Paviljong 1, 2, 3 og m.bygg – Rom P179, Sarikoski"
+TEK-0514,Mappevurdering,2025-05-07 14:00:00,,N/A
+TEK-0514,Skriftlig_skoleeksamen,2025-05-20 09:00:00,,"(BODØ): Posthusgården – ALR 105
+(ALTA): Campus Alta Byggetrinn 2 – Rom 2107, Seminarrom (Alta)
+Studiesenteret Midt-Troms – Rom 258 Finnsnes
+(NARVIK): E-Fløyen – E1480, Aktivt læringsrom"
+TEK-0515,Mappevurdering,2025-05-13 14:00:00,,N/A
+TEK-0515,Skriftlig_skoleeksamen,2025-05-28 09:00:00,,"(BODØ): Posthusgården – ALR 105
+(ALTA): Campus Alta Byggetrinn 3 – Rom A102, Kultursalen (Alta)
+(HAMMERFEST): Nye Hammerfest sykehus – Snefjord
+(NARVIK): E-Fløyen – E2471, Seminarrom
+(KIRKENES): UiT i Kirkenes – 1.05 Store klasserom"
+TEK-0516,Mappevurdering,2025-05-08 14:00:00,,N/A
+TEK-0516,Skriftlig_skoleeksamen,2025-05-23 09:00:00,,"(BODØ): Posthusgården – ALR 105
+(ALTA): Campus Alta Byggetrinn 2 – Rom 2107, Seminarrom (Alta)
+(HAMMERFEST): Nye Hammerfest sykehus – Snefjord
+(NARVIK): E-Fløyen – E1480, Aktivt læringsrom
+(KIRKENES): UiT i Kirkenes – 1.08 Lille klasserom"
+TEK-0517,Skriftlig_skoleeksamen,2024-12-09 09:00:00,,(TROMSO): Teorifagbygget hus 1 – Plan 3 rom til bruk for eksamen
+TEK-0517,Skriftlig_skoleeksamen,2025-05-26 09:00:00,,(TROMSO): Administrasjonsbygget – K1.04 Eksamensrom (Tromsø)
+TEK-0518,Skriftlig_skoleeksamen,2024-11-29 09:00:00,,(TROMSO): Teorifagbygget hus 1 – Plan 3 rom til bruk for eksamen
+TEK-0518,Skriftlig_skoleeksamen,2025-05-15 09:00:00,,(TROMSO): Administrasjonsbygget – K1.04 Eksamensrom (Tromsø)
+TEK-0519,Skriftlig_skoleeksamen,2024-11-22 09:00:00,,"(TROMSO): Teorifagbygget hus 3 – Rom 3.203, bibliotek (Tromsø)"
+TEK-0519,Skriftlig_skoleeksamen,2025-05-20 09:00:00,,(TROMSO): Administrasjonsbygget – B154 Eksamensrom (Tromsø)
+TEK-0520,Skriftlig_skoleeksamen,2024-12-05 09:00:00,,(TROMSO): Administrasjonsbygget – Auditorium Maximum (Tromsø)
+TEK-1501,Skriftlig_skoleeksamen,2024-12-11 09:00:00,,"(BODØ): Posthusgården – ALR 105
+(BODØ): Posthusgården – Undervisningsrom 138
+(ALTA): Campus Alta Byggetrinn 2 – Rom 2108, Seminarrom (Alta)
+(HAMMERFEST): Campus Hammerfest – 233 Skaidi (Hammerfest)
+(MO I RANA): Campus Helgeland – Undervisning
+(NARVIK): E-Fløyen – E1460, Seminarrom
+(NARVIK): E-Fløyen – E1480, Aktivt læringsrom
+(NARVIK): E-Fløyen – E1540, Seminarrom
+(NARVIK): E-Fløyen – E2430, Seminarrom
+(NARVIK): E-Fløyen – E2463, Undervisningsrom
+(NARVIK): E-Fløyen – E2550 Klasserom
+(TROMSO): Teorifagbygget hus 1 – Plan 3 rom til bruk for eksamen
+Universitetet i Agder – Universitetet i Agder"
+TEK-1502,Mappevurdering,2024-11-22 14:00:00,,N/A
+TEK-1503,Hjemmeeksamen,2024-11-25 09:00:00,2024-12-03 14:00:00,N/A
+TEK-1504,Skriftlig_skoleeksamen,2025-05-06 09:00:00,,"(BODØ): Posthusgården – ALR 105
+(ALTA): Campus Alta Byggetrinn 2 – Rom 2108, Seminarrom (Alta)
+(NARVIK): E-Fløyen – E1460, Seminarrom
+(NARVIK): E-Fløyen – E1480, Aktivt læringsrom
+(NARVIK): E-Fløyen – E1540, Seminarrom
+(NARVIK): E-Fløyen – E2430, Seminarrom
+(NARVIK): E-Fløyen – E2461, Undervisningsrom
+(NARVIK): E-Fløyen – E2463, Undervisningsrom
+(NARVIK): E-Fløyen – E2470, Seminarrom
+(NARVIK): E-Fløyen – E2471, Seminarrom
+(NARVIK): E-Fløyen – E2540, Seminarrom
+(TROMSO): Administrasjonsbygget – K1.04 Eksamensrom (Tromsø)"
+TEK-1505,Skriftlig_skoleeksamen,2025-06-03 09:00:00,,"(BODØ): Posthusgården – ALR 105
+(ALTA): Campus Alta Byggetrinn 2 – Rom 2107, Seminarrom (Alta)
+(TROMSO): Administrasjonsbygget – Auditorium Maximum (Tromsø)
+(NARVIK): E-Fløyen – E1460, Seminarrom
+(NARVIK): E-Fløyen – E1480, Aktivt læringsrom
+(NARVIK): E-Fløyen – E1540, Seminarrom
+(NARVIK): E-Fløyen – E2430, Seminarrom
+(NARVIK): E-Fløyen – E2461, Undervisningsrom
+(NARVIK): E-Fløyen – E2463, Undervisningsrom
+(NARVIK): E-Fløyen – E2470, Seminarrom
+(NARVIK): E-Fløyen – E2471, Seminarrom
+(NARVIK): E-Fløyen – E3420, Seminarrom
+(NARVIK): E-Fløyen – E3530, Seminarrom"
+TEK-1506,Hjemmeeksamen,2024-11-25 09:00:00,2024-12-03 14:00:00,N/A
+TEK-1507,Skriftlig_skoleeksamen,2024-12-06 09:00:00,,"(BODØ): Posthusgården – ALR 105
+(BODØ): Posthusgården – Undervisningsrom 138
+(ALTA): Campus Alta Byggetrinn 2 – Rom 2107, Seminarrom (Alta)
+(HAMMERFEST): Campus Hammerfest – 223 Klasserom Snefjord (Hammerfest)
+(HARSTAD): Havnegata 5-7 – Undervisningsrom 8
+(MO I RANA): Campus Helgeland – Undervisning
+(NARVIK): E-Fløyen – E1480, Aktivt læringsrom
+(NARVIK): E-Fløyen – E1540, Seminarrom
+(NARVIK): E-Fløyen – E1580, Undervisningsrom
+(NARVIK): E-Fløyen – E2463, Undervisningsrom
+(NARVIK): E-Fløyen – E2470, Seminarrom
+(NARVIK): E-Fløyen – E2471, Seminarrom
+(NARVIK): E-Fløyen – E2550 Klasserom
+(TROMSO): Administrasjonsbygget – K1.04 Eksamensrom (Tromsø)
+Universitetet i Agder – Universitetet i Agder"
+TEK-1508,Skriftlig_skoleeksamen_-_eng,2025-05-09 09:00:00,,"(NARVIK): E-Fløyen – E1480, Aktivt læringsrom
+(NARVIK): E-Fløyen – E1540, Seminarrom"
+TEK-1508,Skriftlig_skoleeksamen_-_nor,2024-12-13 09:00:00,,"(MO I RANA): Campus Helgeland – Undervisning
+(MO I RANA): Campus Helgeland – Undervisning
+(NARVIK): E-Fløyen – E1540, Seminarrom"
+TEK-1509,Mappevurdering,2025-05-26 14:00:00,,N/A
+TEK-1509,Skriftlig_skoleeksamen,2025-06-12 09:00:00,,"(NARVIK): E-Fløyen – E2470, Seminarrom
+(NARVIK): E-Fløyen – E2471, Seminarrom"
+TEK-1510,Mappevurdering,2025-05-26 14:00:00,,N/A
+TEK-1510,Skriftlig_skoleeksamen,2025-06-12 09:00:00,,"(NARVIK): E-Fløyen – E2461, Undervisningsrom
+(NARVIK): E-Fløyen – E2463, Undervisningsrom"
+TEK-1511,Hjemmeeksamen,2024-11-05 09:00:00,2024-11-19 14:00:00,N/A
+TEK-1512,Hjemmeeksamen,2024-11-12 09:00:00,2024-11-19 14:00:00,N/A
+TEK-1513,Hjemmeeksamen,2024-11-05 09:00:00,2024-11-19 14:00:00,N/A
+TEK-1516,Skriftlig_skoleeksamen,2025-05-28 09:00:00,,"(BODØ): Posthusgården – Undervisningsrom 138
+(ALTA): Campus Alta Byggetrinn 3 – Rom A102, Kultursalen (Alta)
+(NARVIK): E-Fløyen – E1460, Seminarrom
+(NARVIK): E-Fløyen – E1480, Aktivt læringsrom
+(NARVIK): E-Fløyen – E1540, Seminarrom
+(NARVIK): E-Fløyen – E2461, Undervisningsrom
+(NARVIK): E-Fløyen – E2463, Undervisningsrom
+(NARVIK): E-Fløyen – E2550 Klasserom
+(NARVIK): E-Fløyen – E3420, Seminarrom"
+TEK-1518,Oppgave,2025-04-25 14:00:00,,N/A
+TEK-1518,Skriftlig_skoleeksamen,2025-04-23 09:00:00,,"(BODØ): Posthusgården – ALR 105
+(ALTA): Campus Alta Byggetrinn 2 – Rom 2108, Seminarrom (Alta)
+(TROMSO): Administrasjonsbygget – B154 Eksamensrom (Tromsø)
+(NARVIK): E-Fløyen – E1460, Seminarrom
+(NARVIK): E-Fløyen – E1480, Aktivt læringsrom
+(NARVIK): E-Fløyen – E2430, Seminarrom
+(NARVIK): E-Fløyen – E2461, Undervisningsrom
+(NARVIK): E-Fløyen – E2463, Undervisningsrom
+(NARVIK): E-Fløyen – E2470, Seminarrom
+(NARVIK): E-Fløyen – E2471, Seminarrom"
+TEK-1520,Mappevurdering,2024-12-17 14:00:00,,N/A
+TEK-2501,Skriftlig_skoleeksamen,2025-05-16 09:00:00,,(TROMSO): Administrasjonsbygget – K1.04 Eksamensrom (Tromsø)
+TEK-2502,Skriftlig_skoleeksamen,2025-05-21 09:00:00,,"(TROMSO): Administrasjonsbygget – B154 Eksamensrom (Tromsø)
+(TROMSO): Administrasjonsbygget – K1.04 Eksamensrom (Tromsø)"
+TEK-2503,Oppgave,2024-12-04 09:00:00,2024-12-18 14:00:00,N/A
+TEK-2800,Skriftlig_skoleeksamen,2024-11-29 09:00:00,,"(BODØ): Posthusgården – ALR 105
+(BODØ): Posthusgården – Undervisningsrom 138
+(ALTA): Campus Alta Byggetrinn 2 – Rom 2107, Seminarrom (Alta)
+(MO I RANA): Campus Helgeland – Undervisning
+(NARVIK): E-Fløyen – E2463, Undervisningsrom
+(NARVIK): E-Fløyen – E2470, Seminarrom
+(NARVIK): E-Fløyen – E2471, Seminarrom
+(NARVIK): E-Fløyen – E2550 Klasserom
+(KIRKENES): UiT i Kirkenes – 1.05 Store klasserom
+(TROMSO): Teorifagbygget hus 1 – Plan 3 rom til bruk for eksamen
+Universitetet i Agder – Universitetet i Agder"
+TEK-2801,Skriftlig_skoleeksamen,2024-11-20 09:00:00,,"(BODØ): Posthusgården – ALR 105
+(ALTA): Campus Alta Byggetrinn 2 – Rom 2107, Seminarrom (Alta)
+Studiesenteret Midt-Troms – Rom 258 Finnsnes
+(TROMSO): Teorifagbygget hus 3 – Rom 3.203, bibliotek (Tromsø)
+(MO I RANA): Campus Helgeland – Undervisning
+(NARVIK): E-Fløyen – E2463, Undervisningsrom
+(NARVIK): E-Fløyen – E2470, Seminarrom
+(NARVIK): E-Fløyen – E2471, Seminarrom
+(KIRKENES): UiT i Kirkenes – 402 Seminarrom
+Universitetet i Agder – Universitetet i Agder"
+TEK-3500,School_exam,2024-12-04 09:00:00,,"(NARVIK): E-Fløyen – E1540, Seminarrom"
+TEK-3501,Project_assignment,2025-05-16 14:00:00,,N/A
+TEK-3501,School_exam,2025-06-06 09:00:00,,"(NARVIK): E-Fløyen – E2430, Seminarrom
+(NARVIK): E-Fløyen – E2463, Undervisningsrom
+(NARVIK): E-Fløyen – E2470, Seminarrom"
+TEK-3601,Off_campus_exam,2024-11-18 09:00:00,2024-12-02 14:00:00,N/A
+TEK-3602,School_exam,2024-11-25 09:00:00,,N/A
+TEK-3604,Assignment,2025-02-28 14:00:00,,N/A
+TEK-3604,Assignment,2025-05-05 14:00:00,,N/A
+TEK-8002,Oral_exam,2024-12-11 08:00:00,,N/A
+Course Code,Exam_Type,,,Room Info
+EOM-3010,Assignment,2024-12-16 14:00:00,,N/A
+EOM-3010,Assignment,2025-06-02 14:00:00,,N/A
+EOM-3901,Assignment,2024-12-16 14:00:00,,N/A
+EOM-3901,Assignment,2025-06-02 14:00:00,,N/A
+FLY-1008,Oppgave,2024-11-25 14:00:00,,N/A
+FLY-1009,Hjemmeeksamen,2024-12-04 09:00:00,2024-12-11 14:00:00,N/A
+FLY-1600,Skriftlig_skoleeksamen,2024-12-03 09:00:00,,(TROMSO): Administrasjonsbygget – K1.04 Eksamensrom (Tromsø)
+FLY-2140,Oppgave,2025-01-20 14:00:00,,N/A
+FLY-2140,Oppgave,2025-06-02 14:00:00,,N/A
+FLY-2145,Oppgave,2025-06-02 14:00:00,,N/A
+FLY-2601,Skriftlig_skoleeksamen,2024-12-05 09:00:00,,(TROMSO): Administrasjonsbygget – K1.04 Eksamensrom (Tromsø)
+FLY-2603,Muntlig_eksamen,2024-11-27 08:00:00,,N/A
+FLY-3003,Hjemmeeksamen,2025-05-12 09:00:00,2025-05-26 14:00:00,N/A
+FLY-3006,Hjemmeeksamen,2024-11-12 09:00:00,2024-11-26 14:00:00,N/A
+FLY-3930,Oppgave,2025-06-02 14:00:00,,N/A
+FYS-0001,Hjemmeeksamen,2024-12-16 09:00:00,2024-12-16 12:00:00,N/A
+FYS-0100,Skriftlig_skoleeksamen,2024-12-16 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-1) Del 1
+FYS-1001,Skriftlig_skoleeksamen,2024-12-04 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-3) Del 3
+FYS-1002,Skriftlig_skoleeksamen,2025-05-26 09:00:00,,(TROMSO): Administrasjonsbygget – B154 Eksamensrom (Tromsø)
+FYS-1003,Hjemmeeksamen,2025-04-03 14:00:00,,N/A
+FYS-1003,Hjemmeeksamen,2025-04-25 14:00:00,,N/A
+FYS-1008,Skriftlig_skoleeksamen,2024-12-11 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-3) Del 3
+FYS-1009,Skriftlig_skoleeksamen,2025-05-19 09:00:00,,(TROMSO): Administrasjonsbygget – B154 Eksamensrom (Tromsø)
+FYS-2000,School_exam,2025-06-10 09:00:00,,(TROMSO): Administrasjonsbygget – B154 Eksamensrom (Tromsø)
+FYS-2001,Skriftlig_skoleeksamen,2024-12-12 09:00:00,,(TROMSO): Teorifagbygget hus 1 – Plan 3 rom til bruk for eksamen
+FYS-2006,School_exam,2024-11-28 09:00:00,,(TROMSO): Teorifagbygget hus 1 – Plan 3 rom til bruk for eksamen
+FYS-2009,School_exam,2024-12-10 09:00:00,,(TROMSO): Teorifagbygget hus 1 – Plan 3 rom til bruk for eksamen
+FYS-2010,Off_campus_exam,2025-03-03 09:00:00,2025-03-24 14:00:00,N/A
+FYS-2010,School_exam,2025-06-11 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-1) Del 1
+FYS-2015,Assignment,2024-12-16 14:00:00,,N/A
+FYS-2015,Assignment,2025-06-02 14:00:00,,N/A
+FYS-2016,Assignment,2024-12-16 14:00:00,,N/A
+FYS-2016,Assignment,2025-06-02 14:00:00,,N/A
+FYS-2018,School_exam,2025-05-22 09:00:00,,(TROMSO): Administrasjonsbygget – K1.04 Eksamensrom (Tromsø)
+FYS-2019,School_exam,2024-12-10 09:00:00,,(TROMSO): Teorifagbygget hus 1 – Plan 3 rom til bruk for eksamen
+FYS-2020,School_exam,2024-12-02 09:00:00,,(TROMSO): Administrasjonsbygget – Auditorium Maximum (Tromsø)
+FYS-2021,School_exam,2024-12-06 09:00:00,,"(TROMSO): Kraft sportssenter – Idrettsbane (036-1) Del 1
+(BODØ): Posthusgården – Undervisningsrom 138"
+FYS-2022,Off_campus_exam,2024-11-15 09:00:00,2024-11-22 14:00:00,N/A
+FYS-2022,School_exam,2024-12-12 09:00:00,,(TROMSO): Teorifagbygget hus 1 – Plan 3 rom til bruk for eksamen
+FYS-2023,Skriftlig_skoleeksamen,2025-05-26 09:00:00,,(TROMSO): Administrasjonsbygget – Auditorium Maximum (Tromsø)
+FYS-2024,School_exam,2025-05-13 09:00:00,,(TROMSO): Administrasjonsbygget – Auditorium Maximum (Tromsø)
+FYS-3001,Off_campus_exam,2025-03-26 09:00:00,2025-04-09 14:00:00,N/A
+FYS-3001,Off_campus_exam,2025-04-22 09:00:00,2025-05-07 14:00:00,N/A
+FYS-3012,School_exam,2024-12-16 09:00:00,,"(TROMSO): Teorifagbygget hus 3 – Rom 3.218, lesesal (Tromsø)"
+FYS-3023,Oral_exam,2024-12-05 09:00:00,,N/A
+FYS-3024,Oral_exam,2024-11-29 09:00:00,,N/A
+FYS-3028,School_exam,2024-11-29 09:00:00,,(TROMSO): Teorifagbygget hus 1 – Plan 3 rom til bruk for eksamen
+FYS-3029,Off_campus_exam,2024-11-28 14:00:00,,N/A
+FYS-3033,Off_campus_exam,2025-03-31 09:00:00,2025-04-28 14:00:00,N/A
+FYS-3034,Oral_exam,2024-12-02 09:00:00,,N/A
+FYS-3730,Assignment,2024-12-16 14:00:00,,N/A
+FYS-3730,Assignment,2025-06-02 14:00:00,,N/A
+FYS-3740,Assignment,2024-12-16 14:00:00,,N/A
+FYS-3740,Assignment,2025-06-02 14:00:00,,N/A
+FYS-3750,Assignment,2025-06-02 14:00:00,,N/A
+FYS-3900,Assignment,2025-05-15 14:00:00,,N/A
+FYS-3901,Assignment,2025-05-15 14:00:00,,N/A
+FYS-3907,Oppgave,2025-06-02 14:00:00,,N/A
+FYS-3931,Assignment,2024-12-16 14:00:00,,N/A
+FYS-3931,Assignment,2025-06-02 14:00:00,,N/A
+FYS-3941,Assignment,2024-12-16 14:00:00,,N/A
+FYS-3941,Assignment,2024-12-02 14:00:00,,N/A
+FYS-3941,Assignment,2025-06-02 14:00:00,,N/A
+FYS-3951,Assignment,2025-06-02 14:00:00,,N/A
+FYS-8012,School_exam,2024-12-16 09:00:00,,"(TROMSO): Teorifagbygget hus 3 – Rom 3.218, lesesal (Tromsø)
+(NARVIK): E-Fløyen – E1480, Aktivt læringsrom"
+FYS-8028,School_exam,2024-11-29 09:00:00,,N/A
+FYS-8029,Off_campus_exam,2024-11-28 14:00:00,,N/A
+FYS-8033,Off_campus_exam,2025-04-14 09:00:00,2025-04-28 14:00:00,N/A
+GEN-8001,Off_campus_exam,2025-03-13 12:00:00,2025-04-11 14:00:00,N/A
+GEO-1001,Skriftlig_skoleeksamen,2024-12-11 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-3) Del 3
+GEO-2002,Skriftlig_skoleeksamen,2025-06-02 09:00:00,,(TROMSO): Administrasjonsbygget – K1.04 Eksamensrom (Tromsø)
+GEO-2003,Skriftlig_skoleeksamen,2024-11-28 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-2) Del 2
+GEO-2005,Skriftlig_skoleeksamen,2025-06-05 09:00:00,,(TROMSO): Administrasjonsbygget – K1.04 Eksamensrom (Tromsø)
+GEO-2006,Skriftlig_skoleeksamen,2025-05-26 09:00:00,,(TROMSO): Administrasjonsbygget – Auditorium Maximum (Tromsø)
+GEO-2007,Skriftlig_skoleeksamen,2024-12-05 09:00:00,,(TROMSO): Administrasjonsbygget – K1.04 Eksamensrom (Tromsø)
+GEO-2008,School_exam,2025-05-16 09:00:00,,(TROMSO): Administrasjonsbygget – Auditorium Maximum (Tromsø)
+GEO-2010,Skriftlig_skoleeksamen,2025-05-09 09:00:00,,(TROMSO): Administrasjonsbygget – K1.04 Eksamensrom (Tromsø)
+GEO-2011,Oppgave,2025-03-07 14:00:00,,N/A
+GEO-2012,Oppgave,2024-12-03 09:00:00,2024-12-06 13:00:00,N/A
+GEO-2014,Skriftlig_skoleeksamen,2025-05-21 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-2) Del 2
+GEO-2015,Off_campus_exam,2025-03-07 14:00:00,2025-03-28 14:00:00,N/A
+GEO-2015,Off_campus_exam,2025-03-24 08:00:00,2025-04-30 14:00:00,N/A
+GEO-2201,Oppgave,2024-12-15 14:00:00,,N/A
+GEO-2201,Oppgave,2025-06-02 14:00:00,,N/A
+GEO-3105,Assignment,2025-03-24 08:00:00,2025-03-28 14:00:00,N/A
+GEO-3106,School_exam,2025-05-26 09:00:00,,(TROMSO): Administrasjonsbygget – Auditorium Maximum (Tromsø)
+GEO-3111,School_exam,2024-11-26 09:00:00,,(TROMSO): Teorifagbygget hus 1 – Plan 3 rom til bruk for eksamen
+GEO-3112,School_exam,2025-06-05 09:00:00,,(TROMSO): Administrasjonsbygget – K1.04 Eksamensrom (Tromsø)
+GEO-3113,Off_campus_exam,2025-06-16 08:00:00,2025-06-27 14:00:00,N/A
+GEO-3126,Off_campus_exam,2024-11-20 09:00:00,2024-12-13 12:00:00,N/A
+GEO-3130,Off_campus_exam,2025-04-22 08:00:00,2025-05-20 14:00:00,N/A
+GEO-3135,Off_campus_exam,2024-11-07 09:00:00,2024-11-25 14:00:00,N/A
+GEO-3137,School_exam,2024-11-28 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-1) Del 1
+GEO-3138,Assignment,2025-05-07 08:00:00,2025-05-14 14:00:00,N/A
+GEO-3138,School_exam,2025-06-03 09:00:00,,(TROMSO): Administrasjonsbygget – B154 Eksamensrom (Tromsø)
+GEO-3139,Off_campus_exam,2025-03-21 08:00:00,2025-04-11 14:00:00,N/A
+GEO-3151,Off_campus_exam,2024-11-27 09:00:00,2024-12-13 12:00:00,N/A
+GEO-3221,Assignment,2024-12-13 14:00:00,,N/A
+GEO-3221,Assignment,2025-06-02 14:00:00,,N/A
+GEO-3222,Assignment,2024-12-13 14:00:00,,N/A
+GEO-3222,Assignment,2025-06-02 14:00:00,,N/A
+GEO-3900,Assignment,2025-05-15 23:59:00,,N/A
+GEO-8137,School_exam,2024-11-28 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-1) Del 1
+GEO-8138,Assignment,2025-05-07 08:00:00,2025-05-14 14:00:00,N/A
+GEO-8138,School_exam,2025-06-03 09:00:00,,(TROMSO): Administrasjonsbygget – B154 Eksamensrom (Tromsø)
+INF-1039,Mappe/sammensatt_vurdering,2024-12-11 14:00:00,,N/A
+INF-1041,Mappe/sammensatt_vurdering,2024-12-11 14:00:00,,N/A
+INF-1049,Skriftlig_skoleeksamen,2024-12-13 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-2) Del 2
+INF-1100,Hjemmeeksamen,2024-10-16 09:00:00,2024-11-27 14:00:00,N/A
+INF-1101,Skriftlig_skoleeksamen,2025-06-06 09:00:00,,"(TROMSO): Kraft sportssenter – Idrettsbane (036-1) Del 1
+(TROMSO): Kraft sportssenter – Idrettsbane (036-3) Del 3
+(MO I RANA): Campus Helgeland – Undervisning
+(MO I RANA): Campus Helgeland – Undervisning"
+INF-1400,Skriftlig_skoleeksamen,2025-05-26 09:00:00,,"(TROMSO): Kraft sportssenter – Idrettsbane (036-2) Del 2
+(MO I RANA): Campus Helgeland – Undervisning
+(MO I RANA): Campus Helgeland – Undervisning"
+INF-1600,Skriftlig_skoleeksamen,2024-12-16 09:00:00,,"(TROMSO): Kraft sportssenter – Idrettsbane (036-2) Del 2
+(MO I RANA): Campus Helgeland – Undervisning
+(MO I RANA): Campus Helgeland – Undervisning"
+INF-1800,Hjemmeeksamen,2024-11-29 09:00:00,2024-12-13 14:00:00,N/A
+INF-1900,Hjemmeeksamen,2025-05-07 09:00:00,2025-05-28 14:00:00,N/A
+INF-2200,School_exam,2024-12-03 09:00:00,,"(TROMSO): Kraft sportssenter – Idrettsbane (036-1) Del 1
+(MO I RANA): Campus Helgeland – Undervisning
+(MO I RANA): Campus Helgeland – Undervisning"
+INF-2220,School_exam,2024-12-10 09:00:00,,"(TROMSO): Teorifagbygget hus 3 – Rom 3.203, bibliotek (Tromsø)
+(MO I RANA): Campus Helgeland – Undervisning
+(MO I RANA): Campus Helgeland – Undervisning"
+INF-2300,School_exam,2024-11-26 09:00:00,,"(TROMSO): Teorifagbygget hus 3 – Rom 3.203, bibliotek (Tromsø)
+(TROMSO): Teorifagbygget hus 3 – Rom 3.218, lesesal (Tromsø)"
+INF-2310,School_exam,2025-06-02 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-1) Del 1
+INF-2700,School_exam,2024-12-05 09:00:00,,(TROMSO): Administrasjonsbygget – B154 Eksamensrom (Tromsø)
+INF-2900,Off_campus_exam,2025-05-16 14:00:00,,N/A
+INF-2900,Off_campus_exam,2025-05-26 14:00:00,,N/A
+INF-2990,Assignment,2024-12-16 14:00:00,,N/A
+INF-2990,Assignment,2025-06-02 14:00:00,,N/A
+INF-2993,Assignment,2024-12-16 14:00:00,,N/A
+INF-2993,Assignment,2025-06-02 14:00:00,,N/A
+INF-3200,Oral_exam,2024-11-18 00:00:00,2024-11-22 00:00:00,N/A
+INF-3201,School_exam,2024-11-28 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-1) Del 1
+INF-3310,School_exam,2024-12-12 09:00:00,,"(TROMSO): Teorifagbygget hus 3 – Rom 3.218, lesesal (Tromsø)"
+INF-3315,School_exam,2024-12-11 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-1) Del 1
+INF-3701,School_exam,2025-05-12 09:00:00,,"(BODØ): Posthusgården – Undervisningsrom 138
+(TROMSO): Administrasjonsbygget – K1.04 Eksamensrom (Tromsø)"
+INF-3770,School_exam,2024-12-10 09:00:00,,"(TROMSO): Kraft sportssenter – Idrettsbane (036-2) Del 2
+(BODØ): Posthusgården – ALR 105"
+INF-3780,Portfolio,2025-06-13 14:00:00,,N/A
+INF-3807,Oppgave,2025-06-02 14:00:00,,N/A
+INF-3910-8,Assignment,2025-06-04 14:00:00,,N/A
+INF-3951,Assignment,2025-06-02 14:00:00,,N/A
+INF-3952,Assignment,2025-06-02 14:00:00,,N/A
+INF-3981,Assignment,2024-12-16 14:00:00,,N/A
+INF-3981,Assignment,2025-06-02 14:00:00,,N/A
+INF-3982,Assignment,2024-12-16 14:00:00,,N/A
+INF-3982,Assignment,2025-06-02 14:00:00,,N/A
+INF-3983,Assignment,2024-12-16 14:00:00,,N/A
+INF-3983,Assignment,2025-06-02 14:00:00,,N/A
+INF-3990,Assignment,2025-05-15 14:00:00,,N/A
+INF-3990,Assignment,2025-02-17 14:00:00,,N/A
+INF-6010,Mappe/sammensatt_vurdering,2024-11-22 14:00:00,,N/A
+INF-6010,Muntlig_eksamen,2024-12-09 08:00:00,,N/A
+INF-8310,School_exam,2024-12-12 09:00:00,,"(TROMSO): Teorifagbygget hus 3 – Rom 3.218, lesesal (Tromsø)"
+INF-8701,School_exam,2025-05-12 09:00:00,,(TROMSO): Administrasjonsbygget – K1.04 Eksamensrom (Tromsø)
+KJE-1001,Skriftlig_skoleeksamen,2024-12-09 09:00:00,,"(TROMSO): Kraft sportssenter – Idrettsbane (036-1) Del 1
+(TROMSO): Kraft sportssenter – Idrettsbane (036-2) Del 2
+(TROMSO): Kraft sportssenter – Idrettsbane (036-3) Del 3"
+KJE-1003,Skriftlig_skoleeksamen,2024-12-02 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-1) Del 1
+KJE-1004,Hjemmeeksamen,2024-11-21 09:00:00,2024-11-28 14:00:00,N/A
+KJE-1006,Mappevurdering,2025-05-30 14:00:00,,N/A
+KJE-2002,School_exam,2024-12-06 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-1) Del 1
+KJE-2003,Portfolio,2025-05-16 14:00:00,,N/A
+KJE-2004,School_exam,2024-12-04 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-3) Del 3
+KJE-2006,School_exam,2025-05-21 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-2) Del 2
+KJE-2010,Oppgave,2024-12-16 14:00:00,,N/A
+KJE-2010,Oppgave,2025-06-02 14:00:00,,N/A
+KJE-2013,Assignment,2024-12-16 14:00:00,,N/A
+KJE-2013,Assignment,2025-06-02 14:00:00,,N/A
+KJE-2110,Assignment,2024-12-16 14:00:00,,N/A
+KJE-2110,Assignment,2025-06-02 14:00:00,,N/A
+KJE-2210,Assignment,2024-12-16 14:00:00,,N/A
+KJE-2210,Assignment,2025-06-02 14:00:00,,N/A
+KJE-2310,Assignment,2024-12-16 14:00:00,,N/A
+KJE-2310,Assignment,2025-06-02 14:00:00,,N/A
+KJE-3101,Oral_exam,2024-12-11 09:00:00,,N/A
+KJE-3102,Portfolio,2025-06-13 14:00:00,,N/A
+KJE-3314,Portfolio,2024-12-02 14:00:00,,N/A
+KJE-3314,Oral_exam,2024-12-09 09:00:00,,N/A
+KJE-3603,Assignment,2025-05-23 14:00:00,,N/A
+KJE-3900,Assignment,2025-05-15 14:00:00,,N/A
+KJE-3907,Oppgave,2024-12-15 23:59:00,,N/A
+KJE-3907,Oppgave,2025-06-02 14:00:00,,N/A
+KJE-6051,Mappe/sammensatt_vurdering,2024-11-22 14:00:00,,N/A
+KJE-6052,Mappevurdering,2025-03-31 14:00:00,,N/A
+KJE-6053,Mappevurdering,2025-05-16 14:00:00,,N/A
+KJE-6056,Mappevurdering,2024-11-22 14:00:00,,N/A
+KJE-6057,Mappevurdering,2025-05-09 14:00:00,,N/A
+KJE-6100,Oppgave,2024-12-15 14:00:00,,N/A
+KJE-6100,Oppgave,2025-06-02 14:00:00,,N/A
+KJE-6101,Hjemmeeksamen,2024-12-10 07:00:00,2024-12-12 23:59:00,N/A
+MAT-0001,Skriftlig_skoleeksamen,2024-12-04 09:00:00,,"(TROMSO): Administrasjonsbygget – Auditorium Maximum (Tromsø)
+(TROMSO): Administrasjonsbygget – B154 Eksamensrom (Tromsø)
+(TROMSO): Administrasjonsbygget – K1.04 Eksamensrom (Tromsø)"
+MAT-1001,Skriftlig_skoleeksamen,2024-12-06 09:00:00,,"(TROMSO): Administrasjonsbygget – Auditorium Maximum (Tromsø)
+(TROMSO): Administrasjonsbygget – B154 Eksamensrom (Tromsø)"
+MAT-1002,Skriftlig_skoleeksamen,2025-06-10 09:00:00,,(TROMSO): Administrasjonsbygget – K1.04 Eksamensrom (Tromsø)
+MAT-1003,Skriftlig_skoleeksamen,2024-12-02 09:00:00,,(TROMSO): Teorifagbygget hus 1 – Plan 3 rom til bruk for eksamen
+MAT-1004,Skriftlig_skoleeksamen,2025-06-13 09:00:00,,(TROMSO): Administrasjonsbygget – K1.04 Eksamensrom (Tromsø)
+MAT-1005,Skriftlig_skoleeksamen,2024-12-02 09:00:00,,"(TROMSO): Administrasjonsbygget – Auditorium Maximum (Tromsø)
+(TROMSO): Administrasjonsbygget – B154 Eksamensrom (Tromsø)
+(MO I RANA): Campus Helgeland – Undervisning
+(MO I RANA): Campus Helgeland – Undervisning"
+MAT-1050,Skriftlig_skoleeksamen,2024-12-09 09:00:00,,"(TROMSO): Teorifagbygget hus 3 – Rom 3.203, bibliotek (Tromsø)
+(TROMSO): Teorifagbygget hus 3 – Rom 3.218, lesesal (Tromsø)"
+MAT-1052,Skriftlig_skoleeksamen,2025-06-11 09:00:00,,"(TROMSO): Administrasjonsbygget – B154 Eksamensrom (Tromsø)
+(TROMSO): Administrasjonsbygget – K1.04 Eksamensrom (Tromsø)"
+MAT-1060,Skriftlig_skoleeksamen,2025-01-31 09:00:00,,(TROMSO): Administrasjonsbygget – B154 Eksamensrom (Tromsø)
+MAT-1301,Skriftlig_skoleeksamen,2024-12-12 09:00:00,,(TROMSO): Teorifagbygget hus 1 – Plan 3 rom til bruk for eksamen
+MAT-2001,Oppgave,2024-12-16 14:00:00,,N/A
+MAT-2100,Skriftlig_skoleeksamen,2025-05-19 09:00:00,,(TROMSO): Administrasjonsbygget – B154 Eksamensrom (Tromsø)
+MAT-2200,School_exam,2025-06-13 09:00:00,,(TROMSO): Administrasjonsbygget – Auditorium Maximum (Tromsø)
+MAT-2201,School_exam,2024-12-03 09:00:00,,(TROMSO): Administrasjonsbygget – B154 Eksamensrom (Tromsø)
+MAT-3001,Portfolio,2024-12-02 14:00:00,,N/A
+MAT-3740,Assignment,2025-06-02 14:00:00,,N/A
+MAT-3900,Assignment,2025-05-15 14:00:00,,N/A
+MAT-3907,Oppgave,2025-06-02 14:00:00,,N/A
+MAT-3941,Assignment,2024-12-16 14:00:00,,N/A
+MAT-3941,Assignment,2025-06-02 14:00:00,,N/A
+MFA-1009,Skriftlig_skoleeksamen,2024-12-06 09:00:00,,(TROMSO): Teorifagbygget hus 1 – Plan 3 rom til bruk for eksamen
+MFA-1011,Skriftlig_skoleeksamen,2024-11-27 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-1) Del 1
+MFA-2006,Skriftlig_skoleeksamen,2025-05-15 09:00:00,,(TROMSO): Administrasjonsbygget – Auditorium Maximum (Tromsø)
+MFA-2007,Muntlig_eksamen,2024-11-29 00:00:00,2024-12-02 00:00:00,N/A
+MFA-2008,Skriftlig_skoleeksamen,2024-12-06 09:00:00,,(TROMSO): Administrasjonsbygget – K1.04 Eksamensrom (Tromsø)
+MFA-2009,Skriftlig_skoleeksamen,2024-12-03 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-2) Del 2
+MFA-2010,Skriftlig_skoleeksamen,2024-12-10 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-3) Del 3
+MFA-2011,Muntlig_eksamen,2024-12-03 08:00:00,,N/A
+MFA-2014,Skriftlig_skoleeksamen,2025-06-06 09:00:00,,(TROMSO): Administrasjonsbygget – K1.04 Eksamensrom (Tromsø)
+MFA-2016,Skriftlig_skoleeksamen,2024-12-12 09:00:00,,(TROMSO): Teorifagbygget hus 1 – Plan 3 rom til bruk for eksamen
+MFA-2017,Skriftlig_skoleeksamen,2024-12-06 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-1) Del 1
+MFA-2017,Skriftlig_skoleeksamen,2025-05-20 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-2) Del 2
+MFA-2018,Skriftlig_skoleeksamen,2025-05-26 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-3) Del 3
+MFA-2020,Oppgave,2025-05-15 14:00:00,,N/A
+MFA-8010,Off_campus_exam,2025-05-30 14:00:00,,N/A
+MFA-8020,Off_campus_exam,2024-12-02 09:00:00,2024-12-14 23:00:00,N/A
+MNF-2001,Mappevurdering,2025-05-15 08:00:00,2025-05-22 14:00:00,N/A
+SIK-1003,Skriftlig_skoleeksamen,2025-05-27 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-1) Del 1
+SIK-1506,Oppgave,2025-02-17 14:00:00,,N/A
+SIK-1506,Skriftlig_skoleeksamen,2025-03-07 09:00:00,,"(HARSTAD): Havnegata 5-7 – Undervisningsrom 1
+(HARSTAD): Havnegata 5-7 – Undervisningsrom 6
+(HARSTAD): Havnegata 5-7 – Undervisningsrom 9"
+SIK-1507,Hjemmeeksamen,2024-11-20 09:00:00,2024-11-27 14:00:00,N/A
+SIK-2001,Assignment,2025-03-17 14:00:00,,N/A
+SIK-2002,Oppgave,2025-05-02 14:00:00,,N/A
+SIK-2011,Assignment,2025-05-30 14:00:00,,N/A
+SIK-2012,School_exam,2024-12-10 09:00:00,,"(TROMSO): Teorifagbygget hus 3 – Rom 3.218, lesesal (Tromsø)"
+SIK-2020,Oppgave,2025-05-15 14:00:00,,N/A
+SIK-2503,Hjemmeeksamen,2025-04-07 09:00:00,2025-04-14 14:00:00,N/A
+SIK-2508,Hjemmeeksamen,2024-11-18 09:00:00,2024-11-25 14:00:00,N/A
+SIK-2509,Oppgave,2025-02-17 14:00:00,,N/A
+SIK-2509,Oppgave,2025-04-10 14:00:00,,N/A
+SIK-2510,Hjemmeeksamen,2025-05-12 09:00:00,2025-05-19 14:00:00,N/A
+SIK-2511,Oppgave,2025-06-02 14:00:00,,N/A
+SIK-2513,Hjemmeeksamen,2024-11-27 09:00:00,2024-11-27 13:00:00,N/A
+SIK-2514,Off_campus_exam,2024-12-12 09:00:00,2024-12-12 13:00:00,N/A
+SIK-2516,Off_campus_exam,2024-12-03 09:00:00,2024-12-10 14:00:00,N/A
+SIK-2517,Off_campus_exam,2024-11-25 09:00:00,2024-12-02 14:00:00,N/A
+SIK-2601,Hjemmeeksamen,2025-05-05 09:00:00,2025-05-12 14:00:00,N/A
+SIK-2617,Off_campus_exam,2024-11-25 09:00:00,2024-12-02 14:00:00,N/A
+STA-0001,Skriftlig_skoleeksamen,2025-05-30 09:00:00,,(TROMSO): Administrasjonsbygget – K1.04 Eksamensrom (Tromsø)
+STA-1001,Skriftlig_skoleeksamen,2025-05-22 09:00:00,,"(TROMSO): Administrasjonsbygget – Auditorium Maximum (Tromsø)
+(TROMSO): Administrasjonsbygget – B154 Eksamensrom (Tromsø)"
+STA-1050,Skriftlig_skoleeksamen,2024-12-13 09:00:00,,(TROMSO): Teorifagbygget hus 1 – Plan 3 rom til bruk for eksamen
+STA-2001,School_exam,2024-12-12 09:00:00,,(TROMSO): Teorifagbygget hus 1 – Plan 3 rom til bruk for eksamen
+STA-2002,School_exam,2024-12-11 09:00:00,,(TROMSO): Teorifagbygget hus 1 – Plan 3 rom til bruk for eksamen
+STA-2003,Skriftlig_skoleeksamen,2025-05-30 09:00:00,,(TROMSO): Administrasjonsbygget – Auditorium Maximum (Tromsø)
+STA-2004,Skriftlig_skoleeksamen,2025-05-19 09:00:00,,(TROMSO): Administrasjonsbygget – B154 Eksamensrom (Tromsø)
+STA-3300,School_exam,2024-12-11 09:00:00,,(TROMSO): Teorifagbygget hus 1 – Plan 3 rom til bruk for eksamen
+STA-3301,School_exam,2024-12-11 09:00:00,,(TROMSO): Teorifagbygget hus 1 – Plan 3 rom til bruk for eksamen
+STA-3740,Assignment,2024-12-16 14:00:00,,N/A
+STA-3740,Assignment,2025-06-02 14:00:00,,N/A
+STA-3750,Assignment,2025-06-02 14:00:00,,N/A
+STA-3900,Assignment,2025-05-15 14:00:00,,N/A
+STA-3941,Assignment,2024-12-16 14:00:00,,N/A
+STA-8300,School_exam,2024-12-11 09:00:00,,(TROMSO): Teorifagbygget hus 1 – Plan 3 rom til bruk for eksamen
+SVF-1201,Skriftlig_skoleeksamen,2024-11-26 09:00:00,,"(TROMSO): Teorifagbygget hus 4 – Rom 4.213, Seminarom (Tromsø)
+(TROMSO): Teorifagbygget hus 4 – Rom 4.248, leserom (Tromsø)"
+SVF-1202,Muntlig_eksamen,2024-12-02 00:00:00,2024-12-06 00:00:00,N/A
+SVF-1203,Oppgave,2025-03-21 14:00:00,,N/A
+SVF-1204,Skriftlig_skoleeksamen,2025-05-12 09:00:00,,(TROMSO): Administrasjonsbygget – B154 Eksamensrom (Tromsø)
+SVF-1601,Skriftlig_skoleeksamen,2025-04-11 09:00:00,,(KIRKENES): UiT i Kirkenes – 1.05 Store klasserom
+SVF-2103,Oppgave,2025-03-17 14:00:00,,N/A
+SVF-2107,Off_campus_exam,2024-12-12 09:00:00,2024-12-12 13:00:00,N/A
+SVF-2108,Hjemmeeksamen,2024-11-25 09:00:00,2024-12-02 14:00:00,N/A
+SVF-2109,Off_campus_exam,2024-12-05 09:00:00,2024-12-12 14:00:00,N/A
+SVF-2120,Muntlig_eksamen,2024-12-16 08:00:00,,N/A
+SVF-2120,Oppgave,2024-11-29 14:00:00,,N/A
+SVF-2120,Oppgave,2025-05-05 14:00:00,,N/A
+SVF-3206,Off_campus_exam,2024-11-27 09:00:00,2024-12-04 14:00:00,N/A
+SVF-3207,School_exam,2024-11-26 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-3) Del 3
+SVF-3208,Assignment,2024-12-09 09:00:00,2024-12-12 13:00:00,N/A
+SVF-3209,Off_campus_exam,2024-11-18 09:00:00,2024-11-22 13:00:00,N/A
+SVF-3210,Hjemmeeksamen,2025-05-28 09:00:00,2025-06-11 14:00:00,N/A
+SVF-3607,Assignment,2025-04-09 09:00:00,2025-04-14 14:00:00,N/A
+SVF-3615,Off_campus_exam,2024-11-29 09:00:00,2024-12-05 14:00:00,N/A
+SVF-3616,Off_campus_exam,2025-06-12 09:00:00,2025-06-13 09:00:00,N/A
+SVF-3616,Assignment,2025-05-12 09:00:00,,N/A
+SVF-3617,Off_campus_exam,2025-02-24 09:00:00,2025-02-28 09:00:00,N/A
+SVF-3617,Off_campus_exam,2025-05-07 09:00:00,2025-05-12 09:00:00,N/A
+SVF-3618,Assignment,2024-11-29 14:00:00,,N/A
+SVF-3618,Assignment,2025-04-30 14:00:00,,N/A
+SVF-3920,Oppgave,2024-12-16 14:00:00,,N/A
+SVF-3920,Oppgave,2025-06-02 14:00:00,,N/A
+SVF-3945,Assignment,2025-06-02 14:00:00,,N/A
+TEK-0002,Skriftlig_skoleeksamen,2024-12-12 09:00:00,,(TROMSO): Teorifagbygget hus 1 – Plan 3 rom til bruk for eksamen
+TEK-0002,Skriftlig_skoleeksamen,2025-05-26 09:00:00,,(TROMSO): Administrasjonsbygget – B154 Eksamensrom (Tromsø)
+TEK-0014,Skriftlig_skoleeksamen,2025-05-26 09:00:00,,(TROMSO): Administrasjonsbygget – B154 Eksamensrom (Tromsø)
+TEK-0015,Skriftlig_skoleeksamen,2025-05-15 09:00:00,,(TROMSO): Administrasjonsbygget – K1.04 Eksamensrom (Tromsø)
+TEK-2000,Oppgave,2024-12-18 14:00:00,,N/A
+TEK-2005,Assignment,2025-05-21 14:00:00,,N/A
+TEK-2005,School_exam,2025-05-28 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-2) Del 2
+TEK-2007,Assignment,2024-11-21 14:00:00,,N/A
+TEK-2007,School_exam,2024-12-03 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-2) Del 2
+TEK-2008,Hjemmeeksamen,2024-11-28 09:00:00,2024-11-28 13:00:00,N/A
+TEK-2601,Skriftlig_skoleeksamen,2024-12-10 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-1) Del 1
+TEK-3002,Off_campus_exam,2024-12-06 14:00:00,,N/A
+TEK-3002,School_exam,2024-12-02 09:00:00,,(TROMSO): Administrasjonsbygget – Auditorium Maximum (Tromsø)
+TEK-3003,Oral_exam,2024-12-10 08:00:00,,N/A
+TEK-3004,Off_campus_exam,2024-12-16 13:00:00,,N/A
+TEK-3017,Oral_exam,2024-12-06 09:00:00,,N/A
+TEK-3017,Off_campus_exam,2024-11-22 13:00:00,,N/A
+TEK-3901,Assignment,2024-12-16 14:00:00,,N/A
+TEK-3901,Assignment,2025-06-02 14:00:00,,N/A
+TEK-8017,Off_campus_exam,2024-11-22 13:00:00,,N/A
+Course Code,Exam_Type,,,Room Info
+ERG-1100,Skriftlig_skoleeksamen,2024-11-22 09:00:00,,"(TROMSO): Teorifagbygget hus 3 – Rom 3.218, lesesal (Tromsø)
+(TROMSO): Teorifagbygget hus 3 – Rom 3.236, Kollokvierom"
+ERG-1110,Mappevurdering,2025-03-11 09:00:00,2025-03-17 14:00:00,N/A
+ERG-2130,Mappevurdering,2025-06-03 09:00:00,2025-06-05 13:00:00,N/A
+ERG-2630,Oppgave,2025-05-28 14:00:00,,N/A
+ERG-2640,Mappevurdering,2025-06-10 14:00:00,,N/A
+ERN-1000,Skriftlig_skoleeksamen,2024-12-09 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-3) Del 3
+ERN-1001,Skriftlig_skoleeksamen,2024-12-13 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-3) Del 3
+ERN-2001,Skriftlig_skoleeksamen,2024-12-10 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-3) Del 3
+ERN-2009,Skriftlig_skoleeksamen,2025-06-13 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-3) Del 3
+ERN-2012,School_exam,2024-12-04 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-1) Del 1
+ERN-2013,Oral_exam,2024-11-22 09:00:00,,(TROMSO): Medisin og helsefagbygget 1 – Kollokvierom (U7.124)
+ERN-2014,School_exam,2024-12-11 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-3) Del 3
+ERN-2015,Skriftlig_skoleeksamen,2025-05-07 09:00:00,,(TROMSO): Administrasjonsbygget – B154 Eksamensrom (Tromsø)
+ERN-2025,Hjemmeeksamen,2025-05-30 12:00:00,,N/A
+ERN-2025,Muntlig_eksamen,2025-06-13 09:15:00,,N/A
+ERN-2112,School_exam,2024-12-04 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-1) Del 1
+ERN-2114,School_exam,2024-12-11 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-3) Del 3
+ERN-3000,Skriftlig_skoleeksamen,2024-12-12 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-2) Del 2
+ERN-3001,Hjemmeeksamen,2025-02-24 09:00:00,2025-03-03 09:00:00,N/A
+ERN-3002,Skriftlig_skoleeksamen,2025-05-26 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-2) Del 2
+ERN-3950,Oppgave,2025-05-15 12:00:00,,N/A
+FAR-1101,Muntlig_eksamen,2024-12-03 00:00:00,2024-12-06 00:00:00,N/A
+FAR-2101,Skriftlig_skoleeksamen,2025-06-12 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-1) Del 1
+FAR-2204,Skriftlig_skoleeksamen,2024-12-12 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-1) Del 1
+FAR-2205,Muntlig_eksamen,2024-11-26 00:00:00,2024-11-27 00:00:00,N/A
+FAR-2207,Muntlig_eksamen,2024-12-12 08:00:00,,N/A
+FAR-2301,Muntlig_eksamen,2024-12-03 00:00:00,2024-12-06 00:00:00,N/A
+FAR-2301,Oppgave,2024-12-02 23:59:00,,N/A
+FAR-2301,Skriftlig_prøve,2024-12-02 09:00:00,,(TROMSO): Administrasjonsbygget – K1.04 Eksamensrom (Tromsø)
+FAR-2302,Skriftlig_skoleeksamen,2024-12-10 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-3) Del 3
+FAR-2402,Skriftlig_skoleeksamen,2024-12-03 09:00:00,,(TROMSO): Administrasjonsbygget – K1.04 Eksamensrom (Tromsø)
+FAR-3204,Muntlig_eksamen,2024-12-09 00:00:00,2024-12-11 00:00:00,N/A
+FAR-3911,Oppgave,2025-05-15 14:00:00,,N/A
+FRI-1436,Muntlig_eksamen,2024-12-03 00:00:00,2024-12-05 00:00:00,N/A
+FRI-1442,Hjemmeeksamen,2025-06-16 09:00:00,2025-06-19 14:00:00,N/A
+FRI-1443,School_exam,2025-04-03 09:00:00,,"(ALTA): Campus Alta Byggetrinn 2 – Rom 2107, Seminarrom (Alta)
+(ALTA): Campus Alta Byggetrinn 2 – Rom 2108, Seminarrom (Alta)"
+FRI-1851,Off_campus_exam,2025-02-26 16:00:00,,N/A
+FRI-2260,Hjemmeeksamen,2025-06-02 09:00:00,2025-06-04 13:00:00,N/A
+FRI-2581,Off_campus_exam,2025-06-12 09:00:00,2025-06-16 14:00:00,N/A
+FRI-2583,Off_campus_exam,2025-06-12 09:00:00,2025-06-16 14:00:00,N/A
+FYT-1110,Skriftlig_skoleeksamen,2025-01-31 09:00:00,,(TROMSO): Administrasjonsbygget – B154 Eksamensrom (Tromsø)
+FYT-1130,Hjemmeeksamen,2025-03-12 09:00:00,2025-03-28 14:00:00,N/A
+FYT-2110,Hjemmeeksamen,2024-12-12 09:00:00,2024-12-19 14:00:00,N/A
+FYT-2130,Mappevurdering,2025-05-14 14:00:00,,N/A
+FYT-2630,Oppgave,2025-05-20 14:00:00,,N/A
+HEL-0700,Oppgave,2024-11-29 14:00:00,,N/A
+HEL-0730,Oppgave,2024-11-29 14:00:00,,N/A
+HEL-0745,Oppgave,2025-05-23 14:00:00,,N/A
+HEL-0750,Oppgave,2024-11-29 14:00:00,,N/A
+HEL-0760,Oppgave,2024-11-29 14:00:00,,N/A
+HEL-1000,Hjemmeeksamen,2025-03-07 09:00:00,2025-03-28 14:00:00,N/A
+HEL-1700,Hjemmeeksamen,2025-01-13 09:00:00,2025-06-12 14:00:00,N/A
+HEL-3060,Off_campus_exam,2024-11-22 15:00:00,2024-12-06 14:00:00,N/A
+HEL-3066,Off_campus_exam,2024-11-29 09:00:00,2024-12-16 14:00:00,N/A
+HEL-3950,Assignment,2024-11-01 09:00:00,2024-12-01 23:59:00,N/A
+HEL-3950,Assignment,2025-05-30 14:00:00,,N/A
+HEL-3961,Oppgave,2025-05-02 14:00:00,,N/A
+HEL-3962,Oppgave,2025-05-02 14:00:00,,N/A
+HEL-3963,Oppgave,2025-05-02 14:00:00,,N/A
+HEL-3964,Oppgave,2025-05-02 14:00:00,,N/A
+HEL-3965,Oppgave,2025-05-02 14:00:00,,N/A
+HEL-3966,Oppgave,2025-05-02 14:00:00,,N/A
+HEL-3967,Oppgave,2025-05-02 14:00:00,,N/A
+HEL-6100,Hjemmeeksamen,2025-02-07 09:00:00,2025-02-21 14:00:00,N/A
+HEL-6101,Hjemmeeksamen,2025-05-09 14:00:00,,N/A
+HEL-6102,Hjemmeeksamen,2025-05-09 14:00:00,,N/A
+HEL-6317,Muntlig_eksamen,2025-05-27 00:00:00,2025-05-28 00:00:00,(TROMSO): Teorifagbygget hus 1 – Plan 2 rom til bruk for eksamen
+HEL-6321,Oppgave,2024-11-25 14:00:00,,N/A
+HEL-6321,Oppgave,2025-05-05 13:00:00,,N/A
+HEL-6322,Hjemmeeksamen,2025-06-02 09:00:00,2025-06-02 14:00:00,N/A
+HEL-6323,Hjemmeeksamen,2025-05-30 09:00:00,2025-06-06 14:00:00,N/A
+HEL-6324,Hjemmeeksamen,2024-12-03 09:00:00,2024-12-09 14:00:00,N/A
+HEL-6331,Muntlig_eksamen,2024-12-02 00:00:00,2024-12-13 00:00:00,N/A
+HEL-8002,Off_campus_exam,2025-05-09 14:00:00,,N/A
+HEL-8003,Off_campus_exam,2024-11-21 16:00:00,2024-11-29 14:00:00,N/A
+HEL-8013,Off_campus_exam,2024-11-22 15:00:00,2024-12-06 14:00:00,N/A
+HEL-8020,Hjemmeeksamen,2025-05-09 14:00:00,,N/A
+HEL-8026,Off_campus_exam,2024-10-31 16:00:00,2024-11-28 14:00:00,N/A
+HEL-8030,Off_campus_exam,2025-02-28 16:00:00,2025-03-14 12:00:00,N/A
+HEL-8031,Off_campus_exam,2025-03-24 09:00:00,2025-04-14 14:00:00,N/A
+HEL-8040,Off_campus_exam,2024-11-15 09:00:00,2024-12-02 14:00:00,N/A
+HEL-8040,Off_campus_exam,2025-04-14 09:00:00,2025-05-05 14:00:00,N/A
+HEL-8042,Off_campus_exam,2025-05-02 09:00:00,2025-05-16 14:00:00,N/A
+HEL-8042,Off_campus_exam,2024-12-02 09:00:00,2024-12-16 14:00:00,N/A
+HEL-8044,School_exam,2025-05-16 09:00:00,,(TROMSO): Administrasjonsbygget – Auditorium Maximum (Tromsø)
+HEL-8045-EN,Off_campus_exam,2025-04-16 09:00:00,2025-04-30 14:00:00,N/A
+HEL-8045-NO,Hjemmeeksamen,2024-11-14 09:00:00,2024-11-28 14:00:00,N/A
+HEL-8046,Off_campus_exam,2025-05-28 09:00:00,2025-06-13 14:00:00,N/A
+HEL-8048,Off_campus_exam,2025-03-05 09:00:00,2025-03-26 14:00:00,N/A
+IDR-0510,Hjemmeeksamen,2024-12-10 09:00:00,2024-12-12 13:00:00,N/A
+IDR-1141,Hjemmeeksamen,2025-05-21 09:00:00,2025-05-23 13:00:00,N/A
+IDR-1321,Hjemmeeksamen,2025-05-30 09:00:00,2025-06-03 14:00:00,N/A
+IDR-1325,Skriftlig_skoleeksamen,2024-11-28 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-3) Del 3
+IDR-1430,Muntlig_eksamen,2024-12-04 00:00:00,2024-12-05 00:00:00,N/A
+IDR-1525,Muntlig_eksamen,2024-12-05 00:00:00,2024-12-06 00:00:00,N/A
+IDR-1541,Hjemmeeksamen,2025-06-02 09:00:00,2025-06-04 13:00:00,N/A
+IDR-2231,Skriftlig_skoleeksamen,2024-11-28 09:00:00,,"(TROMSO): Kraft sportssenter – Idrettsbane (036-2) Del 2
+(ALTA): Campus Alta Byggetrinn 2 – Rom 2107, Seminarrom (Alta)"
+IDR-2232,Skriftlig_skoleeksamen,2024-11-28 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-2) Del 2
+IDR-2250,Oppgave,2025-05-21 14:00:00,,N/A
+IDR-2281,Hjemmeeksamen,2025-05-06 09:00:00,2025-05-12 14:00:00,N/A
+IDR-3901,Oppgave,2024-12-15 14:00:00,,N/A
+IDR-3901,Oppgave,2025-05-30 14:00:00,,N/A
+IDR-3910,Oppgave,2024-12-13 14:00:00,,N/A
+IDR-3912,Oppgave,2024-12-06 14:00:00,,N/A
+IDR-3914,Oppgave,2025-03-14 14:00:00,,N/A
+IDR-3922,Oppgave,2025-05-21 14:00:00,,N/A
+IDR-6001,Hjemmeeksamen,2024-12-15 09:00:00,2024-12-19 14:00:00,N/A
+IDR-6001,Hjemmeeksamen,2025-03-15 09:00:00,2025-03-19 14:00:00,N/A
+IDR-6001,Hjemmeeksamen,2025-06-15 09:00:00,2025-06-19 14:00:00,N/A
+JMO-3001,Hjemmeeksamen,2024-12-09 09:00:00,2024-12-12 14:00:00,N/A
+JMO-3008,Oppgave,2025-03-18 14:00:00,,N/A
+JMO-3021,Hjemmeeksamen,2024-12-09 09:00:00,2024-12-12 13:00:00,N/A
+JMO-3022,Skriftlig_skoleeksamen,2025-04-01 09:00:00,,(TROMSO): Administrasjonsbygget – B154 Eksamensrom (Tromsø)
+MBI-1000,Muntlig_eksamen,2024-11-28 00:00:00,2024-11-29 00:00:00,"(TROMSO): Medisin og helsefagbygget 2 – U.07.306, Grupperom"
+MBI-1101,Mappevurdering,2025-03-07 12:00:00,,N/A
+MBI-1103,Skriftlig_skoleeksamen,2025-05-20 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-2) Del 2
+MBI-1104,Skriftlig_skoleeksamen,2024-12-12 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-2) Del 2
+MBI-2001,Skriftlig_skoleeksamen,2024-12-12 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-1) Del 1
+MBI-2004,School_exam,2024-12-02 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-1) Del 1
+MBI-2005,School_exam,2024-11-28 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-2) Del 2
+MBI-2010,Assignment,2024-12-13 12:00:00,,N/A
+MBI-2010,Assignment,2025-06-02 12:00:00,,N/A
+MBI-2011,Skriftlig_skoleeksamen,2024-11-27 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-2) Del 2
+MBI-2012,Skriftlig_skoleeksamen,2025-05-20 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-2) Del 2
+MBI-2013,Skriftlig_skoleeksamen,2025-06-13 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-3) Del 3
+MBI-2014,Oppgave,2025-06-02 12:00:00,,N/A
+MBI-2101,Skriftlig_skoleeksamen,2024-11-27 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-3) Del 3
+MBI-2102,Muntlig_eksamen,2024-12-09 00:00:00,2024-12-11 00:00:00,N/A
+MBI-2104,Muntlig_eksamen,2025-06-02 00:00:00,2025-06-05 00:00:00,N/A
+MBI-2105,Hjemmeeksamen,2024-11-27 09:00:00,2024-12-04 14:00:00,N/A
+MBI-2105,Skriftlig_skoleeksamen,2024-12-10 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-1) Del 1
+MBI-2106,Skriftlig_skoleeksamen,2024-12-12 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-2) Del 2
+MBI-2106,Skriftlig_skoleeksamen,2024-12-12 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-2) Del 2
+MBI-2108,Muntlig_eksamen,2025-06-10 00:00:00,2025-06-12 00:00:00,N/A
+MBI-2108,Oppgave,2025-05-30 09:00:00,,N/A
+MBI-2110,Muntlig_eksamen,2025-05-19 00:00:00,2025-05-20 00:00:00,N/A
+MBI-2111,Skriftlig_skoleeksamen,2025-04-23 09:00:00,,(TROMSO): Administrasjonsbygget – B154 Eksamensrom (Tromsø)
+MBI-3012,Oral_exam,2024-12-09 00:00:00,2024-12-10 00:00:00,"(TROMSO): Medisin og helsefagbygget 2 – U.07.306, Grupperom
+(TROMSO): Medisin og helsefagbygget 2 – U.07.308, Undervisningsrom"
+MBI-3012,School_exam,2024-12-05 09:00:00,,(TROMSO): Administrasjonsbygget – K1.04 Eksamensrom (Tromsø)
+MBI-3013,School_exam,2025-05-20 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-2) Del 2
+MBI-3015,Skriftlig_skoleeksamen,2025-05-26 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-2) Del 2
+MBI-3911,Assignment,2025-05-15 12:00:00,,N/A
+MED-1501,Skriftlig_skoleeksamen,2025-06-03 09:00:00,,"(TROMSO): Kraft sportssenter – Idrettsbane (036-2) Del 2
+(TROMSO): Kraft sportssenter – Idrettsbane (036-3) Del 3"
+MED-2502,Skriftlig_skoleeksamen,2024-12-16 09:00:00,,"(TROMSO): Kraft sportssenter – Idrettsbane (036-2) Del 2
+(TROMSO): Kraft sportssenter – Idrettsbane (036-3) Del 3"
+MED-2503,Skriftlig_skoleeksamen,2025-06-04 09:00:00,,"(TROMSO): Kraft sportssenter – Idrettsbane (036-2) Del 2
+(TROMSO): Kraft sportssenter – Idrettsbane (036-3) Del 3"
+MED-2510,Skriftlig_skoleeksamen,2025-06-05 09:00:00,,"(TROMSO): Administrasjonsbygget – Auditorium Maximum (Tromsø)
+(TROMSO): Administrasjonsbygget – B154 Eksamensrom (Tromsø)
+(TROMSO): Administrasjonsbygget – K1.04 Eksamensrom (Tromsø)"
+MED-2520,School_exam,2024-12-17 09:00:00,,"(TROMSO): Kraft sportssenter – Idrettsbane (036-2) Del 2
+(TROMSO): Kraft sportssenter – Idrettsbane (036-3) Del 3"
+MED-2521,Skriftlig_skoleeksamen,2025-06-06 09:00:00,,"(TROMSO): Administrasjonsbygget – Auditorium Maximum (Tromsø)
+(TROMSO): Administrasjonsbygget – B154 Eksamensrom (Tromsø)
+(TROMSO): Administrasjonsbygget – K1.04 Eksamensrom (Tromsø)"
+MED-3601,Muntlig_eksamen,2024-11-29 00:00:00,2024-12-10 00:00:00,N/A
+MED-3601,Skriftlig_skoleeksamen_-_nasjonal,2024-11-26 09:00:00,,"(TROMSO): Kraft sportssenter – Idrettsbane (036-2) Del 2
+(BODØ): Posthusgården – Undervisningsrom 138
+(HAMMERFEST): Campus Hammerfest – 223 Klasserom Snefjord (Hammerfest)"
+MED-3601,Skriftlig_skoleeksamen_-_nasjonal,2025-05-27 09:00:00,,"(BODØ): Posthusgården – ALR 105
+(BODØ): Posthusgården – Undervisningsrom 138
+(HAMMERFEST): Nye Hammerfest sykehus – Sirma
+(TROMSO): Administrasjonsbygget – K1.04 Eksamensrom (Tromsø)"
+MED-3950,Oppgave,2025-06-02 12:00:00,,N/A
+ODO-1004,Skriftlig_skoleeksamen,2025-06-03 09:00:00,,"(TROMSO): Kraft sportssenter – Idrettsbane (036-1) Del 1
+(TROMSO): Kraft sportssenter – Idrettsbane (036-3) Del 3"
+ODO-2008,Skriftlig_skoleeksamen,2024-12-09 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-3) Del 3
+ODO-2009,Skriftlig_skoleeksamen,2025-03-06 09:00:00,,(TROMSO): Administrasjonsbygget – B154 Eksamensrom (Tromsø)
+ODO-2516,Skriftlig_skoleeksamen,2025-03-19 09:00:00,,(TROMSO): Administrasjonsbygget – B154 Eksamensrom (Tromsø)
+ODO-2518,Skriftlig_skoleeksamen,2024-12-16 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-1) Del 1
+ODO-2520,Hjemmeeksamen,2024-12-02 09:00:00,2024-12-02 13:00:00,N/A
+ODO-3208,Skriftlig_skoleeksamen,2025-06-11 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-2) Del 2
+ODO-3305,Skriftlig_skoleeksamen,2025-05-13 09:00:00,,(TROMSO): Administrasjonsbygget – B154 Eksamensrom (Tromsø)
+ODO-3306,Skriftlig_skoleeksamen,2025-05-26 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-3) Del 3
+ODO-3324,Skriftlig_skoleeksamen,2024-11-28 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-3) Del 3
+ODO-3901,Oppgave,2025-05-05 14:00:00,,N/A
+ODO-3920,Muntlig_eksamen,2024-12-11 12:45:00,,N/A
+PAR-1110,Skriftlig_skoleeksamen,2024-12-04 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-3) Del 3
+PAR-1120,Skriftlig_skoleeksamen,2024-12-11 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-3) Del 3
+PAR-1130,Skriftlig_skoleeksamen,2025-06-11 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-3) Del 3
+PAR-1140,Skriftlig_skoleeksamen,2025-05-15 09:00:00,,(TROMSO): Administrasjonsbygget – Auditorium Maximum (Tromsø)
+PAR-2110,Hjemmeeksamen,2025-02-17 09:00:00,2025-02-19 13:00:00,N/A
+PAR-2120,Skriftlig_skoleeksamen,2025-05-13 09:00:00,,(TROMSO): Administrasjonsbygget – K1.04 Eksamensrom (Tromsø)
+PAR-2610,Skriftlig_skoleeksamen,2024-12-09 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-3) Del 3
+PAR-2630,Oppgave,2024-12-13 14:00:00,,N/A
+PED-6112,Hjemmeeksamen,2024-11-22 09:00:00,2024-12-06 14:00:00,N/A
+PSY-0700,Oppgave,2025-05-12 14:00:00,,N/A
+PSY-1001,Skriftlig_skoleeksamen,2024-12-06 09:00:00,,"(TROMSO): Kraft sportssenter – Idrettsbane (036-2) Del 2
+(TROMSO): Kraft sportssenter – Idrettsbane (036-3) Del 3"
+PSY-1004,School_exam,2024-12-03 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-2) Del 2
+PSY-1005,School_exam,2024-11-25 09:00:00,,"(TROMSO): Teorifagbygget hus 3 – Rom 3.203, bibliotek (Tromsø)
+(TROMSO): Teorifagbygget hus 3 – Rom 3.218, lesesal (Tromsø)"
+PSY-1010,Skriftlig_skoleeksamen,2025-05-30 09:00:00,,"(TROMSO): Kraft sportssenter – Idrettsbane (036-2) Del 2
+(TROMSO): Kraft sportssenter – Idrettsbane (036-3) Del 3"
+PSY-1012,Skriftlig_skoleeksamen,2025-06-20 09:00:00,,"(TROMSO): Administrasjonsbygget – Auditorium Maximum (Tromsø)
+(TROMSO): Administrasjonsbygget – B154 Eksamensrom (Tromsø)"
+PSY-1013,Skriftlig_skoleeksamen,2025-05-02 09:00:00,,(TROMSO): Administrasjonsbygget – B154 Eksamensrom (Tromsø)
+PSY-1020,Skriftlig_skoleeksamen,2025-05-30 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-3) Del 3
+PSY-1021,Skriftlig_skoleeksamen,2024-12-06 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-3) Del 3
+PSY-1022,Skriftlig_skoleeksamen,2025-06-20 09:00:00,,(TROMSO): Administrasjonsbygget – K1.04 Eksamensrom (Tromsø)
+PSY-1514,Hjemmeeksamen,2025-03-28 09:00:00,2025-04-11 14:00:00,N/A
+PSY-1603,Oppgave,2024-12-13 14:00:00,,N/A
+PSY-1604,Oppgave,2025-06-06 14:00:00,,N/A
+PSY-1605,Oppgave,2024-12-13 14:00:00,,N/A
+PSY-1606,Oppgave,2025-06-11 14:00:00,,N/A
+PSY-1607,Oppgave,2024-12-16 14:00:00,,N/A
+PSY-1608,Oppgave,2025-06-06 14:00:00,,N/A
+PSY-1615,Oppgave,2024-12-13 14:00:00,,N/A
+PSY-1616,Oppgave,2025-06-11 14:00:00,,N/A
+PSY-1701,Skriftlig_skoleeksamen,2025-05-05 09:00:00,,(TROMSO): Administrasjonsbygget – B154 Eksamensrom (Tromsø)
+PSY-1702,Hjemmeeksamen,2024-12-09 14:00:00,,N/A
+PSY-1703,Skriftlig_skoleeksamen,2024-12-02 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-2) Del 2
+PSY-1704,Skriftlig_skoleeksamen,2025-05-09 09:00:00,,(TROMSO): Administrasjonsbygget – K1.04 Eksamensrom (Tromsø)
+PSY-1706,Oppgave,2025-03-19 14:00:00,,N/A
+PSY-2002,Oppgave,2024-12-09 14:00:00,,N/A
+PSY-2002,Oppgave,2025-06-02 14:00:00,,N/A
+PSY-2012,Off_campus_exam,2024-11-29 09:00:00,2024-12-13 14:00:00,N/A
+PSY-2031,Hjemmeeksamen,2024-11-15 09:00:00,2024-11-22 14:00:00,N/A
+PSY-2032,Oral_exam,2024-12-04 00:00:00,2024-12-05 00:00:00,N/A
+PSY-2034,Off_campus_exam,2025-04-24 09:00:00,2025-04-24 10:00:00,N/A
+PSY-2503,School_exam,2024-12-10 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-1) Del 1
+PSY-2584,Skriftlig_skoleeksamen,2025-03-26 09:00:00,,(TROMSO): Administrasjonsbygget – B154 Eksamensrom (Tromsø)
+PSY-2707,Hjemmeeksamen,2024-11-29 09:00:00,2024-12-13 14:00:00,N/A
+PSY-2803,Hjemmeeksamen,2025-05-05 09:00:00,2025-05-19 14:00:00,N/A
+PSY-2901,Oppgave,2024-12-10 14:00:00,,N/A
+PSY-3005,Off_campus_exam,2024-11-11 09:00:00,2024-11-25 14:00:00,N/A
+PSY-3006,Assignment,2024-12-02 14:00:00,,N/A
+PSY-3006,Assignment,2025-06-02 14:00:00,,N/A
+PSY-3015,Hjemmeeksamen,2025-03-28 09:00:00,2025-04-11 14:00:00,N/A
+PSY-3023,Off_campus_exam,2024-11-25 09:00:00,2024-12-09 14:00:00,N/A
+PSY-3023,Off_campus_exam,2025-06-10 14:00:00,,N/A
+PSY-3032,Oral_exam,2024-12-04 00:00:00,2024-12-05 00:00:00,N/A
+PSY-3034,Off_campus_exam,2025-05-28 14:00:00,,N/A
+PSY-3035,Oppgave,2025-03-26 14:00:00,,N/A
+PSY-3038,Oppgave,2025-05-13 14:00:00,,N/A
+PSY-3500,Oppgave,2024-12-02 14:00:00,,N/A
+PSY-3500,Oppgave,2025-06-02 14:00:00,,N/A
+PSY-3501,Oppgave,2025-06-02 14:00:00,,N/A
+PSY-3502,Oppgave,2024-12-02 14:00:00,,N/A
+PSY-3502,Oppgave,2025-06-02 14:00:00,,N/A
+PSY-3503,Oppgave,2024-12-02 14:00:00,,N/A
+PSY-3503,Oppgave,2025-06-02 14:00:00,,N/A
+PSY-3504,Oppgave,2024-12-02 14:00:00,,N/A
+PSY-3504,Oppgave,2025-06-02 14:00:00,,N/A
+PSY-3900,Assignment,2024-12-02 14:00:00,,N/A
+PSY-3900,Assignment,2025-05-02 14:00:00,,N/A
+RAD-1120,Skriftlig_skoleeksamen,2024-12-13 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-3) Del 3
+RAD-2110,Skriftlig_skoleeksamen,2025-01-06 09:00:00,,(TROMSO): Administrasjonsbygget – B154 Eksamensrom (Tromsø)
+RAD-2130,Skriftlig_skoleeksamen,2024-12-13 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-3) Del 3
+RAD-2150,Mappevurdering,2025-05-02 14:00:00,,N/A
+RAD-2610,Muntlig_eksamen,2024-12-16 08:15:00,,N/A
+RAD-2620,Muntlig_eksamen,2024-12-10 00:00:00,2024-12-11 00:00:00,N/A
+RAD-2640,Oppgave,2025-05-16 14:00:00,,N/A
+SSO-3112,Hjemmeeksamen,2025-05-26 09:00:00,2025-05-28 13:00:00,N/A
+SSO-3115,Hjemmeeksamen,2025-05-30 09:00:00,2025-06-06 14:00:00,N/A
+SSO-3116,Hjemmeeksamen,2024-09-20 09:00:00,2024-12-13 14:00:00,N/A
+SSO-3117,Oppgave,2024-11-29 14:00:00,,N/A
+SSO-3911,Oppgave,2025-05-15 15:00:00,,N/A
+SSO-3911,Oppgave,2025-02-10 14:00:00,,N/A
+SYD-1110,Skriftlig_skoleeksamen,2024-12-11 09:00:00,,"(HARSTAD): Havnegata 5-7 – 112 Undervisningsrom 2
+(ALTA): Campus Alta Byggetrinn 2 – Rom 2107, Seminarrom (Alta)
+(ALTA): Campus Alta Byggetrinn 2 – Rom 2116, Seminarrom (Alta)
+(KIRKENES): UiT i Kirkenes – 1.08 Lille klasserom"
+SYD-1110,Skriftlig_skoleeksamen,2025-04-29 09:00:00,,"(HARSTAD): Havnegata 5-7 – Undervisningsrom 1
+(ALTA): Campus Alta Byggetrinn 2 – Rom 2107, Seminarrom (Alta)
+(ALTA): Campus Alta Byggetrinn 2 – Rom 2108, Seminarrom (Alta)
+(HARSTAD): Havnegata 5-7 – Undervisningsrom 6
+(TROMSO): Administrasjonsbygget – K1.04 Eksamensrom (Tromsø)
+(KIRKENES): UiT i Kirkenes – 1.05 Store klasserom
+(KIRKENES): UiT i Kirkenes – 1.08 Lille klasserom
+(KIRKENES): UiT i Kirkenes – 4.03"
+SYD-1121,Hjemmeeksamen,2025-01-27 09:00:00,2025-01-30 13:00:00,N/A
+SYD-1130,Skriftlig_skoleeksamen,2025-01-13 09:00:00,,"(ALTA): Campus Alta Byggetrinn 2 – Rom 2107, Seminarrom (Alta)
+(HARSTAD): Havnegata 5-7 – Undervisningsrom 7"
+SYD-1130,Skriftlig_skoleeksamen,2025-06-02 09:00:00,,"(HARSTAD): Havnegata 5-7 – Undervisningsrom 1
+(HARSTAD): Havnegata 5-7 – Undervisningsrom 7
+(HARSTAD): Havnegata 5-7 – Undervisningsrom 8
+(ALTA): Campus Alta Byggetrinn 3 – Rom A102, Kultursalen (Alta)
+(TROMSO): Administrasjonsbygget – B154 Eksamensrom (Tromsø)
+(KIRKENES): UiT i Kirkenes – 1.05 Store klasserom
+(KIRKENES): UiT i Kirkenes – 1.08 Lille klasserom
+(KIRKENES): UiT i Kirkenes – 4.03"
+SYD-2111,Skriftlig_skoleeksamen,2025-03-31 09:00:00,,"(ALTA): Campus Alta Byggetrinn 2 – Rom 2107, Seminarrom (Alta)
+(TROMSO): Administrasjonsbygget – K1.04 Eksamensrom (Tromsø)"
+SYD-2120,Skriftlig_skoleeksamen,2025-01-06 09:00:00,,"(TROMSO): Administrasjonsbygget – B154 Eksamensrom (Tromsø)
+(ALTA): Campus Alta: Paviljong 1, 2, 3 og m.bygg – Rom P179, Sarikoski"
+SYD-2610,Hjemmeeksamen,2025-02-10 09:00:00,2025-02-13 13:00:00,N/A
+SYD-2630,Oppgave,2024-11-21 09:00:00,,N/A
+SYP-1110,Skriftlig_skoleeksamen,2024-12-11 09:00:00,,"(TROMSO): Kraft sportssenter – Idrettsbane (036-1) Del 1
+(TROMSO): Kraft sportssenter – Idrettsbane (036-2) Del 2
+(HARSTAD): Havnegata 5-7 – Undervisningsrom 1
+(HAMMERFEST): Campus Hammerfest – 222 Møterom Sirma (Hammerfest)
+(HAMMERFEST): Campus Hammerfest – 233 Skaidi (Hammerfest)
+(HARSTAD): Havnegata 5-7 – Undervisningsrom 9
+(NARVIK): E-Fløyen – E2470, Seminarrom
+(NARVIK): E-Fløyen – E2471, Seminarrom"
+SYP-1121,Hjemmeeksamen,2025-06-10 09:00:00,2025-06-13 13:00:00,N/A
+SYP-1121,Hjemmeeksamen,2025-01-27 09:00:00,2025-01-30 13:00:00,N/A
+SYP-1121,Digital_kunnskapstest,2025-04-10 14:00:00,2025-04-10 14:30:00,N/A
+SYP-1130,Skriftlig_skoleeksamen,2025-01-13 09:00:00,,"(HARSTAD): Havnegata 5-7 – Undervisningsrom 7
+(HARSTAD): Havnegata 5-7 – Undervisningsrom 8
+(HARSTAD): Havnegata 5-7 – Undervisningsrom 9
+(TROMSO): Administrasjonsbygget – Auditorium Maximum (Tromsø)
+(TROMSO): Administrasjonsbygget – B154 Eksamensrom (Tromsø)
+(HAMMERFEST): Nye Hammerfest sykehus – Snefjord
+(HAMMERFEST): Nye Hammerfest sykehus – Måsøy
+(NARVIK): E-Fløyen – E2463, Undervisningsrom
+(NARVIK): E-Fløyen – E2471, Seminarrom
+(TROMSO): Administrasjonsbygget – K1.04 Eksamensrom (Tromsø)"
+SYP-1171,Hjemmeeksamen,2025-02-10 09:00:00,2025-02-17 14:00:00,N/A
+SYP-1172,Hjemmeeksamen,2025-05-22 09:00:00,2025-05-30 14:00:00,N/A
+SYP-2111,Kunnskapstest,2025-01-14 14:00:00,,N/A
+SYP-2111,Skriftlig_skoleeksamen,2025-03-31 09:00:00,,"(HARSTAD): Havnegata 5-7 – Undervisningsrom 1
+(TROMSO): Administrasjonsbygget – Auditorium Maximum (Tromsø)
+(TROMSO): Administrasjonsbygget – B154 Eksamensrom (Tromsø)
+(HAMMERFEST): Nye Hammerfest sykehus – Snefjord
+(NARVIK): E-Fløyen – E1480, Aktivt læringsrom"
+SYP-2120,Skriftlig_skoleeksamen,2025-01-06 09:00:00,,"(HARSTAD): Havnegata 5-7 – Undervisningsrom 7
+(TROMSO): Administrasjonsbygget – B154 Eksamensrom (Tromsø)
+(HAMMERFEST): Nye Hammerfest sykehus – Sirma
+(NARVIK): E-Fløyen – E2463, Undervisningsrom"
+SYP-2630,Oppgave,2025-05-21 14:00:00,,N/A
+SYP-3201,Muntlig_eksamen,2024-12-17 08:15:00,,N/A
+SYP-3202,Hjemmeeksamen,2025-05-05 09:00:00,2025-05-08 13:00:00,N/A
+SYP-3301,Muntlig_eksamen,2024-12-17 08:15:00,,N/A
+SYP-3302,Hjemmeeksamen,2025-05-05 09:00:00,2025-05-08 13:00:00,N/A
+SYP-3401,Muntlig_eksamen,2024-12-17 00:00:00,2024-12-19 00:00:00,N/A
+SYP-3402,Hjemmeeksamen,2025-05-05 09:00:00,2025-05-08 13:00:00,N/A
+SYP-3601,Muntlig_eksamen,2024-12-17 08:15:00,,N/A
+SYP-3602,Hjemmeeksamen,2025-05-05 09:00:00,2025-05-08 13:00:00,N/A
+SYP-3701,Muntlig_eksamen,2024-12-17 08:15:00,,N/A
+SYP-3702,Hjemmeeksamen,2025-05-19 09:00:00,2025-05-22 13:00:00,N/A
+SYS-1110,Skriftlig_skoleeksamen,2025-04-29 09:00:00,,N/A
+SYS-1130,Skriftlig_skoleeksamen,2025-06-02 09:00:00,,N/A
+SYS-2630,Hjemmeeksamen,2024-11-21 14:00:00,,N/A
+TPL-1004,Skriftlig_skoleeksamen,2024-12-06 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-1) Del 1
+TPL-1006,Skriftlig_skoleeksamen,2025-05-30 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-1) Del 1
+TPL-1008,Hjemmeeksamen,2025-05-16 14:00:00,,N/A
+TPL-1010,Skriftlig_skoleeksamen,2024-12-05 09:00:00,,(TROMSO): Administrasjonsbygget – K1.04 Eksamensrom (Tromsø)
+TPL-1012,Hjemmeeksamen,2024-12-02 12:00:00,,N/A
+TPL-1014,Skriftlig_skoleeksamen,2024-12-05 09:00:00,,(TROMSO): Kraft sportssenter – Idrettsbane (036-3) Del 3
+TPL-2020,Hjemmeeksamen,2025-05-07 09:00:00,2025-05-07 13:00:00,N/A
+TPL-2024,Hjemmeeksamen,2025-04-30 14:00:00,,N/A
+VPL-1204,Skriftlig_skoleeksamen_-_legemiddelhåndtering,2024-12-10 13:00:00,,"(HARSTAD): Havnegata 5-7 – Undervisningsrom 1
+(HARSTAD): Havnegata 5-7 – Undervisningsrom 7"
+VPL-1204,Skriftlig_skoleeksamen_-_farmakologi,2024-12-10 09:00:00,,"(HARSTAD): Havnegata 5-7 – Undervisningsrom 1
+(HARSTAD): Havnegata 5-7 – Undervisningsrom 7"
+VPL-1205,Hjemmeeksamen,2025-02-17 09:00:00,2025-02-18 13:00:00,N/A
+VPL-1206,Skriftlig_skoleeksamen,2025-03-17 09:00:00,,(HARSTAD): Havnegata 5-7 – Undervisningsrom 1
+VPL-1209,Muntlig_eksamen,2024-12-09 00:00:00,2024-12-10 00:00:00,N/A
+VPL-1209,Praktisk_eksamen,2024-12-09 00:00:00,2024-12-10 00:00:00,N/A
+VPL-1306,Skriftlig_skoleeksamen,2024-12-09 09:00:00,,"(ALTA): Campus Alta Byggetrinn 2 – Rom 2108, Seminarrom (Alta)
+(HARSTAD): Havnegata 5-7 – Undervisningsrom 6
+(HARSTAD): Havnegata 5-7 – Undervisningsrom 9"
+VPL-1308,Hjemmeeksamen,2025-06-10 09:00:00,2025-06-11 13:00:00,N/A
+VPL-1309,Praktisk_eksamen,2024-12-05 00:00:00,2024-12-06 00:00:00,N/A
+VPL-1309,Muntlig_eksamen,2024-12-05 00:00:00,2024-12-06 00:00:00,N/A
+VPL-1312,Hjemmeeksamen,2024-12-11 09:00:00,2024-12-12 13:00:00,N/A
+VPL-2015,Hjemmeeksamen,2025-02-12 09:00:00,2025-02-14 13:00:00,N/A
+VPL-2016,Hjemmeeksamen,2025-03-21 09:00:00,2025-05-16 14:00:00,N/A
+VPL-2316,Muntlig_eksamen,2024-12-09 00:00:00,2024-12-11 00:00:00,N/A
