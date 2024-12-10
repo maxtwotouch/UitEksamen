@@ -8,4 +8,4 @@ module.exports = {
     extend: {},
   },
   plugins: [require("daisyui")], // Add daisyui plugin here
-}
+};
