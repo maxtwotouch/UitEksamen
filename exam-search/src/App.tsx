@@ -17,7 +17,7 @@ function App() {
 
   const fetchExams = async (course_code: string) => {
     setLoading(true)
-    const url = `https://exam-worker.max-51a.workers.dev/exams?course_code=${encodeURIComponent(course_code)}`
+    const url = `http://localhost:3000/exams?course_code=${encodeURIComponent(course_code)}`
     const res = await fetch(url)
     const data = await res.json()
     setExams(data)
